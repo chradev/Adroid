@@ -5,15 +5,13 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 # First real prototypes
 
-## Design simulation
+## Simulated design configurations
 
+<img src="https://github.com/chradev/Adroid/blob/main/assets/AllDesignConfigurations.webp?raw=true" alt="All Design Configurations" width="100%">
 
+## Mechanical design prototypes
 
-
-## Mechanical design
-
-
-
+<img src="https://github.com/chradev/Adroid/blob/main/assets/Prototypes.png?raw=true" alt="Prototypes" width="100%">
 
 # Related projects and links
 
