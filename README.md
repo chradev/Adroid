@@ -17,6 +17,10 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/3D-Printing-Details.png?raw=true" alt="3D Printing Details" width="100%">
 
+## Third party components
+
+<img src="https://github.com/chradev/Adroid/blob/main/assets/AnExternalStaff.png?raw=true" alt="An External Staff" width="100%">
+
 # Related projects and links
 
  * [A simple web application to test different design configurations of STEAM robots](https://github.com/chradev/steam-robot-design-simulator)
