@@ -22,5 +22,8 @@ Adroid is not only a platform but it is also a continuous process intended to ac
  * [A simple web application to test different design configurations of STEAM robots](https://github.com/chradev/steam-robot-design-simulator)
  * [Dual camera, near-real-time, h.264 video streamer from RPi 5 to a bowser](https://github.com/chradev/pi-h264-to-browser-streamer)
  * [Own implementation of open source intelligent robot – startup design notes](https://www.radevs.net/chradev/projects/DesignNotes.pdf)
+ * [Unified ILI9341 Graphic Test](https://github.com/chradev/Unified-ILI9341-Graphic-Test)
+ * [Unified_ili9340_Graphic_Test_plus](https://github.com/chradev/Unified_ili9340_Graphic_Test_plus)
+ * [DrawWithDMA](https://github.com/chradev/DrawWithDMA)
  * [Unified Multicore Low Power IoT Platform](https://www.radevs.net/chradev/projects/Unified_Multicore_Low_Power_IoT_Platform.pdf)
  * Open S.T.E.A.M. initiative - ([En](https://www.radevs.net/chradev/projects/OpenSTEAM.pdf), [Bg](https://www.radevs.net/chradev/projects/OpenSTEAM_bg.pdf))
