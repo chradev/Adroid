@@ -19,7 +19,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 ## Third party components
 
-<img src="https://github.com/chradev/Adroid/blob/main/assets/AnExternalStaff.png?raw=true" alt="An External Staff" width="100%">
+<img src="https://github.com/chradev/Adroid/blob/main/assets/ThirdPartyStaff.png?raw=true" alt="Third Party Staff" width="100%">
 
 # Related projects and links
 
