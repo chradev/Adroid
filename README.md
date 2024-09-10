@@ -11,7 +11,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 ## 3D printing unified details
 
-<img src="https://github.com/chradev/Adroid/blob/main/assets/3D-Printing-Details.png?raw=true" alt="3D Printing Details" width="100%">
+<img src="https://github.com/chradev/Adroid/blob/main/assets/3D-Printing-Details-Gen4.png?raw=true" alt="3D Printing Details" width="100%">
 
 ## Third party components
 
