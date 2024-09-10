@@ -19,7 +19,7 @@ https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/Prototypes-b.png?raw=true" alt="Prototypes" width="100%">
 
-## 3D printing unified details and latest wide mount variant
+## 3D printing unified details and latest wide mount variant with own wheel's design
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/3D-Printing-Details-Gen4-Plus.png?raw=true" alt="3D Printing Details" width="100%">
 
