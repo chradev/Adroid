@@ -7,9 +7,9 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 ## Some software staff developed and/or tets tesed
 
-### A short video of dual camera streaming server with ePTZ control
+### A short video of PT head movement for small robot variant using geared stepper motors controled by RPi Pico's PIO
 
-
+[IMG_1380.webm](https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b)
 
 ### A short video of dual camera streaming server with ePTZ control
 
