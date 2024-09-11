@@ -5,13 +5,13 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 # First real prototypes
 
-## Some software staff developed and/or tets tesed
+## Some software staff developed and/or tets tesed (short videos)
 
-### PT head movement using geared stepper motors controled by RPi Pico PIO (short video)
+### Head and body movement using geared stepper motors controled by RPi Pico PIO
 
 [IMG_1380.webm](https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b)
 
-### Dual camera streaming server with ePTZ control (short video)
+### Dual camera streaming server with ePTZ control
 
 https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c
 
