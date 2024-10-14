@@ -3,6 +3,32 @@
 
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
+# Next steps to be done
+
+## Electrical and mechanical issues
+
+* Schematic of motor drivers for driving wheels motors like auxiliary geared stepper motors;
+* Unification of the motor control based on RPi Pico PIO algorithm by Van Hunter Adams;
+* Modifying of 3D printed driving wheels to use both O-rings and silicone/rubber tires like in Pololu wheels;
+* Unification of sets of motor pairs for driving wheels, head and body movement, including appropriate sensors;
+* Adding of distance, line following and edge sensors to the driving wheels' setup;
+* Adding of a pair of hall sensors for head movement for controlling of end and middle positions;
+* Change from a single to a pair of auxiliary geared stepper motors for body movement (two-arm model);
+* Migration from free wheel ball bearing to nylon pulley with bearing for arms;
+* Adding of a pair of hall and PCB made strain gauge sensors for body movement by arms;
+* Development of a PCB with arm sensors, electronics and geared stepper motors driver;
+* Selecting an appropriate communication interface for both the RPi Pico MCUs and the RPi 5 board;
+* Development and prototyping of appropriate printed circuits boards.
+
+## Software issues
+
+* Splitting of algorithms for deeply embedded applications for dual-core RPi Pico MCUs;
+* Integration of uROS and ROS 2 systems into RPi Pico and RPi 5 firmware;
+* Defining of appropriate configuration and command infrastructure;
+* Implementation of appropriate control algorithms and information structure;
+* Development of interactive user interface based Web Sockets ;
+* Development of a task based interface for high level robot control.
+
 # First real prototypes
 
 ## Some software staff developed and/or tets tesed (short videos)
