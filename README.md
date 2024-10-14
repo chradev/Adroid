@@ -37,29 +37,43 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 ### Head and body movement using geared stepper motors controled by RPi Pico PIO
 
+Van Hunter Adams' algorithm for the RPi Pico PIO is downloaded, built and tested on the head movement auxiliary geared stepper motors in the Small Adroid prototype. For the building of the firmware, it is RPi 5 on the Wide Adroid prototype, with the complete RPi Pico C/C++ SDK and all the required tools to flash it on the target.
+
 [IMG_1380.webm](https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b)
 
 ### Dual camera streaming server with ePTZ control
+
+The video is a compilation of Web Sockets based user interface and remote terminals running corresponding server staff. In addition, almost real time video streaming is observable thanks to embedded synchronized clocks running on both server and used ends.
 
 https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c
 
 ## Mechanical design prototypes
 
+Three real Adroid prototypes (the Small, the Tall and the Wide) are shown. Two of them (the Tall and the Wide) are running Linux and a dual camera streaming server with ePTZ control on their PRi 5 boards. The PRi 5 boards are powered by a 3S UPS PRi module.
+
 <img src="https://github.com/chradev/Adroid/blob/main/assets/Prototypes-b.png?raw=true" alt="Prototypes" width="100%">
 
 ## 3D printed unified details and wide mount variant with own wheel design
+
+It is shown of the second generation of 3D printed unified details including own Pololu like driving wheel with two O-rings. On the photo is shown new prototype variant with two body movement auxiliary geared stepper motors.
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/3D-Printing-Details-Gen4-Plus.png?raw=true" alt="3D Printing Details" width="100%">
 
 ## Third party components
 
+The components shown on the picture are before the second generation of 3D printed unified details and include Pololu wheels and belt geared body movement scheme staff.
+
 <img src="https://github.com/chradev/Adroid/blob/main/assets/ThirdPartyStaff.png?raw=true" alt="Third Party Staff" width="100%">
 
 ## Simulated design configurations
 
+The simulation web application was developed in the very beginning and did not reflect later modification made in prototyping process.
+
 <img src="https://github.com/chradev/Adroid/blob/main/assets/AllDesignConfigurations.webp?raw=true" alt="All Design Configurations" width="100%">
 
 # Related projects and links
+
+Some of the links include staff from different projects, investigations and tests that could be used in the current development process.
 
  * [A simple web application to test different design configurations of STEAM robots](https://github.com/chradev/steam-robot-design-simulator)
  * [Dual camera, near-real-time, h.264 video streamer from RPi 5 to a bowser](https://github.com/chradev/pi-h264-to-browser-streamer)
