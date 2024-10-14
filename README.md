@@ -33,7 +33,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 # First real prototypes
 
-## Some software staff developed and/or tets tesed (short videos)
+## Some software staff developed and/or tested (short videos)
 
 ### Head and body movement using geared stepper motors controled by RPi Pico PIO
 
