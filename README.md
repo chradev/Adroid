@@ -18,7 +18,9 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 * Adding of a pair of hall and PCB made strain gauge sensors for body movement by arms;
 * Development of a PCB with arm sensors, electronics and geared stepper motors driver;
 * Selecting an appropriate communication interface for both the RPi Pico MCUs and the RPi 5 board;
-* Development and prototyping of appropriate printed circuits boards.
+* Development and prototyping of appropriate printed circuits boards;
+* Revising of chosen PRi 5 UPS power supply module;
+* Investigation of the possibility to use a liquid based true color printing system.
 
 ## Software issues
 
