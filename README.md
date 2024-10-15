@@ -49,7 +49,7 @@ https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-
 
 ## Mechanical design prototypes
 
-Three real Adroid prototypes (the Small, the Tall and the Wide) are shown. Two of them (the Tall and the Wide) are running Linux and a dual camera streaming server with ePTZ control on their PRi 5 boards. The PRi 5 boards are powered by a 3S UPS PRi module.
+Three real Adroid prototypes (the Small, the Tall and the Wide) are shown in the picture below. It was chosen to use NEMA 42HB34 stepper motors for main robot movement and 28BYJ-48 as auxiliary geared stepper motors with ULN2003 drivers for body and head movement. The body movement is based on a single geared stepper motor, belt gear based on 16 and 60 teeth GT2 pulleys, and an arm with a pair of ball bearing free wheels. Two of them (the Tall and the Wide) are running Linux and a dual camera streaming server with ePTZ control on their RPi 5 boards. The RPi 5 boards are powered by a 3S Li-Po UPS modules. The head movement (pan only) of these two prototypes is based on a single auxiliary geared stepper motor. The Small Adroid prototype (low budget variant) is using RPi Pico MCUs for stepper motor control, two MCUs with a 2 MP SPI camera, and one for the server staff based on the Seeed Studio XIAO ESP32S3 Sense module with or without an OV2640 camera and microphone. These modules are extremely small (21mm x 17,5mm), have 8MB RAM, 8MB of flash, 2.4GHz Wi-Fi, BLE 5.0 support,  wide set of interfaces, and can be programmed via their USB-C конектор.
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/Prototypes-b.png?raw=true" alt="Prototypes" width="100%">
 
