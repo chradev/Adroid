@@ -37,13 +37,13 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 ### Head and body movement using geared stepper motors controled by RPi Pico PIO
 
-Van Hunter Adams' algorithm for the RPi Pico PIO is downloaded, built and tested on the head movement auxiliary geared stepper motors in the Small Adroid prototype. For the building of the firmware, it is RPi 5 on the Wide Adroid prototype, with the complete RPi Pico C/C++ SDK and all the required tools to flash it on the target.
+Van Hunter Adams' algorithm for the RPi Pico PIO is downloaded, built and tested on the head movement auxiliary geared stepper motors in the Small Adroid prototype. For the building of the firmware, it is used Linux on RPi 5 at the Wide Adroid prototype, with the complete RPi Pico C/C++ SDK and all the required tools to flash it on the target.
 
 [IMG_1380.webm](https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b)
 
 ### Dual camera streaming server with ePTZ control
 
-The video is a compilation of Web Sockets based user interface and remote terminals running corresponding server staff. In addition, almost real time video streaming is observable thanks to embedded synchronized clocks running on both server and used ends.
+The video is a compilation of Web Sockets based user interface and remote terminals running corresponding server staff. In addition, almost real time video streaming is observable thanks to embedded synchronized clocks running on both server and user ends.
 
 https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c
 
@@ -55,7 +55,7 @@ Three real Adroid prototypes (the Small, the Tall and the Wide) are shown. Two o
 
 ## 3D printed unified details and wide mount variant with own wheel design
 
-It is shown of the second generation of 3D printed unified details including own Pololu like driving wheel with two O-rings. On the photo is shown new prototype variant with two body movement auxiliary geared stepper motors.
+It is shown the second generation of 3D printed unified details including own Pololu like driving wheel with two O-rings. On the photo is shown new prototype variant with two body movement auxiliary geared stepper motors.
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/3D-Printing-Details-Gen4-Plus.png?raw=true" alt="3D Printing Details" width="100%">
 
@@ -67,7 +67,7 @@ The components shown on the picture are before the second generation of 3D print
 
 ## Simulated design configurations
 
-The simulation web application was developed in the very beginning and did not reflect later modification made in prototyping process.
+The simulation web application was developed in the very beginning and did not reflect later modifications made in prototyping process.
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/AllDesignConfigurations.webp?raw=true" alt="All Design Configurations" width="100%">
 
