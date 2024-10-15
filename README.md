@@ -37,25 +37,25 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 ### Head and body movement using geared stepper motors controled by RPi Pico PIO
 
-Van Hunter Adams' algorithm for the RPi Pico PIO is downloaded, built and tested on the head movement auxiliary geared stepper motors in the Small Adroid prototype. For the building of the firmware, it is used Linux on RPi 5 at the Wide Adroid prototype, with the complete RPi Pico C/C++ SDK and all the required tools to flash it on the target.
+Van Hunter Adams' algorithm for the RPi Pico PIO is downloaded, built and tested on the head and body movement auxiliary geared stepper motors in the Small Adroid prototype. For the building of the firmware, it is used Linux OS on the RPi 5 board at the Wide Adroid prototype, with the complete RPi Pico C/C++ SDK and all the required tools to build and flash it on the target.
 
 [IMG_1380.webm](https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b)
 
 ### Dual camera streaming server with ePTZ control
 
-The video is a compilation of Web Sockets based user interface and remote terminals running corresponding server staff. In addition, almost real time video streaming is observable thanks to embedded synchronized clocks running on both server and user ends.
+The video is a compilation of Web Sockets based user interface and remote terminals running corresponding server staff. In addition, almost real time video streaming is observable thanks to embedded and synchronized clocks running on both server and user ends.
 
 https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c
 
 ## Mechanical design prototypes
 
-Three real Adroid prototypes (the Small, the Tall and the Wide) are shown in the picture below. It was chosen to use NEMA 42HB34 stepper motors for main robot movement and 28BYJ-48 as auxiliary geared stepper motors with ULN2003 drivers for body and head movement. The body movement is based on a single geared stepper motor, belt gear based on 16 and 60 teeth GT2 pulleys, and an arm with a pair of ball bearing free wheels. Two of them (the Tall and the Wide) are running Linux and a dual camera streaming server with ePTZ control on their RPi 5 boards. The RPi 5 boards are powered by a 3S Li-Po UPS modules. The head movement (pan only) of these two prototypes is based on a single auxiliary geared stepper motor. The Small Adroid prototype (low budget variant) is using RPi Pico MCUs for stepper motor control, two MCUs with a 2 MP SPI camera, and one for the server staff based on the Seeed Studio XIAO ESP32S3 Sense module with or without an OV2640 camera and microphone. These modules are extremely small (21mm x 17,5mm), have 8MB RAM, 8MB of flash, 2.4GHz Wi-Fi, BLE 5.0 support,  wide set of interfaces, and can be programmed via their USB-C конектор.
+Three real Adroid prototypes (the Small, the Tall and the Wide) are shown in the picture below. It was chosen to use NEMA 42HB34 stepper motors for the main robot movement and 28BYJ-48 geared stepper motors as auxiliary with ULN2003 drivers for body and head movement. The body movement is based on a single stepper motor, belt gear based on 16- and 60-tooth GT2 pulleys, and an arm with a pair of ball bearing free wheels on springs. Two of them (the Tall and the Wide) are running Linux OS and a dual camera streaming server with ePTZ control written on Python on their RPi 5 boards. The RPi 5 boards are powered by 3S Li-Po UPS modules. The head movement (pan only) of these two prototypes is based on a single auxiliary geared stepper motor. The Small Adroid prototype (low budget variant) contains three RPi Pico MCUs and ULN2003 drivers for stepper motor control, two MCUs with a 2 MP OV2640 SPI camera and microphone each, and one for the server staff based on the Seeed Studio XIAO ESP32S3 Sense modules. All these modules are extremely small (21mm x 17,5mm), have 8MB RAM, 8MB of flash, 2.4GHz Wi-Fi, BLE 5.0, a wide set of interfaces, and can be programmed via their USB-C конектор.
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/Prototypes-b.png?raw=true" alt="Prototypes" width="100%">
 
 ## 3D printed unified details and wide mount variant with own wheel design
 
-It is shown the second generation of 3D printed unified details including own Pololu like driving wheel with two O-rings. On the photo is shown new prototype variant with two body movement auxiliary geared stepper motors.
+In the picture below is shown the second generation of 3D printed unified details, including own Pololu like driving wheel with two O-rings, hub and 60-tooth GT2 pulley. It is planned instead of a single motor with belt gear and a single arm with a pair of free ball bearing wheels for body movement to use a dual arm scheme with a directly coupled geared stepper motor, a nylon pulley with bearing, a PCB made strain gauge, and a pair of hall sensors for each arm. On the photo is shown a new prototype variant with two body movement auxiliary geared stepper motors;
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/3D-Printing-Details-Gen4-Plus.png?raw=true" alt="3D Printing Details" width="100%">
 
