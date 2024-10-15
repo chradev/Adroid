@@ -43,7 +43,7 @@ Van Hunter Adams' algorithm for the RPi Pico PIO is downloaded, built and tested
 
 ### Dual camera streaming server with ePTZ control
 
-The video is a compilation of Web Sockets based user interface and remote terminals running corresponding server staff. In addition, almost real time video streaming is observable thanks to embedded and synchronized clocks running on both server and user ends.
+The video is a compilation of a user interface based Web Sockets and remote terminals running corresponding server staff and shows the real time ePTZ control of both cameras. In addition, the almost real time video streaming and its low latency are observable thanks to embedded and synchronized clocks running at both server and user ends.
 
 https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c
 
