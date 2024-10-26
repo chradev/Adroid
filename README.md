@@ -5,9 +5,11 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 # More new ideas
 
-## Using Active Ball Joint Mechnism for head movement
+## Using Active Ball Joint Mechanism for head movement
 
-<img src="https://github.com/chradev/Adroid/blob/main/assets/ActiveBeallJoint.png?raw=true" alt="Active Beall Joint Mechanism" width="100%">
+Using the idea of an active ball joint mechanism in combination with the motor control based on the RPi Pico PIO algorithm proposed by Van Hunter Adams will make extremely efficient head movement functionality.
+
+<img src="https://github.com/chradev/Adroid/blob/main/assets/ActiveBeallJoint-1.png?raw=true" alt="Active Beall Joint Mechanism" width="100%">
 
 
 # Next steps to be done
