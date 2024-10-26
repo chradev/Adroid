@@ -3,6 +3,13 @@
 
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
+# More new ideas
+
+## Using Active Ball Joint Mechnism for head movement
+
+<img src="https://github.com/chradev/Adroid/blob/main/assets/ActiveBeallJoint.png?raw=true" alt="Active Beall Joint Mechanism" width="100%">
+
+
 # Next steps to be done
 
 ## Electrical and mechanical issues
