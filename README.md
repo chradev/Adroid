@@ -11,6 +11,15 @@ Using the idea of an active ball joint mechanism in combination with the motor c
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/ActiveBeallJoint-2.png?raw=true" alt="Active Beall Joint Mechanism" width="100%">
 
+## Some alternatives it can be assessed and/or tested
+
+Alternatives to be assessed and tested:
+* Captain (rope) gear for body movement using two arms schematics
+* Strain gauge sensor made as PCB including all electronic staff
+* Absolute positioning rotational sensor (360 degree) for head and arms
+
+<img src="https://github.com/chradev/Adroid/blob/main/assets/SameAlteratives.png?raw=true" alt="Same Alteratives" width="100%">
+
 
 # Next steps to be done
 
