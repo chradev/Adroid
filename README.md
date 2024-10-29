@@ -42,7 +42,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 <tr >
     <td style="text-align: end;" > Vision PTZ and head control </td>
     <td >  Auxiliary computer with 1-2x geared stepper motors and position sensors </td>
-    <td colspan="2" > Auxiliary computer with 1-4x geared stepper motors, optional active ball joint mechanism, position sensors ePTZ based on camera control </td></tr>
+    <td colspan="2" > Auxiliary computer with 1-4x geared stepper motors, optional active ball joint mechanism, position sensors and ePTZ based on camera control </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Body slope control </td>
     <td colspan="3" >  Auxiliary computer with 1-2x geared stepper motors and strength and position sensors </td></tr>
