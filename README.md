@@ -8,19 +8,11 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 <table style="overflow-y: hidden; width: 100%;height: 100%;text-align: center; border:1px; border-collapse: collapse;">
 <thead>
 <tr style="background-color: #f0f0c0;">
-    <th rowspan="2" width="25%" style="text-align: center;" > Adroid robot <br> variant / feature </th>
-    <th width="25%" style="text-align: center;" > Low budget Adroid robots </th>
-    <th colspan="2" style="text-align: center;" > Advanced Adroid robots </th></tr>
-<tr style="background-color: #f0f0c0;">
-    <th width="25%" style="text-align: center;" > the Small </th>
-    <th width="25%" style="text-align: center;" > the Tall </th>
-    <th width="25%" style="text-align: center;" > The Wide </th></tr>
+    <th width="25%" style="text-align: center;" > Adroid robot <br> variant / feature </th>
+    <td style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></td>
+    <td style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theTall.png?raw=true" width="auto" height="240px" ></td>
+    <td style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide.png?raw=true" width="auto" height="240px" ></td></tr>
 </thead><tbody>
-<tr>
-    <td style="text-align: end;" > Prototype </td>
-    <td style="align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></td>
-    <td style="align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theTall.png?raw=true" width="auto" height="240px" ></td>
-    <td style="align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide.png?raw=true" width="auto" height="240px" ></td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Main computer hardware </td>
     <td > Seeed Studio XIAO ESP32S3 Sense module </td>
