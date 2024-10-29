@@ -11,6 +11,10 @@ Using the idea of an active ball joint mechanism in combination with the motor c
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/ActiveBeallJoint-2.png?raw=true" alt="Active Beall Joint Mechanism" width="100%">
 
+The absolute positioning can be based on the measurement and the processing of the 3 spatial components of the magnetic flux density vector (i.e. BX, BY and BZ). Melexis has a long list of 2D and 3D sensing devices, like the one shown in the picture below.
+
+<img src="https://github.com/chradev/Adroid/blob/main/assets/3dPositioningMelexis.png?raw=true" alt="Active Beall Joint Mechanism" width="100%">
+
 ## Applying the Transformer's idea to body movement
 
 The ability to transform the robot from four-wheeled (2 driving and 2 auxiliary wheels) to two-wheeled balancing variant can be realized by adding auxiliary wheels to the robot arms. Some sensors, like an absolute positioning rotational sensor (360 degrees) and a strain gauge sensor to measure the reaction force, will help to enlarge precision of the body movement.
