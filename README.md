@@ -16,7 +16,6 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <th width="25%" style="text-align: center;" > the Small </th>
     <th width="25%" style="text-align: center;" > the Tall </th>
     <th width="25%" style="text-align: center;" > The Wide </th></tr>
-</thead><tbody>
 <tr>
     <td style="text-align: end;" > Prototype </td>
     <td style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></td>
@@ -61,6 +60,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Power control </td>
     <td colspan="3" > 3S LiPo battery, UPS like power control and wireless battery charger </td></tr>
+</thead><tbody>
 </table>
 
 
