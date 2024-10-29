@@ -5,7 +5,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 # More new ideas
 
-## Using Active Ball Joint Mechanism for head movement
+## Use Active Ball Joint Mechanism for head movement
 
 Using the idea of an active ball joint mechanism in combination with the motor control based on the RPi Pico PIO algorithm proposed by Van Hunter Adams will make head movement functionality extremely efficient.
 
