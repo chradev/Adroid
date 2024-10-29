@@ -12,11 +12,11 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></th>
     <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theTall.png?raw=true" width="auto" height="240px" ></th>
     <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide.png?raw=true" width="auto" height="240px" ></th></tr>
-<tr >
-    <th width="25%" style="text-align: end;"> Budget variant </th>
-    <th width="25%" style="text-align: center;"> Low budget variant </th>
-    <th colspan="2" style="text-align: center;"> Advanced variant </th></tr>
 </thead><tbody>
+<tr >
+    <td width="25%" style="text-align: end;"> Budget variant </td>
+    <td width="25%" style="text-align: center;"> Low budget variant </td>
+    <td colspan="2" style="text-align: center;"> Advanced variant </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Main computer hardware </td>
     <td > Seeed Studio XIAO ESP32S3 Sense module </td>
