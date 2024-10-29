@@ -18,9 +18,9 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <td > Seeed Studio XIAO ESP32S3 Sense module </td>
     <td colspan="2" > RPi 5 SBC </td></tr>
 <tr >
-    <td style="text-align: end;" > Main computer OS </td>
-    <td > Free RTOS </td>
-    <td colspan="2" > Linux </td></tr>
+    <td style="text-align: end;" > Main computer Software </td>
+    <td > Free RTOS, C/C++ </td>
+    <td colspan="2" > Linux, C/C++, Python, JavaScript </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Auxiliary computer hardware </td>
     <td colspan="3" > RPi Pico module </td></tr>
