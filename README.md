@@ -29,7 +29,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <td colspan="3" > RPi Pico PIO and multicore features </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Vision hardware </td>
-    <td > 1-2x Seeed Studio XIAO ESP32S3 Sense module with 2 MP OV2640 SPI camera </td>
+    <td > 1-2x Seeed Studio XIAO ESP32S3 Sense module with 2&nbsp;MP OV2640 SPI camera </td>
     <td colspan="2" > 1-5x RPi or Arducam 8, 16 or 64 MP cameras connected to RPi 5 </td></tr>
 <tr >
     <td style="text-align: end;" > Vision Software </td>
