@@ -25,7 +25,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <td style="text-align: end;" > Auxiliary computer hardware </td>
     <td colspan="3" > RPi Pico module </td></tr>
 <tr >
-    <td style="text-align: end;" > Auxiliary computer OS </td>
+    <td style="text-align: end;" > Auxiliary computer Software </td>
     <td colspan="3" > RPi Pico PIO and multicore features </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Vision hardware </td>
