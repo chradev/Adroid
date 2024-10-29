@@ -9,9 +9,9 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 <thead>
 <tr >
     <th width="28%" style="text-align: center;" > Adroid robot variant <br> / feature </th>
-    <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></th>
-    <th width="22%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theTall.png?raw=true" width="auto" height="240px" ></th>
-    <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide.png?raw=true" width="auto" height="240px" ></th></tr>
+    <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="200px" ></th>
+    <th width="22%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theTall.png?raw=true" width="auto" height="200px" ></th>
+    <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide.png?raw=true" width="auto" height="200px" ></th></tr>
 </thead><tbody>
 <tr >
     <td style="text-align: end;"> Pricing </td>
