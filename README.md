@@ -19,9 +19,9 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 </thead><tbody>
 <tr>
     <td style="text-align: end;" > Prototype </td>
-    <td> <img src="theSmall.png" width="auto" height="240px" ></td>
-    <td> <img src="theTall.png" width="auto" height="240px" ></td>
-    <td> <img src="theWide.png" width="auto" height="240px" ></td></tr>
+    <td> <img src="https://github.com/chradev/pi-h264-to-browser-streamer/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></td>
+    <td> <img src="https://github.com/chradev/pi-h264-to-browser-streamer/blob/main/assets/theTall.png?raw=true" width="auto" height="240px" ></td>
+    <td> <img src="https://github.com/chradev/pi-h264-to-browser-streamer/blob/main/assets/theWide.png?raw=true" width="auto" height="240px" ></td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Main computer hardware </td>
     <td > Seeed Studio XIAO ESP32S3 Sense module </td>
