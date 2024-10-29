@@ -22,38 +22,42 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <td > Free RTOS, C/C++ </td>
     <td colspan="2" > Linux, C/C++, Python, JavaScript </td></tr>
 <tr style="background-color: #fcfccc;">
+    <td style="text-align: end;" > Dispaly devices </td>
+    <td > 3.2" TFT SPI or 4-5" TFT HDMI display <br> and RPi Pico module </td>
+    <td colspan="2" > 5-7" TFT HDMI display or multimedia projector  </td></tr>
+
+<tr >
     <td style="text-align: end;" > Auxiliary computer hardware </td>
     <td colspan="3" > RPi Pico module </td></tr>
-<tr >
+<tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Auxiliary computer software </td>
     <td colspan="3" > C/C++, RPi Pico multicore and PIO features </td></tr>
-<tr style="background-color: #fcfccc;">
+<tr >
     <td style="text-align: end;" > Vision hardware </td>
     <td > 1-2x Seeed Studio XIAO ESP32S3 Sense module with 2&nbsp;MP OV2640 SPI camera </td>
     <td colspan="2" > 1-5x RPi or Arducam 8, 16 or 64 MP cameras connected to RPi 5 </td></tr>
-<tr >
+<tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Vision software </td>
     <td > Free RTOS, C/C++ and WS based MJPEG streaming </td>
     <td colspan="2" > Linux, C/C++, Python, WS based h264 streaming server </td></tr>
-<tr style="background-color: #fcfccc;">
+<tr >
     <td style="text-align: end;" > Vision PTZ and head control </td>
     <td >  Auxiliary computer with <br> 1-2x geared stepper motors <br> and position sensors </td>
     <td colspan="2" > Auxiliary computer with 1-4x geared stepper motors, <br> optional active ball joint mechanism, position sensors <br> ePTZ based on camera control </td></tr>
-<tr >
+<tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Body slope control </td>
     <td colspan="3" >  Auxiliary computer with 1-2x geared stepper motors and strength and position sensors </td></tr>
-<tr style="background-color: #fcfccc;">
+<tr >
     <td style="text-align: end;" > Control of the main movement </td>
     <td colspan="3" >  Auxiliary computer with 2x stepper motors and multiple sensors </td></tr>
-<tr >
+<tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Painting system </td>
     <td > Single pen system </td>
     <td colspan="2" > Multiple-pen or liquid multicolor jet system </td></tr>
-<tr style="background-color: #fcfccc;">
+<tr >
     <td style="text-align: end;" > Power control </td>
     <td colspan="3" > 3S LiPo battery, UPS like power control and wireless battery charger </td></tr>
 </tbody></table>
-
 
 # More new ideas
 
