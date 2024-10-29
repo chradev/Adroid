@@ -5,7 +5,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 # Adroid robots comparison table
 
-<table style="overflow-y: hidden; width: 100%;height: 100%;text-align: center; border:1px; border-collapse: collapse;">
+<table style="overflow-y: hidden; width: 100%;height: 100%;font-size:12;text-align: center; border:1px; border-collapse: collapse;">
 <thead>
 <tr >
     <th width="25%" style="text-align: center;" > Adroid robot variant <br> / feature </th>
