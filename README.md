@@ -16,7 +16,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 <tr >
     <td width="25%" style="text-align: end;"> Pricing </td>
     <td width="25%" style="text-align: center;"> Low budget variant </td>
-    <td colspan="2" style="text-align: center;"> Advanced variant </td></tr>
+    <td colspan="2" style="text-align: center;"> Advanced variants </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Main computer hardware </td>
     <td > Seeed Studio XIAO ESP32S3 Sense module </td>
@@ -38,7 +38,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 <tr >
     <td style="text-align: end;" > Vision hardware </td>
     <td > 1-2x Seeed Studio XIAO ESP32S3 Sense module with 2&nbsp;MP OV2640 SPI camera </td>
-    <td colspan="2" > 1-5x RPi or Arducam 8, 16 or 64 MP cameras connected to RPi 5 </td></tr>
+    <td colspan="2" > 1-5x RPi or Arducam 8, 16 or 64 MP CSI cameras connected to RPi 5 </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Vision software </td>
     <td > Free RTOS, C/C++ and WS based MJPEG streaming </td>
