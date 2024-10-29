@@ -8,7 +8,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 <table style="overflow-y: hidden; width: 100%;height: 100%;text-align: center; border:1px; border-collapse: collapse;">
 <thead>
 <tr >
-    <th width="25%" style="text-align: center;" > Adroid robot <br><br> variant / <br> feature </th>
+    <th width="25%" style="text-align: center;" > Adroid robot variant <br> / feature </th>
     <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></th>
     <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theTall.png?raw=true" width="auto" height="240px" ></th>
     <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide.png?raw=true" width="auto" height="240px" ></th></tr>
