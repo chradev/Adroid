@@ -16,16 +16,15 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Main computer hardware </td>
     <td > Seeed Studio XIAO ESP32S3 Sense module </td>
-    <td colspan="2" > RPi 5 SBC </td></tr>
+    <td colspan="2" > RPi 5 SBC, active cooling, NVMe SSD </td></tr>
 <tr >
     <td style="text-align: end;" > Main computer software </td>
     <td > Free RTOS, C/C++ </td>
     <td colspan="2" > Linux, C/C++, Python, JavaScript </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Dispaly devices </td>
-    <td > 3.2" TFT SPI or 4-5" TFT HDMI display <br> and RPi Pico module </td>
+    <td > 3.2" TFT SPI or 4-5" TFT HDMI display and RPi Pico module </td>
     <td colspan="2" > 5-7" TFT HDMI display or multimedia projector  </td></tr>
-
 <tr >
     <td style="text-align: end;" > Auxiliary computer hardware </td>
     <td colspan="3" > RPi Pico module </td></tr>
@@ -42,8 +41,8 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <td colspan="2" > Linux, C/C++, Python, WS based h264 streaming server </td></tr>
 <tr >
     <td style="text-align: end;" > Vision PTZ and head control </td>
-    <td >  Auxiliary computer with <br> 1-2x geared stepper motors <br> and position sensors </td>
-    <td colspan="2" > Auxiliary computer with 1-4x geared stepper motors, <br> optional active ball joint mechanism, position sensors <br> ePTZ based on camera control </td></tr>
+    <td >  Auxiliary computer with 1-2x geared stepper motors and position sensors </td>
+    <td colspan="2" > Auxiliary computer with 1-4x geared stepper motors, optional active ball joint mechanism, position sensors ePTZ based on camera control </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Body slope control </td>
     <td colspan="3" >  Auxiliary computer with 1-2x geared stepper motors and strength and position sensors </td></tr>
