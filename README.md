@@ -33,7 +33,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <td colspan="2" > 1-5x RPi or Arducam 8, 16 or 64 MP cameras connected to RPi 5 </td></tr>
 <tr >
     <td style="text-align: end;" > Vision software </td>
-    <td > C/C++, Free RTOS and WS based MJPEG streaming </td>
+    <td > Free RTOS, C/C++ and WS based MJPEG streaming </td>
     <td colspan="2" > Linux, C/C++, Python, WS based h264 streaming server </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Vision PTZ and head control </td>
