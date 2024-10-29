@@ -18,23 +18,23 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <td > Seeed Studio XIAO ESP32S3 Sense module </td>
     <td colspan="2" > RPi 5 SBC </td></tr>
 <tr >
-    <td style="text-align: end;" > Main computer Software </td>
+    <td style="text-align: end;" > Main computer software </td>
     <td > Free RTOS, C/C++ </td>
     <td colspan="2" > Linux, C/C++, Python, JavaScript </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Auxiliary computer hardware </td>
     <td colspan="3" > RPi Pico module </td></tr>
 <tr >
-    <td style="text-align: end;" > Auxiliary computer Software </td>
-    <td colspan="3" > RPi Pico PIO and multicore features </td></tr>
+    <td style="text-align: end;" > Auxiliary computer software </td>
+    <td colspan="3" > C/C++, RPi Pico multicore and PIO features </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Vision hardware </td>
     <td > 1-2x Seeed Studio XIAO ESP32S3 Sense module with 2&nbsp;MP OV2640 SPI camera </td>
     <td colspan="2" > 1-5x RPi or Arducam 8, 16 or 64 MP cameras connected to RPi 5 </td></tr>
 <tr >
-    <td style="text-align: end;" > Vision Software </td>
-    <td > Free RTOS and WS based MJPEG streaming </td>
-    <td colspan="2" > Linux, Python, WS based h264 streaming server </td></tr>
+    <td style="text-align: end;" > Vision software </td>
+    <td > C/C++, Free RTOS and WS based MJPEG streaming </td>
+    <td colspan="2" > Linux, C/C++, Python, WS based h264 streaming server </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Vision PTZ and head control </td>
     <td >  Auxiliary computer with <br> 1-2x geared stepper motors <br> and position sensors </td>
