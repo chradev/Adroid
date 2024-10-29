@@ -9,7 +9,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 The ability to transform the robot from four-wheeled (2 driving and 2 auxiliary wheels) to two-wheeled balancing variant can be realized by adding auxiliary wheels to the robot arms. Some sensors, like an absolute positioning rotational sensor (360 degrees) and a strain gauge sensor to measure the reaction force, will help to enlarge precision of the body movement.
 
-<img src="https://github.com/chradev/Adroid/blob/main/assets/TransformerIdea.png?raw=true" alt="Active Beall Joint Mechanism" width="100%">
+<img src="https://github.com/chradev/Adroid/blob/main/assets/TransformersIdea.png?raw=true" alt="Active Beall Joint Mechanism" width="100%">
 
 ## Using Active Ball Joint Mechanism for head movement
 
