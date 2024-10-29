@@ -3,6 +3,67 @@
 
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
+# Adroid robots comparison table
+
+<table style="overflow-y: hidden; width: 100%;height: 100%;text-align: center; border:1px; border-collapse: collapse;">
+<thead>
+<tr style="background-color: #f0f0c0;">
+    <th width="25%" style="text-align: center;" > Adroid robot </th>
+    <th width="25%" style="text-align: center;" > Low budget Adroid robots </th>
+    <th colspan="2" style="text-align: center;" > Advanced Adroid robots </th></tr>
+<tr style="background-color: #f0f0c0;">
+    <th width="25%" style="text-align: center;" > variant / feature </th>
+    <th width="25%" style="text-align: center;" > the Small </th>
+    <th width="25%" style="text-align: center;" > the Tall </th>
+    <th width="25%" style="text-align: center;" > The Wide </th></tr>
+</thead><tbody>
+<tr>
+    <td style="text-align: end;" > Prototype </td>
+    <td> <img src="theSmall.png" width="auto" height="240px" ></td>
+    <td> <img src="theTall.png" width="auto" height="240px" ></td>
+    <td> <img src="theWide.png" width="auto" height="240px" ></td></tr>
+<tr style="background-color: #fcfccc;">
+    <td style="text-align: end;" > Main computer hardware </td>
+    <td > Seeed Studio XIAO ESP32S3 Sense module </td>
+    <td colspan="2" > RPi 5 SBC </td></tr>
+<tr >
+    <td style="text-align: end;" > Main computer OS </td>
+    <td > Free RTOS </td>
+    <td colspan="2" > Linux </td></tr>
+<tr style="background-color: #fcfccc;">
+    <td style="text-align: end;" > Auxiliary computer hardware </td>
+    <td colspan="3" > RPi Pico module </td></tr>
+<tr >
+    <td style="text-align: end;" > Auxiliary computer OS </td>
+    <td colspan="3" > RPi Pico PIO and multicore features </td></tr>
+<tr style="background-color: #fcfccc;">
+    <td style="text-align: end;" > Vision hardware </td>
+    <td > 2x Seeed Studio XIAO ESP32S3 Sense <br> module with 2 MP OV2640 SPI camera </td>
+    <td colspan="2" > 1-5x RPi or Arducam 8, 16 or 64 MP cameras connected to RPi 5 </td></tr>
+<tr >
+    <td style="text-align: end;" > Vision Software </td>
+    <td > Free RTOS and WS based MJPEG streaming </td>
+    <td colspan="2" > Linux, Python, WS based h264 streaming server </td></tr>
+<tr style="background-color: #fcfccc;">
+    <td style="text-align: end;" > Vision PTZ and head control </td>
+    <td >  Auxiliary computer with <br> 1-2x geared stepper motors <br> and position sensors </td>
+    <td colspan="2" > Auxiliary computer with 1-4x geared stepper motors, <br> optional active ball joint mechanism, position sensors <br> ePTZ based on camera control </td></tr>
+<tr >
+    <td style="text-align: end;" > Body slope control </td>
+    <td colspan="3" >  Auxiliary computer with 1-2x geared stepper motors and strength and position sensors </td></tr>
+<tr style="background-color: #fcfccc;">
+    <td style="text-align: end;" > Main movement control </td>
+    <td colspan="3" >  Auxiliary computer with 2x stepper motors and multiple sensors </td></tr>
+<tr >
+    <td style="text-align: end;" > Painting system </td>
+    <td > Single pen system </td>
+    <td colspan="2" > Multiple-pen or liquid multicolor jet system </td></tr>
+<tr style="background-color: #fcfccc;">
+    <td style="text-align: end;" > Power control </td>
+    <td colspan="3" > 3S LiPo battery, UPS like power control and wireless battery charger </td></tr>
+</table>
+
+
 # More new ideas
 
 ## Use Active Ball Joint Mechanism for head movement
