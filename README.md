@@ -8,10 +8,13 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 <table style="overflow-y: hidden; width: 100%;height: 100%;text-align: center; border:1px; border-collapse: collapse;">
 <thead>
 <tr >
-    <th width="25%" style="text-align: center;" > Adroid robot variant <br> / feature </th>
+    <th rowspan="2" width="25%" style="text-align: center;" > Adroid robot variant <br> / feature </th>
     <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></th>
     <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theTall.png?raw=true" width="auto" height="240px" ></th>
     <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide.png?raw=true" width="auto" height="240px" ></th></tr>
+<tr >
+    <th width="25%" style="text-align: center;"> Low budget variant </th>
+    <th colspan="2" style="text-align: center;"> Advanced variant </th></tr>
 </thead><tbody>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Main computer hardware </td>
