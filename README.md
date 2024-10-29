@@ -8,14 +8,14 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 <table style="overflow-y: hidden; width: 100%;height: 100%;text-align: center; border:1px; border-collapse: collapse;">
 <thead>
 <tr style="background-color: #f0f0c0;">
-    <th width="25%" style="text-align: center;" > Adroid robot </th>
+    <th rowspan="2" width="25%" style="text-align: center;" > Adroid robot <br> variant / feature </th>
     <th width="25%" style="text-align: center;" > Low budget Adroid robots </th>
     <th colspan="2" style="text-align: center;" > Advanced Adroid robots </th></tr>
 <tr style="background-color: #f0f0c0;">
-    <th width="25%" style="text-align: center;" > variant / feature </th>
     <th width="25%" style="text-align: center;" > the Small </th>
     <th width="25%" style="text-align: center;" > the Tall </th>
     <th width="25%" style="text-align: center;" > The Wide </th></tr>
+</thead><tbody>
 <tr>
     <td style="text-align: end;" > Prototype </td>
     <td style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></td>
@@ -60,8 +60,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Power control </td>
     <td colspan="3" > 3S LiPo battery, UPS like power control and wireless battery charger </td></tr>
-</thead><tbody>
-</table>
+</tbody></table>
 
 
 # More new ideas
