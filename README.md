@@ -51,7 +51,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <td style="text-align: end;" > Body slope control </td>
     <td colspan="3" >  Auxiliary computer with 1-2x geared stepper motors and strength and position sensors </td></tr>
 <tr >
-    <td style="text-align: end;" > Control of the main movement </td>
+    <td style="text-align: end;" > Main movement control </td>
     <td colspan="3" >  Auxiliary computer with 2x stepper motors and multiple sensors </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Painting system </td>
