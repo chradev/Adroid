@@ -44,23 +44,23 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <td > Free RTOS, C/C++ and WS based MJPEG streaming </td>
     <td colspan="2" > Linux, C/C++, Python, WS based h264 streaming server </td></tr>
 <tr >
+    <td style="text-align: end;" > Sound system </td>
+    <td > External sound card and built-in camera microphones </td>
+    <td colspan="2" > Speakers connected to HDMI display and microphones controlled by RPi 5 </td></tr>
+<tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Vision PTZ and head control </td>
     <td >  Auxiliary computer with 1-2x geared stepper motors and position sensors </td>
     <td colspan="2" > Auxiliary computer with 1-4x geared stepper motors, optional active ball joint mechanism, 3D position sensors and ePTZ based on camera control </td></tr>
-<tr style="background-color: #fcfccc;">
+<tr >
     <td style="text-align: end;" > Body slope control </td>
     <td colspan="3" >  Auxiliary computer with 1-2x geared stepper motors and strength and position sensors </td></tr>
-<tr >
+<tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Main movement control </td>
     <td colspan="3" >  Auxiliary computer with 2x stepper motors and distance, line following, edge etc. sensors </td></tr>
-<tr style="background-color: #fcfccc;">
+<tr >
     <td style="text-align: end;" > Painting system </td>
     <td > Single pen system </td>
     <td colspan="2" > Multiple-pen or liquid multicolor jet system </td></tr>
-<tr >
-    <td style="text-align: end;" > Hearing and speech systems </td>
-    <td > Built-in camera microphones and external sound card </td>
-    <td colspan="2" > Speakers connected to HDMI display and microphones controlled by RPi 5 </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Power control </td>
     <td colspan="3" > 3S LiPo battery, wireless charger and UPS like power control </td></tr>
