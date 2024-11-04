@@ -3,7 +3,9 @@
 
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
-# Adroid robots comparison table
+# Adroid robots comparison tables
+
+## Adroid robot variants
 
 <table style="overflow-y: hidden; width: 100%;height: 100%;font-size:0.9em;text-align: center; border:1px; border-collapse: collapse;">
 <thead>
@@ -64,6 +66,75 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Power control </td>
     <td colspan="3" > 3S LiPo battery, wireless charger and UPS like power control </td></tr>
+</tbody></table>
+
+## Adroid robot main computer variants
+
+<table style="overflow-y: hidden; width: 100%;font-size:0.9em;text-align: center; border:1px; border-collapse: collapse;">
+<thead><tr >
+<th width="28%" style="text-align: center;vertical-align: middle;" > Adroid robot <br> main computer <br> variant / feature </th>
+<th width="25%" style="text-align: center;vertical-align: top;"> Seeed Studio XIAO ESP32S3 <br> (Multiply MCUs & FreeRTOS) <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/XIAO-ESP32-S3_1.jpg?raw=true" width="100%" height="auto" > <br> 
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="100%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/xiaoesp32s3sense.jpg?raw=true" width="100%" height="auto" > <br>
+                                             2x Seeed Studio XIAO ESP32S3 Sense with OV2640 camera and microphone<br> 
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="45%" height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/3.2tftspiDisplay.jpg?raw=true" width="45%" height="auto" > <br>
+                                             RP2040-Zero and 3.2" TFT 320x240 SPI built-in display<br>
+                                             </th>
+<th width="22%" style="text-align: center;vertical-align: top;"> Raspberry's RPi Zero 2 W <br> (Single SBC & Linux OS) <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/raspberry-pi-zero-2-w.jpg?raw=true" width="100%" height="auto" > <br> 
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/eth-usb-hub-hat.jpg?raw=true" width="100%" height="auto" <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/usb3-card-reader.jpg?raw=true" width="45%" height="auto" >  
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sandisk-extreme-pro-64-768x768.webp?raw=true" width="45%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="100%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/B016601-1.jpg?raw=true" width="55%" height="auto" > 
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RaspberryPi_8MP_CAM_V2.jpg?raw=true" width="35%" height="auto" > <br>
+                                             Stereo Camera Module V2 and 2x 5/8/12MP RPi Cameras  (different options) <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="45%" height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="45%" height="auto" > <br>
+                                             5" / 7" HDMI built-in display (different options)
+                                             </th>
+<th width="25%" style="text-align: center;vertical-align: top;"> Raspberry's RPi 5 <br> (Single SBC & Linux OS) <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/raspberry-pi-5.jpg?raw=true" width="100%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RPi_5_active_cooler-1-768x768.jpg?raw=true" width="100%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pcie-to-2-ch-m2-hat-plus.webp?raw=true" width="45%" height="auto" > 
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sk-nvme-2242-256g-ssd-m2.webp?raw=true" width="45%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="100%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="45%" height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/camera-imx519.webp?raw=true" width="45%" height="auto" > <br>
+                                             2x 8/16/64MP cammeras (different options) <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="45%" height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="45%" height="auto" > <br>
+                                             5" / 7" HDMI built-in display (different options)
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/UltraMiniProjector.webp?raw=true" width="56%" height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/HDMI-Monitor.jpg?raw=true" width="34%" height="auto" > <br>
+                                             Pico Projector or Desktop Monitor (not includded)
+                                            <br><br></th>
+</tr></thead><tbody>
+<tr style="background-color: #fcfccc;">
+    <td style="text-align: end;"> Pricing </td>
+    <td style="text-align: center;"> Low budget variant </td>
+    <td style="text-align: center;"> Middle budget variant </td>
+    <td style="text-align: center;"> The highest priced option </td></tr>
+<tr >
+    <td style="text-align: end;vertical-align: top;"> Base features <br> includded in price </td>
+    <td style="text-align: center;vertical-align: top;"> XIAO ESP32S3 Module, ESP32-S3R8 MCU with 240 MHz Xtensa LX7 dual-core, 32-bit CPU, 8MB PSRAM, 8MB Flash, 2,4 GHz Wi-Fi (802.11 B/G/N), Bluetooth 5 (LE) & Bluetooth Mesh, 3.7V LiPo battery charger (up to 100mA), USB native, UART, I2C, SPI, I2S, ADC, GPIOs, 5V 5A UPS Module 3S supporting charging and power output at the same time with 3x rechargable LiPo batteries type 18650 2.2Ah each, 2x modules XIAO ESP32S3 Sense with OV2640 camera and microphone, RP2040-Zero module and 3.2" TFT 320x240 SPI display </td>
+    <td style="text-align: center;vertical-align: top;"> RPi Zero 2 W SBC, RP3A0 SoP (custom-built system-in-package with 1GHz quad-core 64-bit ARM Cortex-A53 CPU), 512MB of SDRAM, Wi-Fi 802.11.b/g/n, Bluetooth 4.2/BLE, I2C, SPI, UART, I2S, CSI, GPIOs, USB HUB / 100MB Ethernet HAT for Raspberry Pi Zero, 5V 5A UPS Module 3S supporting charging and power output at the same time with 3x rechargable LiPo batteries type 18650 2.2Ah each, Stereo Camera Module V2 and 2x 8MP RPi Camera V2, 5" 800x480 HDMI display with capacity USB Touch screen and audio output </td>
+    <td style="text-align: center;vertical-align: top;"> RPi 5 SBC, Broadcom BCM2712 2.4GHz quad-core 64-bit Arm Cortex-A76 CPU, with Cryptographic Extension, 512KB per-core L2 caches, and a 2MB shared L3 cache, VideoCore VII GPU, supporting OpenGL ES 3.1, Vulkan 1.2, Dual 4Kp60 HDMI display output with HDR support, 4Kp60 HEVC decoder, 8GB LPDDR4X-4267 SDRAM, Dual-band 802.11ac Wi-Fi, Bluetooth 5.0 / Bluetooth Low Energy (BLE),  microSD card slot, with support for high-speed SDR104 mode, 2x USB 3.0 ports, supporting simultaneous 5Gbps operation, 2x USB 2.0 ports,  Gigabit Ethernet, 2x micro-HDMI ports supporting 4kp60 with HDR, 2x 4-lane MIPI camera/display transceivers,  PCIe 2.0 x1 interface for fast peripherals, PCIe to 2-CHANNEL M.2 HAT for RPi 5, 256GB M.2 NVME 2242 high-speed SSD with high-quality 3D TLC flash memory, I2C, SPI, UART, I2S, GPIOs, RPi 5 Active Cooler, 5V 5A UPS Module 3S supporting charging and power output at the same time with 3x rechargable LiPo batteries type 18650 2.2Ah each, 7" 1024x600 IPS HDMI display with capacity USB Touch screen and audio output </td></tr>
+
+<tr style="background-color: #fcfccc;">
+    <td style="text-align: end;"> Approximate Price [&euro; incl. 20% VAT] </td>
+    <td style="text-align: center;"> 94 </td>
+    <td style="text-align: center;"> 232 (with 2x 8MP cameras and 5" display) </td>
+    <td style="text-align: center;"> 337 (with 2x 16MP cameras and 7" display) </td></tr>
+
+<tr >
+    <td style="text-align: end;"> Base dimensions [mm] </td>
+    <td style="text-align: center;"> 21 x 17,5 </td>
+    <td style="text-align: center;"> 65 x 30 </td>
+    <td style="text-align: center;"> 85 x 56 </td></tr>
+
 </tbody></table>
 
 # More new ideas
