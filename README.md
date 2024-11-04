@@ -77,7 +77,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/XIAO-ESP32-S3_1.jpg?raw=true" width="100%" height="auto" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/xiaoesp32s3sense.jpg?raw=true" width="100%" height="auto" > <br>
-                                             2x Seeed Studio XIAO ESP32S3 Sense with OV2640 camera and microphone<br> 
+                                             2x Seeed Studio XIAO ESP32S3 Sense with OV2640 SPI camera and microphone<br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="45%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/3.2tftspiDisplay.jpg?raw=true" width="45%" height="auto" > <br>
                                              RP2040-Zero and 3.2" TFT 320x240 SPI built-in display<br>
@@ -90,7 +90,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/B016601-1.jpg?raw=true" width="55%" height="auto" > 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RaspberryPi_8MP_CAM_V2.jpg?raw=true" width="35%" height="auto" > <br>
-                                             Stereo Camera Module V2 and 2x 5/8/12MP RPi Cameras  (different options) <br>
+                                             Stereo Camera Module V2 and 2x 5/8/12MP RPi cameras  (different options) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="45%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="45%" height="auto" > <br>
                                              5" / 7" HDMI built-in display (different options)
@@ -103,7 +103,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="45%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/camera-imx519.webp?raw=true" width="45%" height="auto" > <br>
-                                             2x 8/16/64MP cammeras (different options) <br>
+                                             2x 8/16/64MP RPi cammeras (different options) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="45%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="45%" height="auto" > <br>
                                              5" / 7" HDMI built-in display (different options) <br>
