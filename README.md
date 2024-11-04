@@ -119,9 +119,9 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <td style="text-align: center;"> The highest priced option </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;"> Approximate Price [&euro; incl. 20% VAT] </td>
-    <td style="text-align: center;"> 94 </td>
-    <td style="text-align: center;"> 232 (with 2x 8MP cameras and 5" display) </td>
-    <td style="text-align: center;"> 337 (with 2x 16MP cameras and 7" display) </td></tr>
+    <td style="text-align: center;"> 100 </td>
+    <td style="text-align: center;"> 225 (with 2x 8MP cameras and 5" display) </td>
+    <td style="text-align: center;"> 350 (with 2x 16MP cameras and 7" display) </td></tr>
 <tr >
     <td style="text-align: end;vertical-align: top;"> Base features </td>
     <td style="text-align: center;vertical-align: top;"> XIAO ESP32S3 Module, ESP32-S3R8 MCU with 240 MHz Xtensa LX7 dual-core, 32-bit CPU, 8MB PSRAM, 8MB Flash, 2,4 GHz Wi-Fi (802.11 B/G/N), Bluetooth 5 (LE) & Bluetooth Mesh, 3.7V LiPo battery charger (up to 100mA), USB native, UART, I2C, SPI, I2S, ADC, GPIOs, 5V 5A UPS Module 3S supporting charging and power output at the same time with 3x rechargable LiPo batteries type 18650 2.2Ah each, 2x modules XIAO ESP32S3 Sense with OV2640 camera and microphone, RP2040-Zero module and 3.2" TFT 320x240 SPI display </td>
@@ -132,7 +132,6 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <td style="text-align: center;"> 21 x 17,5 </td>
     <td style="text-align: center;"> 65 x 30 </td>
     <td style="text-align: center;"> 85 x 56 </td></tr>
-
 </tbody></table>
 
 # More new ideas
