@@ -118,7 +118,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
     <td style="text-align: center;"> Middle budget variant </td>
     <td style="text-align: center;"> The highest priced option </td></tr>
 <tr style="background-color: #fcfccc;">
-    <td style="text-align: end;"> Approximate Price [&euro; incl. 20% VAT] </td>
+    <td style="text-align: end;"> Approximate Price <br> [&euro; incl. 20% VAT] </td>
     <td style="text-align: center;"> 100 </td>
     <td style="text-align: center;"> 225 (with 2x 8MP cameras and 5" display) </td>
     <td style="text-align: center;"> 350 (with 2x 16MP cameras and 7" display) </td></tr>
