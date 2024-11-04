@@ -106,7 +106,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
                                              2x 8/16/64MP cammeras (different options) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="45%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="45%" height="auto" > <br>
-                                             5" / 7" HDMI built-in display (different options)
+                                             5" / 7" HDMI built-in display (different options) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/UltraMiniProjector.webp?raw=true" width="56%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/HDMI-Monitor.jpg?raw=true" width="34%" height="auto" > <br>
                                              Pico Projector or Desktop Monitor (not includded)
