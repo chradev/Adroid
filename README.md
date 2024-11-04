@@ -72,7 +72,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
 
 <table style="overflow-y: hidden; width: 100%;font-size:0.9em;text-align: center; border:1px; border-collapse: collapse;">
 <thead><tr >
-<th width="28%" style="text-align: center;vertical-align: middle;" > Adroid robot <br> main computer <br> variant / feature </th>
+<th width="25%" style="text-align: center;vertical-align: middle;" > Adroid robot <br> main computer <br> variant / feature </th>
 <th width="25%" style="text-align: center;vertical-align: top;"> Seeed Studio XIAO ESP32S3 <br> (Multiply MCUs & FreeRTOS) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/XIAO-ESP32-S3_1.jpg?raw=true" width="100%" height="auto" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="100%" height="auto" > <br>
@@ -82,7 +82,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/3.2tftspiDisplay.jpg?raw=true" width="45%" height="auto" > <br>
                                              RP2040-Zero and 3.2" TFT 320x240 SPI built-in display<br>
                                              </th>
-<th width="22%" style="text-align: center;vertical-align: top;"> Raspberry Pi Zero 2 W <br> (Single SBC & Linux) <br>
+<th width="25%" style="text-align: center;vertical-align: top;"> Raspberry Pi Zero 2 W <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/raspberry-pi-zero-2-w.jpg?raw=true" width="100%" height="auto" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/eth-usb-hub-hat.jpg?raw=true" width="100%" height="auto" <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/usb3-card-reader.jpg?raw=true" width="45%" height="auto" >  
