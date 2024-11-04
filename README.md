@@ -82,7 +82,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/3.2tftspiDisplay.jpg?raw=true" width="45%" height="auto" > <br>
                                              RP2040-Zero and 3.2" TFT 320x240 SPI built-in display<br>
                                              </th>
-<th width="22%" style="text-align: center;vertical-align: top;"> Raspberry's RPi Zero 2 W <br> (Single SBC & Linux OS) <br>
+<th width="22%" style="text-align: center;vertical-align: top;"> Raspberry Pi Zero 2 W <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/raspberry-pi-zero-2-w.jpg?raw=true" width="100%" height="auto" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/eth-usb-hub-hat.jpg?raw=true" width="100%" height="auto" <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/usb3-card-reader.jpg?raw=true" width="45%" height="auto" >  
@@ -95,7 +95,7 @@ Adroid is not only a platform but it is also a continuous process intended to ac
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="45%" height="auto" > <br>
                                              5" / 7" HDMI built-in display (different options)
                                              </th>
-<th width="25%" style="text-align: center;vertical-align: top;"> Raspberry's RPi 5 <br> (Single SBC & Linux OS) <br>
+<th width="25%" style="text-align: center;vertical-align: top;"> Raspberry Pi 5 <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/raspberry-pi-5.jpg?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RPi_5_active_cooler-1-768x768.jpg?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pcie-to-2-ch-m2-hat-plus.webp?raw=true" width="45%" height="auto" > 
