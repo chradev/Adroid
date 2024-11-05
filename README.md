@@ -162,7 +162,7 @@ The above list will be updated continuously, so any new ideas are welcome.
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-2s-2.png?raw=true" width="45%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="45%" height="auto" > <br>
                                              </th>
-<th width="28%" style="text-align: center;vertical-align: top;"> Main robot movement system <br><br>
+<th width="28%" style="text-align: center;vertical-align: top;"> Main movement system <br><br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/42HB34F08AB.jpg?raw=true" width="auto" height="60" > 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/Example-of-sensors-used-in-robotics.png?raw=true" width="auto" height="60" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/2-StepMotorControl.png?raw=true" width="90%" height="auto" > <br> 
