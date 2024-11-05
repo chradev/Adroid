@@ -3,7 +3,7 @@
 
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
-Finally, Android was born in harmony with our contemporary society, its environment and the real processes. Its only foundation is human intelligence, and it can be an ever-changing and living response to the difficult challenges of the future.
+Finally, Android was born in harmony with our contemporary society, its environment and the real processes. Its only foundation is the human intelligence, and it can be an ever-changing and living response to the difficult challenges of the future.
  
 # Learn by Doing
 
@@ -135,7 +135,7 @@ The above list of topics will be updated continuously, so any new ideas are welc
     <td style="text-align: end;"> Pricing </td>
     <td style="text-align: center;"> Low budget variant </td>
     <td style="text-align: center;"> Middle budget variant </td>
-    <td style="text-align: center;"> The highest priced option </td></tr>
+    <td style="text-align: center;"> Highly priced variant </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;"> Approximate Price <br> [&euro; incl. 20% VAT] </td>
     <td style="text-align: center;"> 100 </td>
