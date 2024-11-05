@@ -167,7 +167,7 @@ The above list will be updated continuously, so any new ideas are welcome.
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/Example-of-sensors-used-in-robotics.png?raw=true" width="auto" height="60" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/2-StepMotorControl.png?raw=true" width="90%" height="auto" > <br> 
                                              </th>
-<th width="38%" style="text-align: center;vertical-align: top;"> Auxiliary systems for head movement and body sloping <br><br>
+<th width="38%" style="text-align: center;vertical-align: top;"> Auxiliary movement systems <br><br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ActiveBallJoint.jpg?raw=true" width="auto" height="60" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/SM-5VDC-DRV.jpg?raw=true" width="auto" height="60" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/StrainGaugeOnPCB.png?raw=true" width="auto" height="60" > <br> 
