@@ -94,7 +94,6 @@ The above list will be updated continuously, so any new ideas are welcome.
 <th width="25%" style="text-align: center;vertical-align: middle;" > Adroid robot <br> main computer <br> variant / feature </th>
 <th width="25%" style="text-align: center;vertical-align: top;"> Seeed Studio XIAO ESP32S3 <br> (Multiply MCUs & FreeRTOS) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/XIAO-ESP32-S3_1.jpg?raw=true" width="100%" height="auto" > <br> 
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/xiaoesp32s3sense.jpg?raw=true" width="100%" height="auto" > <br>
                                              2x Seeed Studio XIAO ESP32S3 Sense with OV2640 SPI camera and microphone<br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="45%" height="auto" >
@@ -106,7 +105,6 @@ The above list will be updated continuously, so any new ideas are welcome.
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/eth-usb-hub-hat.jpg?raw=true" width="100%" height="auto" <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/usb3-card-reader.jpg?raw=true" width="45%" height="auto" >  
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sandisk-extreme-pro-64-768x768.webp?raw=true" width="45%" height="auto" > <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/B016601-1.jpg?raw=true" width="55%" height="auto" > 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RaspberryPi_8MP_CAM_V2.jpg?raw=true" width="35%" height="auto" > <br>
                                              Stereo Camera Module V2 and 2x 5/8/12MP RPi cameras  (different options) <br>
@@ -119,7 +117,6 @@ The above list will be updated continuously, so any new ideas are welcome.
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RPi_5_active_cooler-1-768x768.jpg?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pcie-to-2-ch-m2-hat-plus.webp?raw=true" width="45%" height="auto" > 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sk-nvme-2242-256g-ssd-m2.webp?raw=true" width="45%" height="auto" > <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="45%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/camera-imx519.webp?raw=true" width="45%" height="auto" > <br>
                                              2x 8/16/64MP RPi cammeras (different options) <br>
