@@ -20,7 +20,7 @@ Therefore, the following topics are outlined in the Android project as a beginni
 * Body transformation based on a set of strength and positioning sensors,
 * Development of liquid multi-color jet system for painting robots etc.
 
-The above list of topics will be updated continuously, so any new ideas are welcome.
+The above list will be updated continuously, so any new ideas are welcome.
 
 # Adroid robots comparison tables
 
