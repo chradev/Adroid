@@ -3,7 +3,7 @@
 
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
-Finally, Android was born in harmony with our contemporary society, its environment and the real processes here and now. Its only foundation is the open human intellect, and it can be an ever-changing and living response to the difficult challenges of the future.
+Finally, Android was born in harmony with our contemporary society, its environment and the real processes here and now. Its foundations are the open human intellect and our good nature, and its sole purpose is to be an ever-changing and living response to the difficult challenges of the future. 
 
 # Learn by Doing
 
