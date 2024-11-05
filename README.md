@@ -173,7 +173,7 @@ The above list will be updated continuously, so any new ideas are welcome.
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/StrainGaugeOnPCB.png?raw=true" width="auto" height="60" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/4-StepMotorControl.png?raw=true" width="90%" height="auto" > <br> 
                                             <br><br></th>
-</tr></thead>thead></table>
+</tr></thead></table>
 
 # More new ideas
 
