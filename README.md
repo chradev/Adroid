@@ -156,24 +156,24 @@ The above list will be updated continuously, so any new ideas are welcome.
 ## Adroid robot commom staff
 
 <table style="overflow-y: hidden; width: 100%;font-size:0.9em;text-align: center; border:1px; border-collapse: collapse;">
-<tr >
-<td width="33%" style="text-align: center;vertical-align: top;"> Powering system <br><br>
+<thead><tr >
+<th width="33%" style="text-align: center;vertical-align: top;"> Powering system <br><br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/WirelessRobotCharger.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-2s-2.png?raw=true" width="45%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="45%" height="auto" > <br>
-                                             </td>
-<td width="28%" style="text-align: center;vertical-align: top;"> Main robot movement system <br><br>
+                                             </th>
+<th width="28%" style="text-align: center;vertical-align: top;"> Main robot movement system <br><br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/42HB34F08AB.jpg?raw=true" width="auto" height="60" > 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/Example-of-sensors-used-in-robotics.png?raw=true" width="auto" height="60" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/2-StepMotorControl.png?raw=true" width="90%" height="auto" > <br> 
-                                             </td>
-<td width="38%" style="text-align: center;vertical-align: top;"> Auxiliary systems for head movement and body sloping <br><br>
+                                             </th>
+<th width="38%" style="text-align: center;vertical-align: top;"> Auxiliary systems for head movement and body sloping <br><br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ActiveBallJoint.jpg?raw=true" width="auto" height="60" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/SM-5VDC-DRV.jpg?raw=true" width="auto" height="60" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/StrainGaugeOnPCB.png?raw=true" width="auto" height="60" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/4-StepMotorControl.png?raw=true" width="90%" height="auto" > <br> 
-                                            <br><br></td>
-</tr></table>
+                                            <br><br></th>
+</tr></thead>thead></table>
 
 # More new ideas
 
