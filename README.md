@@ -184,7 +184,7 @@ The absolute positioning can be based on the measurement and the processing of t
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/3dPositioningMelexis.png?raw=true" alt="Active Beall Joint Mechanism" width="100%">
 
-## Applying the Transformer's idea to body movement
+## Applying the Transformer's idea at body sloping
 
 The ability to transform the robot from four-wheeled (2 driving and 2 auxiliary wheels) to two-wheeled balancing variant can be realized by adding auxiliary wheels to the robot arms. Some sensors, like an absolute positioning rotational sensor (360 degrees) and a strain gauge sensor to measure the reaction force, will help to enlarge precision of the body movement.
 
