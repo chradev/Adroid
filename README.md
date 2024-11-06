@@ -24,11 +24,11 @@ The above list will be updated continuously, so any new ideas are welcome.
 
 # Leading principles and selection criteria
 
-#### The main principle is  ***OPENNESS***, as defined by the creators of the "Open Source" movement and widened later on:
+#### The core principle is ***OPENNESS***, as defined in the "Open Source" movement and expanded upon later:
 
 The "open source way" is based on key principles of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development. In the beginning, the "open source" referred to computer programs in which the source code is available to the general public for use or modification of the original design. Later on, this way of thinking spread to almost all aspects of human life and was also recognized by the businesses. The computer hardware designs and production, architectural, electronic and mechanical designs, the works of art, the musical compositions and their performances, and many others were also influenced. Finally, ***OPENNESS*** became the only real answer to the madness of globalization.
 
-#### The selection of the hardware and software products suitable for the project is based on the following criteria:
+#### The selection of the hardware and software suitable for the project is based on the following criteria:
 
 * Technical and technological grade of features - the best products in their field are preferred
 * Accessibility, longevity, popularity and costs - the priority of the listed criteria is in descending order
