@@ -35,7 +35,7 @@ The "open source way" is based on key principles of open exchange, collaborative
 * Size and professionalism of the supporting community - bigger and prompt responsive community of professionals is preferable
 * Openness and depth of the hardware and software support - open source software is a must, while it is good to have for the hardware
 
-Assessment of the products is based on a wide investigation, own tests and precise analysis. The results are public and the subject of discussion. If significant flaws are discovered in the choice made, it will be subject to re-evaluation. When new products with better qualities appear, they can be recognized as alternative options.
+Assessment of the products is based on a wide investigation, own tests and precise analysis. The results are public and a subject of discussion. If significant flaws are discovered in the choice made, it will be subject to re-evaluation. When new products with better qualities appear, they can be recognized as alternative options.
 
 # Next steps to be done
 
