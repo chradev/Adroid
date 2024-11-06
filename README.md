@@ -160,15 +160,12 @@ The above list will be updated continuously, so any new ideas are welcome.
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="45%" height="auto" >
                                              </th>
 <th width="28%" style="text-align: center;vertical-align: top;"> Main movement system <br><br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/42HB34F08AB.jpg?raw=true" width="auto" height="60" > 
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/Example-of-sensors-used-in-robotics.png?raw=true" width="auto" height="60" > <br> 
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/2-StepMotorControl.png?raw=true" width="90%" height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/001.png?raw=true" width="100%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/2-StepMotorControl.png?raw=true" width="100%" height="auto" >
                                              </th>
 <th width="38%" style="text-align: center;vertical-align: top;"> Auxiliary movement systems <br><br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ActiveBallJoint.jpg?raw=true" width="auto" height="60" >
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/SM-5VDC-DRV.jpg?raw=true" width="auto" height="60" >
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/StrainGaugeOnPCB.png?raw=true" width="auto" height="60" > <br> 
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/4-StepMotorControl.png?raw=true" width="90%" height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/002.png?raw=true" width="100%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/4-StepMotorControl.png?raw=true" width="100%" height="auto" >
                                              </th>
 </tr></thead></table>
 
