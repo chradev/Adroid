@@ -158,8 +158,7 @@ Assessment of the products is based on a wide investigation, own tests and preci
                                              5" / 7" HDMI built-in display (different options)
                                              </th>
 <th width="35%" style="text-align: center;vertical-align: top;"> Raspberry Pi 5 <br> (Single SBC & Linux) <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/raspberry-pi-5.jpg?raw=true" width="100%" height="auto" > <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RPi_5_active_cooler-1-768x768.jpg?raw=true" width="100%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RPi_5_active_cooler-700x700.jpg?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pcie-to-2-ch-m2-hat-plus.webp?raw=true" width="48%"height="auto" > 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sk-nvme-2242-256g-ssd-m2.webp?raw=true" width="48%"height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="48%"height="auto" >
