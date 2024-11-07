@@ -141,10 +141,10 @@ Assessment of the products is based on a wide investigation, own tests and preci
                                              2x Seeed Studio XIAO ESP32S3 Sense with OV2640 SPI camera and microphone<br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="48%"height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/3.2tftspiDisplay.jpg?raw=true" width="48%"height="auto" > <br>
-                                             RP2040-Zero and 3.2" TFT 320x240 SPI display (simple option)<br>
+                                             RP2040-Zero and 3.2" TFT 320x240 SPI  built-in display (simple option)<br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="48%"height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="48%"height="auto" > <br>
-                                             RP2040-Zero and 5" TFT 800/480 HDMI display (advanced option)<br>
+                                             RP2040-Zero and 5" TFT 800/480 HDMI  built-in display (advanced option)<br>
                                              </th>
 <th width="25%" style="text-align: center;vertical-align: top;"> Raspberry Pi Zero 2 W <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/raspberry-pi-zero-2-w.jpg?raw=true" width="100%" height="auto" > <br> 
@@ -185,7 +185,7 @@ Assessment of the products is based on a wide investigation, own tests and preci
 <tr >
     <td style="text-align: end;vertical-align: top;"> Base features </td>
     <td style="text-align: center;vertical-align: top;"> XIAO ESP32S3 Module, ESP32-S3R8 MCU with 240 MHz Xtensa LX7 dual-core, 32-bit CPU, 8MB PSRAM, 8MB Flash, 2,4 GHz Wi-Fi (802.11 B/G/N), Bluetooth 5 (LE) & Bluetooth Mesh, 3.7V LiPo battery charger (up to 100mA), USB native, UART, I2C, SPI, I2S, ADC, GPIOs, 2x modules XIAO ESP32S3 Sense with OV2640 camera and microphone, RP2040-Zero module and 3.2" TFT 320x240 SPI display </td>
-    <td style="text-align: center;vertical-align: top;"> RPi Zero 2 W SBC, RP3A0 SoP (custom-built system-in-package with 1GHz quad-core 64-bit ARM Cortex-A53 CPU), 512MB of SDRAM, Wi-Fi 802.11.b/g/n, Bluetooth 4.2/BLE, I2C, SPI, UART, I2S, CSI, GPIOs, USB HUB / 100MB Ethernet HAT for Raspberry Pi Zero, Stereo Camera Module V2 and 2x 8MP RPi Camera V2, 5" 800x480 HDMI display with capacity USB Touch screen and audio output </td>
+    <td style="text-align: center;vertical-align: top;"> RPi Zero 2 W SBC, RP3A0 SoP (custom-built system-in-package with 1GHz quad-core 64-bit ARM Cortex-A53 CPU), 512MB of SDRAM, Wi-Fi 802.11.b/g/n, Bluetooth 4.2/BLE, I2C, SPI, UART, I2S, CSI, GPIOs, USB HUB / 100MB Ethernet HAT for Raspberry Pi Zero, SD card reader and fast SD card, Stereo Camera Module V2 and 2x 8MP RPi Camera V2, 5" 800x480 HDMI display with capacity USB Touch screen and audio output </td>
     <td style="text-align: center;vertical-align: top;"> RPi 5 SBC, Broadcom BCM2712 2.4GHz quad-core 64-bit Arm Cortex-A76 CPU, with Cryptographic Extension, 512KB per-core L2 caches, and a 2MB shared L3 cache, VideoCore VII GPU, supporting OpenGL ES 3.1, Vulkan 1.2, Dual 4Kp60 HDMI display output with HDR support, 4Kp60 HEVC decoder, 8GB LPDDR4X-4267 SDRAM, Dual-band 802.11ac Wi-Fi, Bluetooth 5.0 / Bluetooth Low Energy (BLE),  microSD card slot, with support for high-speed SDR104 mode, 2x USB 3.0 ports, supporting simultaneous 5Gbps operation, 2x USB 2.0 ports,  Gigabit Ethernet, 2x micro-HDMI ports supporting 4kp60 with HDR, 2x 4-lane MIPI camera/display transceivers,  PCIe 2.0 x1 interface for fast peripherals, PCIe to 2-CHANNEL M.2 HAT for RPi 5, 256GB M.2 NVME 2242 high-speed SSD with high-quality 3D TLC flash memory, I2C, SPI, UART, I2S, GPIOs, RPi 5 Active Cooler, 7" 1024x600 IPS HDMI display with capacity USB Touch screen and audio output </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;"> Base dimensions [mm] </td>
