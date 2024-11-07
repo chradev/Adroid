@@ -142,6 +142,9 @@ Assessment of the products is based on a wide investigation, own tests and preci
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="45%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/3.2tftspiDisplay.jpg?raw=true" width="45%" height="auto" > <br>
                                              RP2040-Zero and 3.2" TFT 320x240 SPI built-in display<br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="45%" height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="45%" height="auto" > <br>
+                                             RP2040-Zero and 5" TFT 800/480 HDMI display (advanced option)<br>
                                              </th>
 <th width="25%" style="text-align: center;vertical-align: top;"> Raspberry Pi Zero 2 W <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/raspberry-pi-zero-2-w.jpg?raw=true" width="100%" height="auto" > <br> 
