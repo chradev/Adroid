@@ -141,7 +141,7 @@ Assessment of the products is based on a wide investigation, own tests and preci
                                              2x Seeed Studio XIAO ESP32S3 Sense with OV2640 SPI camera and microphone<br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="45%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/3.2tftspiDisplay.jpg?raw=true" width="45%" height="auto" > <br>
-                                             RP2040-Zero and 3.2" TFT 320x240 SPI built-in display<br>
+                                             RP2040-Zero and 3.2" TFT 320x240 SPI display (simple option)<br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="45%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="45%" height="auto" > <br>
                                              RP2040-Zero and 5" TFT 800/480 HDMI display (advanced option)<br>
