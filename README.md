@@ -149,7 +149,7 @@ Assessment of the products is based on a wide investigation, own tests and preci
 <th width="25%" style="text-align: center;vertical-align: top;"> Raspberry Pi Zero 2 W <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/raspberry-pi-zero-2-w.jpg?raw=true" width="100%" height="auto" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/eth-usb-hub-hat.jpg?raw=true" width="100%" height="auto" <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/usb3-sd-card-reader.png?raw=true" width="100%"height="auto" >  <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/usb3-sd-card-reader.jpg?raw=true" width="100%"height="auto" >  <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/B016601-1.jpg?raw=true" width="58%" height="auto" > 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RaspberryPi_8MP_CAM_V2.jpg?raw=true" width="38%" height="auto" > <br>
                                              Stereo Camera Module V2 and 2x 5/8/12MP RPi cameras  (different options) <br>
