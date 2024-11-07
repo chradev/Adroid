@@ -139,38 +139,38 @@ Assessment of the products is based on a wide investigation, own tests and preci
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/XIAO-ESP32-S3_1.jpg?raw=true" width="100%" height="auto" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/xiaoesp32s3sense.jpg?raw=true" width="100%" height="auto" > <br>
                                              2x Seeed Studio XIAO ESP32S3 Sense with OV2640 SPI camera and microphone<br> 
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="45%" height="auto" >
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/3.2tftspiDisplay.jpg?raw=true" width="45%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="49%"height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/3.2tftspiDisplay.jpg?raw=true" width="49%"height="auto" > <br>
                                              RP2040-Zero and 3.2" TFT 320x240 SPI display (simple option)<br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="45%" height="auto" >
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="45%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2040-zero.jpg?raw=true" width="49%"height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="49%"height="auto" > <br>
                                              RP2040-Zero and 5" TFT 800/480 HDMI display (advanced option)<br>
                                              </th>
 <th width="25%" style="text-align: center;vertical-align: top;"> Raspberry Pi Zero 2 W <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/raspberry-pi-zero-2-w.jpg?raw=true" width="100%" height="auto" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/eth-usb-hub-hat.jpg?raw=true" width="100%" height="auto" <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/usb3-card-reader.jpg?raw=true" width="45%" height="auto" >  
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sandisk-extreme-pro-64-768x768.webp?raw=true" width="45%" height="auto" > <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/B016601-1.jpg?raw=true" width="55%" height="auto" > 
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RaspberryPi_8MP_CAM_V2.jpg?raw=true" width="35%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/usb3-card-reader.jpg?raw=true" width="49%"height="auto" >  
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sandisk-extreme-pro-64-768x768.webp?raw=true" width="49%"height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/B016601-1.jpg?raw=true" width="59%" height="auto" > 
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RaspberryPi_8MP_CAM_V2.jpg?raw=true" width="39%" height="auto" > <br>
                                              Stereo Camera Module V2 and 2x 5/8/12MP RPi cameras  (different options) <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="45%" height="auto" >
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="45%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="49%"height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="49%"height="auto" > <br>
                                              5" / 7" HDMI built-in display (different options)
                                              </th>
 <th width="35%" style="text-align: center;vertical-align: top;"> Raspberry Pi 5 <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/raspberry-pi-5.jpg?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RPi_5_active_cooler-1-768x768.jpg?raw=true" width="100%" height="auto" > <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pcie-to-2-ch-m2-hat-plus.webp?raw=true" width="45%" height="auto" > 
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sk-nvme-2242-256g-ssd-m2.webp?raw=true" width="45%" height="auto" > <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="45%" height="auto" >
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/camera-imx519.webp?raw=true" width="45%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pcie-to-2-ch-m2-hat-plus.webp?raw=true" width="49%"height="auto" > 
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sk-nvme-2242-256g-ssd-m2.webp?raw=true" width="49%"height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="49%"height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/camera-imx519.webp?raw=true" width="49%"height="auto" > <br>
                                              2x 8/16/64MP RPi cammeras (different options) <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="45%" height="auto" >
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="45%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="49%"height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="49%"height="auto" > <br>
                                              5" / 7" HDMI built-in display (different options) <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/UltraMiniProjector.webp?raw=true" width="56%" height="auto" >
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/HDMI-Monitor.jpg?raw=true" width="34%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/UltraMiniProjector.webp?raw=true" width="60%" height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/HDMI-Monitor.jpg?raw=true" width="38%" height="auto" > <br>
                                              Pico Projector or Desktop Monitor (not includded)
                                             <br><br></th>
 </tr></thead><tbody>
@@ -202,8 +202,8 @@ Assessment of the products is based on a wide investigation, own tests and preci
 <thead><tr >
 <th width="43%" style="text-align: center;vertical-align: top;"> Powering system <br><br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/WirelessRobotCharger.png?raw=true" width="100%" height="auto" > <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-2s-2.png?raw=true" width="45%" height="auto" >
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="45%" height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-2s-2.png?raw=true" width="49%" height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="49%" height="auto" >
                                              </th>
 <th width="27%" style="text-align: center;vertical-align: top;"> Main movement system <br><br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/001.png?raw=true" width="100%" height="auto" > <br>
