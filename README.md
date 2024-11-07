@@ -202,11 +202,11 @@ Assessment of the products is based on a wide investigation, own tests and preci
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-2s-2.png?raw=true" width="45%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ups-module-3s-2.png?raw=true" width="45%" height="auto" >
                                              </th>
-<th width="28%" style="text-align: center;vertical-align: top;"> Main movement system <br><br>
+<th width="33%" style="text-align: center;vertical-align: top;"> Main movement system <br><br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/001.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/2-StepMotorControl.png?raw=true" width="100%" height="auto" >
                                              </th>
-<th width="38%" style="text-align: center;vertical-align: top;"> Auxiliary movement systems <br><br>
+<th width="33%" style="text-align: center;vertical-align: top;"> Auxiliary movement systems <br><br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/002.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/4-StepMotorControl.png?raw=true" width="100%" height="auto" >
                                              </th>
