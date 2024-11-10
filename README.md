@@ -28,14 +28,43 @@ The above list will be updated continuously, so any new ideas are welcome.
 
 The "open source way" is based on key principles of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development. In the beginning, the "open source" referred to computer programs in which the source code is available to the general public for use or modification of the original design. Later on, this way of thinking spread to almost all aspects of human life and was also recognized by the businesses. Computer hardware, electronic, mechanical, etc. designs, the works of art, the musical compositions and their performances, and many others were also influenced. Finally, ***OPENNESS*** became the only real answer to the madness of globalization.
 
+#### Another leading principles are:
+
+* "Keep it as simple as possible" is essential for achieving the best results in the most effective way.
+* Collaboration and communication are mandatory for the effective implementation of the training as the main goal.
+* To work alone and as a teammate, to give and receive, to understand and explain at the same time, is essential in any case.
+* Intensive use of the third-party expertise makes everyone a better expert, so use what others have already done to the maximum.
+* The best way to constantly develop yourself is by using your own mind and hands to make improvements to what has already been achieved.
+
 #### The selection of the hardware and software suitable for the project is based on the following criteria:
 
-* Technical and technological grade of features - the best products in their field are preferred
-* Accessibility, longevity, popularity and costs - the priority of the listed criteria is in descending order
-* Size and professionalism of the supporting community - bigger and prompt responsive community of professionals is preferable
-* Openness and depth of the hardware and software support - open source software is a must, while it is good to have for the hardware
+* Technical and technological grade of features - the best products in their field are preferred.
+* Accessibility, longevity, popularity and costs - the priority of the listed criteria is in descending order.
+* Size and professionalism of the supporting community - a bigger and more responsive community of professionals is preferable.
+* Openness and depth of the hardware and software support - open source software is a must, while it is good to have for the hardware.
 
-Assessment of the products is based on a wide investigation, own tests and precise analysis. The results are public and a subject of discussion. If significant flaws are discovered in the choice made, it will be subject to re-evaluation. When new products with better qualities appear, they can be recognized as alternative options.
+Assessment of the products is based on a wide investigation, own tests and precise analysis. The test results are public and a subject of discussion. If significant flaws are discovered in the choice made, it will be subject to re-evaluation. When new products with better qualities appear, they can be recognized as alternative options.
+
+#### List of the selected technologies and techniques for overall design and production:
+
+* Laser-cut plastic materials, custom or prototyping PCBs for the supporting flat mechanical details and electronic components.
+* 3D printing of unified mechanical details using appropriate materials like ABS, PLA, PETG, nylon, rubber, resin, etc.
+* Manual drilling and screwing of the mechanical details and fastening with spacers of the electronic components.
+* Using of bolts, screws, and nuts for joining all mechanical details and electronic components together.
+* Soldering, crimping and interconnecting with cables and connectors of the electronic components.
+
+In the development and testing phases, additional connections to external equipment such as power supplies, Ethernet hubs, Internet routers, monitors, keyboards, mice, etc. may be desired, which may require specific knowledge and skills. Some advanced skills like measuring with multimeter, oscilloscope, analyzer etc. may be needed when certain problems occur.
+
+Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The design and ordering for the fabrication of PCBs require specific knowledge and skills. For the production of the details with laser cutting and 3D printing, specific equipment and skills to work with it are required.
+
+#### Software development - the art of the Computer Sciences
+
+* Software design requires a wide set of theoretical knowledge and practical skills.
+* Programming and testing require the ability to use a wide variety of software products and tools.
+* The languages chosen for development and software implementation are C/C++, JavaScript, and Python.
+* The operating systems chosen for development and software implementation are FreeRTOS for MCU and Linux for SBC.
+* The main software architecture chosen is a distributed, multi-process/thread/core system based on uROS and ROS 2.
+* The main communication technology chosen are web sockets and the publish-subscribe model. 
 
 # Next steps to be done
 
