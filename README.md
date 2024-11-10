@@ -322,9 +322,9 @@ Some of the links include staff from different projects, investigations and test
 
  * [A simple web application to test different design configurations of STEAM robots](https://github.com/chradev/steam-robot-design-simulator)
  * [Dual camera, near-real-time, h.264 video streamer from RPi 5 to a bowser](https://github.com/chradev/pi-h264-to-browser-streamer)
- * [Own implementation of open source intelligent robot - startup design notes](https://github.com/chradev/Adroid/blob/main/assets/pdfs/DesignNotes.pdf)
+ * [Own implementation of open source intelligent robot - startup design notes (PDF)](https://github.com/chradev/Adroid/blob/main/assets/pdfs/DesignNotes.pdf)
  * [Unified ILI9341 Graphic Test](https://github.com/chradev/Unified-ILI9341-Graphic-Test)
  * [Unified ili9340 Graphic Test plus](https://github.com/chradev/Unified_ili9340_Graphic_Test_plus)
  * [DrawWithDMA](https://github.com/chradev/DrawWithDMA)
- * [Unified Multicore Low Power IoT Platform](https://github.com/chradev/Adroid/blob/main/assets/pdfs/Unified_Multicore_Low_Power_IoT_Platform.pdf)
- * Open S.T.E.A.M. initiative - ([En](https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM.pdf), [Bg](https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM_bg.pdf))
+ * [Unified Multicore Low Power IoT Platform (PDF)](https://github.com/chradev/Adroid/blob/main/assets/pdfs/Unified_Multicore_Low_Power_IoT_Platform.pdf)
+ * Open S.T.E.A.M. initiative (PDFs) - ([En](https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM.pdf), [Bg](https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM_bg.pdf))
