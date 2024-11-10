@@ -327,4 +327,4 @@ Some of the links include staff from different projects, investigations and test
  * [Unified ili9340 Graphic Test plus](https://github.com/chradev/Unified_ili9340_Graphic_Test_plus)
  * [DrawWithDMA](https://github.com/chradev/DrawWithDMA)
  * [Unified Multicore Low Power IoT Platform (PDF)](https://github.com/chradev/Adroid/blob/main/assets/pdfs/Unified_Multicore_Low_Power_IoT_Platform.pdf)
- * Open S.T.E.A.M. initiative (PDFs) - ([En](https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM.pdf), [Bg](https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM_bg.pdf))
+ * Open S.T.E.A.M. initiative (PDFs): [En](https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM.pdf), [Bg](https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM_bg.pdf)
