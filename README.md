@@ -269,6 +269,7 @@ Using an alternative to pen painting technology will give you the freedom to use
 ## Some alternatives it can be assessed and/or tested
 
 Alternatives to be assessed and tested:
+
 * Captain (rope) gear for body movement using two arms schematics
 * Strain gauge sensor made as PCB including all electronic staff
 * Absolute positioning rotational sensor (360 degree) for head and arms
