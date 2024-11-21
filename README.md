@@ -38,7 +38,7 @@ The "open source way" is based on key principles of open exchange, collaborative
 
 #### The selection of the hardware and software suitable for the project is based on the following criteria:
 
-* Technical and technological grade of features - the best products in their field are preferred.
+* Professional, technical and technological grade - the best products in their field are preferred.
 * Accessibility, longevity, popularity and costs - the priority of the listed criteria is in descending order.
 * Size and professionalism of the supporting community - a bigger and more responsive community of professionals is preferable.
 * Openness and depth of the hardware and software support - open source software is a must, while it is good to have for the hardware.
