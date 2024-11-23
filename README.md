@@ -243,7 +243,7 @@ Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The de
                                              </th>
 </tr><tr>
 <td>
-    <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2350_stamp_xl.png?raw=true" width="100%" height="auto" >
+    <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2350_stamp_carrier.png?raw=true" width="100%" height="auto" >
 </td>
 <td colspan="2">
 
