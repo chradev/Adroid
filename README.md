@@ -247,14 +247,14 @@ Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The de
 </td>
 <td colspan="2">
 
-The new RP2350 series of MCUs by Raspberry PI is now available and migrations from previous MCUs like RP2040 is an option for Adroid robot common staff. Significant advantages in the new generation MCUs are:<br>
+The new RP2350 series of MCUs from Raspberry is now available, and migrations from previous MCUs like RP2040 is an option for Adroid robot common staff. Significant advantages in the new generation of MCUs are:<br>
 
 <li> Dual-core architecture with Arm Cortex-M33 or Hazard3 RISC-V cores up to 150 MHz,</li>
 <li> Bigger internal RAM (520KB of SRAM) and 2 MB internal flash (in RP2354),</li>
 <li> Up to 16 MB of external QSPI flash/PSRAM via dedicated QSPI bus,</li>
-<li> 12x PIO state machines - 3x PIO blocks with 4 state machine each,</li>
-<li> More GPIOS (up to 48 in QFN-80 package) and other standard interfaces etc.</li>
- 
+<li> 12x PIO state machines - 3x PIO blocks with 4 state machines each,</li>
+<li> More GPIOs (up to 48 in QFN-80 package), peripherals etc.</li>
+
 </td>
 </tr></thead></table>
 
