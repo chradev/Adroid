@@ -19,7 +19,7 @@ Therefore, the following topics are outlined in the Android project as a beginni
 * Advanced stereo and panorama robot vision system with low latency and ePTZ,
 * Body transformation based on a set of strength and positioning sensors,
 * Development of liquid multi-color jet system for painting robots,
-* Migration from RP2040 (RPi Pico) to RP2350 (RPi Pico 2) MCU etc.
+* Migration from RP2040 to RP2350A(B) MCUs etc.
 
 The above list will be updated continuously, so any new ideas are welcome.
 
