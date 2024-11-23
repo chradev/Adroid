@@ -18,7 +18,8 @@ Therefore, the following topics are outlined in the Android project as a beginni
 * Distributed, multi-process/thread/core control system based on uROS and ROS 2,
 * Advanced stereo and panorama robot vision system with low latency and ePTZ,
 * Body transformation based on a set of strength and positioning sensors,
-* Development of liquid multi-color jet system for painting robots etc.
+* Development of liquid multi-color jet system for painting robots,
+* Migration from RP2040 (RPi Pico) to RP2350 (RPi Pico 2) MCU etc.
 
 The above list will be updated continuously, so any new ideas are welcome.
 
@@ -240,6 +241,21 @@ Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The de
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/002.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/4-StepMotorControl.png?raw=true" width="100%" height="auto" >
                                              </th>
+</tr><tr>
+<td>
+
+The new RP2350 series of MCUs by Raspberry PI is now available and migrations from previous MCUs like RP2040 is an option for Adroid robot common staff. Significant advantages in the new generation MCUs are:<br><br>
+
+<li> Dual-core architecture with Arm Cortex-M33 or Hazard3 RISC-V cores up to 150 MHz,</li>
+<li> Bigger internal RAM (520KB of SRAM) and 2 MB internal flash (in RP2354),</li>
+<li> Up to 16 MB of external QSPI flash/PSRAM via dedicated QSPI bus,</li>
+<li> 12× PIO state machines - 3x PIO blocks with 4 state machine each,</li>
+<li> More GPIOS (up to 48 in QFN-80 package) and other standard interfaces etc.</li>
+ 
+</td>
+<tdcolspan="2">
+    <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2350_stamp_xl.png?raw=true" width="100%" height="auto" >
+</td>
 </tr></thead></table>
 
 # More new ideas
