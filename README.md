@@ -243,6 +243,9 @@ Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The de
                                              </th>
 </tr><tr>
 <td>
+    <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2350_stamp_xl.png?raw=true" width="100%" height="auto" >
+</td>
+<td colspan="2">
 
 The new RP2350 series of MCUs by Raspberry PI is now available and migrations from previous MCUs like RP2040 is an option for Adroid robot common staff. Significant advantages in the new generation MCUs are:<br><br>
 
@@ -252,9 +255,6 @@ The new RP2350 series of MCUs by Raspberry PI is now available and migrations fr
 <li> 12× PIO state machines - 3x PIO blocks with 4 state machine each,</li>
 <li> More GPIOS (up to 48 in QFN-80 package) and other standard interfaces etc.</li>
  
-</td>
-<tdcolspan="2">
-    <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2350_stamp_xl.png?raw=true" width="100%" height="auto" >
 </td>
 </tr></thead></table>
 
