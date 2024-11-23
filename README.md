@@ -226,7 +226,7 @@ Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The de
 
 ## Adroid robot commom staff
 
-<table style="overflow-y: hidden; width: 100%;font-size:0.9em;text-align: center; border:1px; border-collapse: collapse;">
+<table style="overflow-y: hidden; width: 100%;font-size:0.7em;text-align: center; border:1px; border-collapse: collapse;">
 <thead><tr >
 <th width="43%" style="text-align: center;vertical-align: top;"> Powering system <br><br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/WirelessRobotCharger.png?raw=true" width="100%" height="auto" > <br>
@@ -245,7 +245,7 @@ Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The de
 <td>
     <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/rp2350_stamp_xl.png?raw=true" width="100%" height="auto" >
 </td>
-<td colspan="2" style="font-size:0.8em;">
+<td colspan="2">
 
 The new RP2350 series of MCUs by Raspberry PI is now available and migrations from previous MCUs like RP2040 is an option for Adroid robot common staff. Significant advantages in the new generation MCUs are:<br>
 
