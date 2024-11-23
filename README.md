@@ -3,13 +3,13 @@
 
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
-Finally, Android was born in harmony with our contemporary society, its environment and the real processes here and now. Its foundations are the open human intellect and our good nature, and its sole purpose is to be an ever-changing and living response to the difficult challenges of the future. 
+Finally, Adroid was born in harmony with our contemporary society, its environment and the real processes here and now. Its foundations are the open human intellect and our good nature, and its sole purpose is to be an ever-changing and living response to the difficult challenges of the future. 
 
 # Learn by Doing
 
 The Open S.T.E.A.M. is an idea directly related to a platform for multidisciplinary projects in scope, with the only possible process being the learning through the active participation of the parties in their implementation. In this line of thought, the parties targeted in the process are equal in terms of rights and obligations, with often changing roles as students and teachers.
 
-Therefore, the following topics are outlined in the Android project as a beginning:
+Therefore, the following topics are outlined in the Adroid project as a beginning:
 
 * Development of AI based "Learn by Doing" S.T.E.A.M. process, knowledge base and instrumentation,
 * Speech synthesis and recognition for human like communicating robots optionally based on AI,
