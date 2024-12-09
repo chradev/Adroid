@@ -1,7 +1,7 @@
 # Adroid
 [Adroid](https://en.wikipedia.org/wiki/User:Chradev/Adriod) is proposed as an open S.T.E.A.M. platform and a process for building of educational things like robots based on the principles of the Open Source in all aspects including but not limited to the ideas, algorithms, internal and external design, mechanical, electronical and software staff. It is intended to include latest science, technology and art achievements with a special respect to an advanced learning process appropriate for any person age, interests and profession.
 
-#### The Adroid Project is aimed at ***'Learn by Doing'***, to improve your brain and hands by using the latest science, technology and art achievements.
+#### Adroid the project is aimed at ***'Learn by Doing'***, to perfect your brain and hands, using the latest science, technology and art achievements.
 
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
