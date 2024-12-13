@@ -33,86 +33,6 @@ The above list will be updated continuously, so any new ideas are welcome.
 
 </details>
 
-## Leading principles and selection criteria
-
-<details>
-
-#### The core principle is ***OPENNESS***, as defined in the "Open Source" movement and expanded upon later:
-
-The "open source way" is based on key principles of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development. In the beginning, the "open source" referred to computer programs in which the source code is available to the general public for use or modification of the original design. Later on, this way of thinking spread to almost all aspects of human life and was also recognized by the businesses. Computer hardware, electronic, mechanical, etc. designs, the works of art, the musical compositions and their performances, and many others were also influenced. Finally, ***OPENNESS*** became the only real answer to the madness of globalization.
-
-#### Another leading principles are:
-
-* "Keep it as simple as possible" is essential for achieving the best results in the most effective way.
-* Collaboration and communication are mandatory for the effective implementation of the training as the main goal.
-* To work alone and as a teammate, to give and receive, to understand and explain at the same time, is essential in any case.
-* Intensive use of the third-party expertise makes everyone a better expert, so use what others have already done to the maximum.
-* The best way to constantly develop yourself is by using your own mind and hands to make improvements to what has already been achieved.
-
-#### The selection of the hardware and software suitable for the project is based on the following criteria:
-
-* Professional, technical and technological grade - the best products in their field are preferred.
-* Accessibility, longevity, popularity and costs - the priority of the listed criteria is in descending order.
-* Size and professionalism of the supporting community - a bigger and more responsive community of professionals is preferable.
-* Openness and depth of the hardware and software support - open source software is a must, while it is good to have for the hardware.
-
-Assessment of the products is based on a wide investigation, own tests and precise analysis. The test results are public and a subject of discussion. If significant flaws are discovered in the choice made, it will be subject to re-evaluation. When new products with better qualities appear, they can be recognized as alternative options.
-
-#### List of the selected technologies and techniques for overall design and production:
-
-* Laser-cut plastic materials, custom or prototyping PCBs for the supporting flat mechanical details and electronic components.
-* 3D printing of unified mechanical details using appropriate materials like ABS, PLA, PETG, nylon, rubber, resin, etc.
-* Manual drilling and screwing of the mechanical details and fastening with spacers of the electronic components.
-* Using of bolts, screws, and nuts for joining all mechanical details and electronic components together.
-* Soldering, crimping and interconnecting with cables and connectors of the electronic components.
-
-In the development and testing phases, additional connections to external equipment such as power supplies, Ethernet hubs, Internet routers, monitors, keyboards, mice, etc. may be desired, which may require specific knowledge and skills. Some advanced skills like measuring with multimeter, oscilloscope, analyzer etc. may be needed when certain problems occur.
-
-Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The design and ordering for the fabrication of PCBs require specific knowledge and skills. For the production of the details with laser cutting and 3D printing, specific equipment and skills to work with it are required.
-
-#### Software development - the art of the Computer Sciences
-
-* Software design requires a wide set of theoretical knowledge and practical skills.
-* Programming and testing require the ability to use a wide variety of software products and tools.
-* The languages chosen for development and software implementation are C/C++, JavaScript, and Python.
-* The operating systems chosen for development and software implementation are FreeRTOS for MCU and Linux for SBC.
-* The main software architecture chosen is a distributed, multi-process/thread/core system based on uROS and ROS 2.
-* The main communication technology chosen are web sockets and the publish-subscribe model. 
-
-</details>
-
-## Next steps to be done
-
-<details>
-
-#### Electrical and mechanical issues
-
-* Schematic of motor drivers for driving wheels motors like auxiliary geared stepper motors;
-* Unification of the motor control based on RPi Pico PIO algorithm by Van Hunter Adams;
-* Modifying of 3D printed driving wheels to use both O-rings and silicone/rubber tires like in Pololu wheels;
-* Unification of sets of motor pairs for driving wheels, head and body movement, including appropriate sensors;
-* Adding of distance, line following and edge sensors to the driving wheels' setup;
-* Adding of a pair of hall sensors for head movement for controlling of end and middle positions;
-* Change from a single to a pair of auxiliary geared stepper motors for body movement (two-arm model);
-* Migration from free wheel ball bearing to nylon pulley with bearing for arms;
-* Adding of a pair of hall and PCB made strain gauge sensors for body movement by arms;
-* Development of a PCB with arm sensors, electronics and geared stepper motors driver;
-* Selecting an appropriate communication interface for both the RPi Pico MCUs and the RPi 5 board;
-* Development and prototyping of appropriate printed circuits boards;
-* Revising of chosen PRi 5 UPS power supply module;
-* Investigation of the possibility to use a liquid based true color printing system.
-
-#### Software issues
-
-* Splitting of algorithms for deeply embedded applications for dual-core RPi Pico MCUs;
-* Integration of uROS and ROS 2 systems into RPi Pico and RPi 5 firmware;
-* Defining of appropriate configuration and command infrastructure;
-* Implementation of appropriate control algorithms and information structure;
-* Development of interactive user interface based Web Sockets ;
-* Development of a task based interface for high level robot control.
-
-</details>
-
 ## Adroid robots comparison tables
 
 #### Adroid robot variants
@@ -267,6 +187,78 @@ Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The de
 The new RP2350 series of MCUs from Raspberry is now available, and migrations from previous MCUs like RP2040 is an option for Adroid robot common staff. Significant advantages in the new generation of MCUs are: dual-core architecture with 150MHz Cortex-M33 or Hazard3 RISC-V cores; bigger internal RAM (520KB of SRAM) and 2 MB internal flash (in RP2354); up to 16 MB of external QSPI flash/PSRAM via dedicated QSPI bus; a special High Speed Transmit (HSTX) peripheral that drives 4 lanes of differential data transmission to DVI output; 12x PIO state machines - 3x PIO blocks with 4 state machines each; more GPIOs (up to 48 in QFN-80 package), peripherals, security options etc.
 </td>
 </tr></thead></table>
+
+## Leading principles and selection criteria
+
+#### The core principle is ***OPENNESS***, as defined in the "Open Source" movement and expanded upon later:
+
+The "open source way" is based on key principles of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development. In the beginning, the "open source" referred to computer programs in which the source code is available to the general public for use or modification of the original design. Later on, this way of thinking spread to almost all aspects of human life and was also recognized by the businesses. Computer hardware, electronic, mechanical, etc. designs, the works of art, the musical compositions and their performances, and many others were also influenced. Finally, ***OPENNESS*** became the only real answer to the madness of globalization.
+
+#### Another leading principles are:
+
+* "Keep it as simple as possible" is essential for achieving the best results in the most effective way.
+* Collaboration and communication are mandatory for the effective implementation of the training as the main goal.
+* To work alone and as a teammate, to give and receive, to understand and explain at the same time, is essential in any case.
+* Intensive use of the third-party expertise makes everyone a better expert, so use what others have already done to the maximum.
+* The best way to constantly develop yourself is by using your own mind and hands to make improvements to what has already been achieved.
+
+#### The selection of the hardware and software suitable for the project is based on the following criteria:
+
+* Professional, technical and technological grade - the best products in their field are preferred.
+* Accessibility, longevity, popularity and costs - the priority of the listed criteria is in descending order.
+* Size and professionalism of the supporting community - a bigger and more responsive community of professionals is preferable.
+* Openness and depth of the hardware and software support - open source software is a must, while it is good to have for the hardware.
+
+Assessment of the products is based on a wide investigation, own tests and precise analysis. The test results are public and a subject of discussion. If significant flaws are discovered in the choice made, it will be subject to re-evaluation. When new products with better qualities appear, they can be recognized as alternative options.
+
+#### List of the selected technologies and techniques for overall design and production:
+
+* Laser-cut plastic materials, custom or prototyping PCBs for the supporting flat mechanical details and electronic components.
+* 3D printing of unified mechanical details using appropriate materials like ABS, PLA, PETG, nylon, rubber, resin, etc.
+* Manual drilling and screwing of the mechanical details and fastening with spacers of the electronic components.
+* Using of bolts, screws, and nuts for joining all mechanical details and electronic components together.
+* Soldering, crimping and interconnecting with cables and connectors of the electronic components.
+
+In the development and testing phases, additional connections to external equipment such as power supplies, Ethernet hubs, Internet routers, monitors, keyboards, mice, etc. may be desired, which may require specific knowledge and skills. Some advanced skills like measuring with multimeter, oscilloscope, analyzer etc. may be needed when certain problems occur.
+
+Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The design and ordering for the fabrication of PCBs require specific knowledge and skills. For the production of the details with laser cutting and 3D printing, specific equipment and skills to work with it are required.
+
+#### Software development - the art of the Computer Sciences
+
+* Software design requires a wide set of theoretical knowledge and practical skills.
+* Programming and testing require the ability to use a wide variety of software products and tools.
+* The languages chosen for development and software implementation are C/C++, JavaScript, and Python.
+* The operating systems chosen for development and software implementation are FreeRTOS for MCU and Linux for SBC.
+* The main software architecture chosen is a distributed, multi-process/thread/core system based on uROS and ROS 2.
+* The main communication technology chosen are web sockets and the publish-subscribe model. 
+
+## Next steps to be done
+
+#### Electrical and mechanical issues
+
+* Schematic of motor drivers for driving wheels motors like auxiliary geared stepper motors;
+* Unification of the motor control based on RPi Pico PIO algorithm by Van Hunter Adams;
+* Modifying of 3D printed driving wheels to use both O-rings and silicone/rubber tires like in Pololu wheels;
+* Unification of sets of motor pairs for driving wheels, head and body movement, including appropriate sensors;
+* Adding of distance, line following and edge sensors to the driving wheels' setup;
+* Adding of a pair of hall sensors for head movement for controlling of end and middle positions;
+* Change from a single to a pair of auxiliary geared stepper motors for body movement (two-arm model);
+* Migration from free wheel ball bearing to nylon pulley with bearing for arms;
+* Adding of a pair of hall and PCB made strain gauge sensors for body movement by arms;
+* Development of a PCB with arm sensors, electronics and geared stepper motors driver;
+* Selecting an appropriate communication interface for both the RPi Pico MCUs and the RPi 5 board;
+* Development and prototyping of appropriate printed circuits boards;
+* Revising of chosen PRi 5 UPS power supply module;
+* Investigation of the possibility to use a liquid based true color printing system.
+
+#### Software issues
+
+* Splitting of algorithms for deeply embedded applications for dual-core RPi Pico MCUs;
+* Integration of uROS and ROS 2 systems into RPi Pico and RPi 5 firmware;
+* Defining of appropriate configuration and command infrastructure;
+* Implementation of appropriate control algorithms and information structure;
+* Development of interactive user interface based Web Sockets ;
+* Development of a task based interface for high level robot control.
 
 ## More new ideas
 
