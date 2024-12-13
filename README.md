@@ -1,6 +1,6 @@
 ## Adroid
 
-<img src="https://github.com/chradev/Adroid/blob/main/assets/configs/IMG_1363.png?raw=true" alt="Adroid robots" align="right" width="50%">
+<img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ProtoDesk-02.png?raw=true" alt="Adroid robots" align="right" width="50%">
 
 [Adroid](https://en.wikipedia.org/wiki/User:Chradev/Adriod) is proposed as an open S.T.E.A.M. platform and a process for building of educational aids like robots based on the principles of the Open Source in all aspects including but not limited to the ideas, algorithms, internal and external design, mechanical, electronical and software staff. It is intended to include latest science, technology and art achievements with a special respect to an advanced learning process appropriate for any person age, interests and profession.
 
