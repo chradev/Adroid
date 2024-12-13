@@ -142,7 +142,7 @@ The above list will be updated continuously, so any new ideas are welcome.
     <td style="text-align: end;"> Rough BOM <br> [incl. VAT] </td>
     <td style="text-align: center;"> 100 &euro; </td>
     <td style="text-align: center;"> 225 &euro; (with 2x 8MP cameras and 5" display) </td>
-    <td style="text-align: center;"> from 350 &euro; (with 2x 16MP cameras and 7" display) </td></tr>
+    <td style="text-align: center;"> 350 &euro; (with 2x 16MP cameras and 7" display) </td></tr>
 <tr >
     <td style="text-align: end;vertical-align: top;"> Base features </td>
     <td style="text-align: center;vertical-align: top;"> XIAO ESP32S3 Module, ESP32-S3R8 MCU with 240 MHz Xtensa LX7 dual-core, 32-bit CPU, 8MB PSRAM, 8MB Flash, 2,4 GHz Wi-Fi (802.11 B/G/N), Bluetooth 5 (LE) & Bluetooth Mesh, 3.7V LiPo battery charger (up to 100mA), USB native, UART, I2C, SPI, I2S, ADC, GPIOs, 2x modules XIAO ESP32S3 Sense with OV2640 camera and microphone, RP2040-Zero module and 3.2" TFT 320x240 SPI display </td>
