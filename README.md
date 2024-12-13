@@ -1,19 +1,16 @@
 ## Adroid
+
+<img src="https://github.com/chradev/Adroid/blob/main/assets/configs/IMG_1363.png?raw=true" alt="Adroid robots" align="right" width="50%">
+
 [Adroid](https://en.wikipedia.org/wiki/User:Chradev/Adriod) is proposed as an open S.T.E.A.M. platform and a process for building of educational aids like robots based on the principles of the Open Source in all aspects including but not limited to the ideas, algorithms, internal and external design, mechanical, electronical and software staff. It is intended to include latest science, technology and art achievements with a special respect to an advanced learning process appropriate for any person age, interests and profession.
 
 #### Adroid the project is aimed at ***'Learn by Doing'***, to perfect your brain and hands, using the latest science, technology and art achievements.
-
-<details>
 
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
 Finally, Adroid was born in harmony with our contemporary society, its environment and the real processes here and now. Its foundations are the open human intellect and our good nature, and its sole purpose is to be an ever-changing and living response to the difficult challenges of the future. 
 
-</details>
-
 ## Learn by Doing
-
-<details>
 
 The Open S.T.E.A.M. is an idea directly related to a platform for multidisciplinary projects in scope, with the only possible process being the learning through the active participation of the parties in their implementation. In this line of thought, the parties targeted in the process are equal in terms of rights and obligations, with often changing roles as students and teachers.
 
@@ -30,8 +27,6 @@ Therefore, the following topics are outlined in the Adroid project as a beginnin
 * Migration from RP2040 to RP2350A(B) MCUs etc.
 
 The above list will be updated continuously, so any new ideas are welcome.
-
-</details>
 
 ## Adroid robots comparison tables
 
@@ -294,8 +289,13 @@ Alternatives to be assessed and tested:
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/SameAlteratives.png?raw=true" alt="Same Alteratives" width="100%">
 
-
 ## First real prototypes
+
+#### Mechanical design prototypes
+
+Three real Adroid prototypes (the Small, the Tall and the Wide) are shown in the picture below. It was chosen to use NEMA 42HB34 stepper motors for the main robot movement and 28BYJ-48 geared stepper motors as auxiliary with ULN2003 drivers for body and head movement. The body movement is based on a single stepper motor, belt gear based on 16- and 60-tooth GT2 pulleys, and an arm with a pair of ball bearing free wheels on springs. Two of them (the Tall and the Wide) are running on their RPi 5 boards Linux OS and a dual camera streaming server with ePTZ control written on Python. The RPi 5 boards are powered by 3S Li-Po UPS modules. The head movement (pan only) of these two prototypes is based on a single auxiliary geared stepper motor. The Small Adroid prototype (low budget variant) contains three RPi Pico MCUs and ULN2003 drivers for stepper motor control, two MCUs with a 2 MP OV2640 SPI camera and microphone each, and one for the server staff based on the Seeed Studio XIAO ESP32S3 Sense modules. All these low consumption modules are extremely small (21mm x 17,5mm) and have 8MB RAM, 8MB of flash, 2.4GHz Wi-Fi, BLE 5.0, a wide set of interfaces, and can be programmed via their USB-C конектор.
+
+<img src="https://github.com/chradev/Adroid/blob/main/assets/Prototypes-b.png?raw=true" alt="Prototypes" width="100%">
 
 #### Some software staff developed and/or tested (short videos)
 
@@ -310,12 +310,6 @@ Van Hunter Adams' algorithm for the RPi Pico PIO is downloaded, built and tested
 The next video is a compilation of a user interface based Web Sockets and remote terminals running corresponding server staff and shows the real time ePTZ control of both cameras. In addition, the almost real time video streaming and its low latency are observable thanks to embedded and synchronized clocks running at both server and user ends.
 
 https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c
-
-#### Mechanical design prototypes
-
-Three real Adroid prototypes (the Small, the Tall and the Wide) are shown in the picture below. It was chosen to use NEMA 42HB34 stepper motors for the main robot movement and 28BYJ-48 geared stepper motors as auxiliary with ULN2003 drivers for body and head movement. The body movement is based on a single stepper motor, belt gear based on 16- and 60-tooth GT2 pulleys, and an arm with a pair of ball bearing free wheels on springs. Two of them (the Tall and the Wide) are running on their RPi 5 boards Linux OS and a dual camera streaming server with ePTZ control written on Python. The RPi 5 boards are powered by 3S Li-Po UPS modules. The head movement (pan only) of these two prototypes is based on a single auxiliary geared stepper motor. The Small Adroid prototype (low budget variant) contains three RPi Pico MCUs and ULN2003 drivers for stepper motor control, two MCUs with a 2 MP OV2640 SPI camera and microphone each, and one for the server staff based on the Seeed Studio XIAO ESP32S3 Sense modules. All these low consumption modules are extremely small (21mm x 17,5mm) and have 8MB RAM, 8MB of flash, 2.4GHz Wi-Fi, BLE 5.0, a wide set of interfaces, and can be programmed via their USB-C конектор.
-
-<img src="https://github.com/chradev/Adroid/blob/main/assets/Prototypes-b.png?raw=true" alt="Prototypes" width="100%">
 
 #### 3D printed unified details and wide mount variant with own wheel design
 
