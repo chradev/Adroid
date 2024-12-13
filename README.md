@@ -255,6 +255,12 @@ Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The de
 
 ## More new ideas
 
+#### Adding some measurment features
+
+Adding one more RPI Pico board, a multichannel [***100 Msps Logic Analyzer***](https://github.com/gusmanb/logicanalyzer/tree/master) and/or [***500Ksps Digital Oscilloscope***](https://github.com/fhdm-dev/scoppy) can be embedded in Adroid hardware. A better performance in measurement can be reached by using RPi Pico 2 or some other board with better analog features. Both features can be used for both development and learning purposes. 
+
+<img src="https://github.com/chradev/Adroid/blob/main/assets/configs/LogicAnalyserFeature.png?raw=true" alt="RPi Pico Logic Analyzer" width="100%">
+
 #### Use Active Ball Joint Mechanism for head movement
 
 Using the idea of an active ball joint mechanism in combination with the motor control based on the RPi Pico PIO algorithm proposed by Van Hunter Adams will make head movement functionality extremely efficient.
