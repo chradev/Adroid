@@ -4,14 +4,17 @@
 #### Adroid the project is aimed at ***'Learn by Doing'***, to perfect your brain and hands, using the latest science, technology and art achievements.
 
 <details>
+
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
 Finally, Adroid was born in harmony with our contemporary society, its environment and the real processes here and now. Its foundations are the open human intellect and our good nature, and its sole purpose is to be an ever-changing and living response to the difficult challenges of the future. 
+
 </details>
 
 # Learn by Doing
 
 <details>
+
 The Open S.T.E.A.M. is an idea directly related to a platform for multidisciplinary projects in scope, with the only possible process being the learning through the active participation of the parties in their implementation. In this line of thought, the parties targeted in the process are equal in terms of rights and obligations, with often changing roles as students and teachers.
 
 Therefore, the following topics are outlined in the Adroid project as a beginning:
@@ -27,11 +30,13 @@ Therefore, the following topics are outlined in the Adroid project as a beginnin
 * Migration from RP2040 to RP2350A(B) MCUs etc.
 
 The above list will be updated continuously, so any new ideas are welcome.
+
 </details>
 
 # Leading principles and selection criteria
 
 <details>
+
 #### The core principle is ***OPENNESS***, as defined in the "Open Source" movement and expanded upon later:
 
 The "open source way" is based on key principles of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development. In the beginning, the "open source" referred to computer programs in which the source code is available to the general public for use or modification of the original design. Later on, this way of thinking spread to almost all aspects of human life and was also recognized by the businesses. Computer hardware, electronic, mechanical, etc. designs, the works of art, the musical compositions and their performances, and many others were also influenced. Finally, ***OPENNESS*** became the only real answer to the madness of globalization.
@@ -73,11 +78,13 @@ Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The de
 * The operating systems chosen for development and software implementation are FreeRTOS for MCU and Linux for SBC.
 * The main software architecture chosen is a distributed, multi-process/thread/core system based on uROS and ROS 2.
 * The main communication technology chosen are web sockets and the publish-subscribe model. 
+
 </details>
 
 # Next steps to be done
 
 <details>
+
 ## Electrical and mechanical issues
 
 * Schematic of motor drivers for driving wheels motors like auxiliary geared stepper motors;
@@ -103,6 +110,7 @@ Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The de
 * Implementation of appropriate control algorithms and information structure;
 * Development of interactive user interface based Web Sockets ;
 * Development of a task based interface for high level robot control.
+
 </details>
 
 # Adroid robots comparison tables
