@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<title>Markdown viewer</title>
+	<head>
+		<link rel="shortcut icon" type="image/png" href="mdviewer/favicon.png">
+	</head>
+	<body> <!--cerulean readable spacelab-->
+		<div style="display: inline-block; position: fixed; top: 0; bottom: 0; left: 0; right: 0; width: 200px; height: 100px; margin: auto; font-size: 22px; font-weight: bold;" id="loading">Loading ...</div>
+		<textarea theme="cerulean-chr" style="display:none;" id="content"></textarea>
+	</body>
+	<script>
+		function getParameterByName(name) {
+			var url = window.location.href;
+			var regex = new RegExp("[?&]" + name.replace(/[\[\]]/g, "\\$&") + "(=([^&#]*)|&|#|$)");
+			var results = regex.exec(url);
+
+			if(!results) {
+				return null;
+			}
+
+			if(results[2] === '') {
+				return null;
+			}
+
+			return decodeURIComponent(results[2].replace(/\+/g, " "));
+		}
+
+		var xmlHttp = null;
+		var fileName = getParameterByName('file');
+		var title = getParameterByName('title');
+
+		if(fileName === null) {
+			var path = window.location.pathname;
+
+			fileName = path.substring(path.lastIndexOf('/') + 1, path.lastIndexOf('.'));
+
+			if(fileName === path) {
+				fileName = 'index';
+			}
+		}
+		{
+			document.title += " (" + fileName + '.md)';
+    		if(title !== null) {
+    			document.title += ": " + title;
+    		}
+		}
+
+
+		if(window.XMLHttpRequest) {
+			// code for IE7+, Firefox, Chrome, Opera, Safari
+			xmlHttp = new XMLHttpRequest();
+		}
+		else {
+			// code for IE6, IE5
+			xmlHttp = new ActiveXObject('Microsoft.XMLHTTP');
+		}
+
+		xmlHttp.onreadystatechange = function() {
+			if(xmlHttp.readyState == 4 && xmlHttp.status == 200) {
+				document.getElementById('content').innerHTML = xmlHttp.responseText;
+
+				var strapDownScriptElement = document.createElement('script');
+				strapDownScriptElement.setAttribute('src', 'mdviewer/strapdown.js');
+
+				document.head.appendChild(strapDownScriptElement);
+
+				document.getElementById('loading').style.display = 'none';
+			}
+		};
+
+		xmlHttp.open('GET', 'README' + '.md', true);
+		xmlHttp.send();
+	</script>
+</html>
