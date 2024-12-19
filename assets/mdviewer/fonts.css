@@ -1,0 +1,238 @@
+@font-face {
+  font-family: 'Josefin Slab';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/Josefin-Slab-regular/Josefin-Slab-regular.eot');
+  src: url('fonts/Josefin-Slab-regular/Josefin-Slab-regular.eot?#iefix') format('embedded-opentype'),
+       local('Josefin Slab'),
+       local('Josefin-Slab-regular'),
+       url('fonts/Josefin-Slab-regular/Josefin-Slab-regular.woff2') format('woff2'),
+       url('fonts/Josefin-Slab-regular/Josefin-Slab-regular.woff') format('woff'),
+       url('fonts/Josefin-Slab-regular/Josefin-Slab-regular.ttf') format('truetype'),
+       url('fonts/Josefin-Slab-regular/Josefin-Slab-regular.svg#JosefinSlab') format('svg');
+}
+
+@font-face {
+  font-family: 'Josefin Slab';
+  font-weight: 700;
+  font-style: normal;
+  src: url('fonts/Josefin-Slab-700/Josefin-Slab-700.eot');
+  src: url('fonts/Josefin-Slab-700/Josefin-Slab-700.eot?#iefix') format('embedded-opentype'),
+       local('Josefin Slab Bold'),
+       local('Josefin-Slab-700'),
+       url('fonts/Josefin-Slab-700/Josefin-Slab-700.woff2') format('woff2'),
+       url('fonts/Josefin-Slab-700/Josefin-Slab-700.woff') format('woff'),
+       url('fonts/Josefin-Slab-700/Josefin-Slab-700.ttf') format('truetype'),
+       url('fonts/Josefin-Slab-700/Josefin-Slab-700.svg#JosefinSlab') format('svg');
+}
+
+@font-face {
+  font-family: 'Lobster';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/Lobster-regular/Lobster-regular.eot');
+  src: url('fonts/Lobster-regular/Lobster-regular.eot?#iefix') format('embedded-opentype'),
+       local('Lobster'),
+       local('Lobster-regular'),
+       url('fonts/Lobster-regular/Lobster-regular.woff2') format('woff2'),
+       url('fonts/Lobster-regular/Lobster-regular.woff') format('woff'),
+       url('fonts/Lobster-regular/Lobster-regular.ttf') format('truetype'),
+       url('fonts/Lobster-regular/Lobster-regular.svg#Lobster') format('svg');
+}
+
+@font-face {
+  font-family: 'Cabin';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/Cabin-regular/Cabin-regular.eot');
+  src: url('fonts/Cabin-regular/Cabin-regular.eot?#iefix') format('embedded-opentype'),
+       local('Cabin Regular'),
+       local('Cabin-regular'),
+       url('fonts/Cabin-regular/Cabin-regular.woff2') format('woff2'),
+       url('fonts/Cabin-regular/Cabin-regular.woff') format('woff'),
+       url('fonts/Cabin-regular/Cabin-regular.ttf') format('truetype'),
+       url('fonts/Cabin-regular/Cabin-regular.svg#Cabin') format('svg');
+}
+
+@font-face {
+  font-family: 'Cabin';
+  font-weight: 700;
+  font-style: normal;
+  src: url('fonts/Cabin-700/Cabin-700.eot');
+  src: url('fonts/Cabin-700/Cabin-700.eot?#iefix') format('embedded-opentype'),
+       local('Cabin Bold'),
+       local('Cabin-700'),
+       url('fonts/Cabin-700/Cabin-700.woff2') format('woff2'),
+       url('fonts/Cabin-700/Cabin-700.woff') format('woff'),
+       url('fonts/Cabin-700/Cabin-700.ttf') format('truetype'),
+       url('fonts/Cabin-700/Cabin-700.svg#Cabin') format('svg');
+}
+
+@font-face {
+  font-family: 'Telex';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/Telex-regular/Telex-regular.eot');
+  src: url('fonts/Telex-regular/Telex-regular.eot?#iefix') format('embedded-opentype'),
+       local('Telex-Regular'),
+       local('Telex-regular'),
+       url('fonts/Telex-regular/Telex-regular.woff2') format('woff2'),
+       url('fonts/Telex-regular/Telex-regular.woff') format('woff'),
+       url('fonts/Telex-regular/Telex-regular.ttf') format('truetype'),
+       url('fonts/Telex-regular/Telex-regular.svg#Telex') format('svg');
+}
+
+@font-face {
+  font-family: 'News Cycle';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/News-Cycle-regular/News-Cycle-regular.eot');
+  src: url('fonts/News-Cycle-regular/News-Cycle-regular.eot?#iefix') format('embedded-opentype'),
+       local('News Cycle'),
+       local('News-Cycle-regular'),
+       url('fonts/News-Cycle-regular/News-Cycle-regular.woff2') format('woff2'),
+       url('fonts/News-Cycle-regular/News-Cycle-regular.woff') format('woff'),
+       url('fonts/News-Cycle-regular/News-Cycle-regular.ttf') format('truetype'),
+       url('fonts/News-Cycle-regular/News-Cycle-regular.svg#NewsCycle') format('svg');
+}
+
+@font-face {
+  font-family: 'News Cycle';
+  font-weight: 700;
+  font-style: normal;
+  src: url('fonts/News-Cycle-700/News-Cycle-700.eot');
+  src: url('fonts/News-Cycle-700/News-Cycle-700.eot?#iefix') format('embedded-opentype'),
+       local('News Cycle Bold'),
+       local('News-Cycle-700'),
+       url('fonts/News-Cycle-700/News-Cycle-700.woff2') format('woff2'),
+       url('fonts/News-Cycle-700/News-Cycle-700.woff') format('woff'),
+       url('fonts/News-Cycle-700/News-Cycle-700.ttf') format('truetype'),
+       url('fonts/News-Cycle-700/News-Cycle-700.svg#NewsCycle') format('svg');
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-weight: 300;
+  font-style: normal;
+  src: url('fonts/Josefin-Sans-300/Josefin-Sans-300.eot');
+  src: url('fonts/Josefin-Sans-300/Josefin-Sans-300.eot?#iefix') format('embedded-opentype'),
+       local('Josefin Sans Light'),
+       local('Josefin-Sans-300'),
+       url('fonts/Josefin-Sans-300/Josefin-Sans-300.woff2') format('woff2'),
+       url('fonts/Josefin-Sans-300/Josefin-Sans-300.woff') format('woff'),
+       url('fonts/Josefin-Sans-300/Josefin-Sans-300.ttf') format('truetype'),
+       url('fonts/Josefin-Sans-300/Josefin-Sans-300.svg#JosefinSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/Josefin-Sans-regular/Josefin-Sans-regular.eot');
+  src: url('fonts/Josefin-Sans-regular/Josefin-Sans-regular.eot?#iefix') format('embedded-opentype'),
+       local('Josefin Sans'),
+       local('Josefin-Sans-regular'),
+       url('fonts/Josefin-Sans-regular/Josefin-Sans-regular.woff2') format('woff2'),
+       url('fonts/Josefin-Sans-regular/Josefin-Sans-regular.woff') format('woff'),
+       url('fonts/Josefin-Sans-regular/Josefin-Sans-regular.ttf') format('truetype'),
+       url('fonts/Josefin-Sans-regular/Josefin-Sans-regular.svg#JosefinSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-weight: 700;
+  font-style: normal;
+  src: url('fonts/Josefin-Sans-700/Josefin-Sans-700.eot');
+  src: url('fonts/Josefin-Sans-700/Josefin-Sans-700.eot?#iefix') format('embedded-opentype'),
+       local('Josefin Sans Bold'),
+       local('Josefin-Sans-700'),
+       url('fonts/Josefin-Sans-700/Josefin-Sans-700.woff2') format('woff2'),
+       url('fonts/Josefin-Sans-700/Josefin-Sans-700.woff') format('woff'),
+       url('fonts/Josefin-Sans-700/Josefin-Sans-700.ttf') format('truetype'),
+       url('fonts/Josefin-Sans-700/Josefin-Sans-700.svg#JosefinSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Muli';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/Muli-regular/Muli-regular.eot');
+  src: url('fonts/Muli-regular/Muli-regular.eot?#iefix') format('embedded-opentype'),
+       local('Muli'),
+       local('Muli-regular'),
+       url('fonts/Muli-regular/Muli-regular.woff2') format('woff2'),
+       url('fonts/Muli-regular/Muli-regular.woff') format('woff'),
+       url('fonts/Muli-regular/Muli-regular.ttf') format('truetype'),
+       url('fonts/Muli-regular/Muli-regular.svg#Muli') format('svg');
+}
+
+@font-face {
+  font-family: 'Droid Sans';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/Droid-Sans-regular/Droid-Sans-regular.eot');
+  src: url('fonts/Droid-Sans-regular/Droid-Sans-regular.eot?#iefix') format('embedded-opentype'),
+       local('Droid Sans'),
+       local('Droid-Sans-regular'),
+       url('fonts/Droid-Sans-regular/Droid-Sans-regular.woff2') format('woff2'),
+       url('fonts/Droid-Sans-regular/Droid-Sans-regular.woff') format('woff'),
+       url('fonts/Droid-Sans-regular/Droid-Sans-regular.ttf') format('truetype'),
+       url('fonts/Droid-Sans-regular/Droid-Sans-regular.svg#DroidSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Droid Sans';
+  font-weight: 700;
+  font-style: normal;
+  src: url('fonts/Droid-Sans-700/Droid-Sans-700.eot');
+  src: url('fonts/Droid-Sans-700/Droid-Sans-700.eot?#iefix') format('embedded-opentype'),
+       local('Droid Sans Bold'),
+       local('Droid-Sans-700'),
+       url('fonts/Droid-Sans-700/Droid-Sans-700.woff2') format('woff2'),
+       url('fonts/Droid-Sans-700/Droid-Sans-700.woff') format('woff'),
+       url('fonts/Droid-Sans-700/Droid-Sans-700.ttf') format('truetype'),
+       url('fonts/Droid-Sans-700/Droid-Sans-700.svg#DroidSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Noticia Text';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/Noticia-Text-regular/Noticia-Text-regular.eot');
+  src: url('fonts/Noticia-Text-regular/Noticia-Text-regular.eot?#iefix') format('embedded-opentype'),
+       local('Noticia Text'),
+       local('Noticia-Text-regular'),
+       url('fonts/Noticia-Text-regular/Noticia-Text-regular.woff2') format('woff2'),
+       url('fonts/Noticia-Text-regular/Noticia-Text-regular.woff') format('woff'),
+       url('fonts/Noticia-Text-regular/Noticia-Text-regular.ttf') format('truetype'),
+       url('fonts/Noticia-Text-regular/Noticia-Text-regular.svg#NoticiaText') format('svg');
+}
+
+@font-face {
+  font-family: 'Oswald';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/Oswald-regular/Oswald-regular.eot');
+  src: url('fonts/Oswald-regular/Oswald-regular.eot?#iefix') format('embedded-opentype'),
+       local('Oswald Regular'),
+       local('Oswald-regular'),
+       url('fonts/Oswald-regular/Oswald-regular.woff2') format('woff2'),
+       url('fonts/Oswald-regular/Oswald-regular.woff') format('woff'),
+       url('fonts/Oswald-regular/Oswald-regular.ttf') format('truetype'),
+       url('fonts/Oswald-regular/Oswald-regular.svg#Oswald') format('svg');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/Ubuntu-regular/Ubuntu-regular.eot');
+  src: url('fonts/Ubuntu-regular/Ubuntu-regular.eot?#iefix') format('embedded-opentype'),
+       local('Ubuntu'),
+       local('Ubuntu-regular'),
+       url('fonts/Ubuntu-regular/Ubuntu-regular.woff2') format('woff2'),
+       url('fonts/Ubuntu-regular/Ubuntu-regular.woff') format('woff'),
+       url('fonts/Ubuntu-regular/Ubuntu-regular.ttf') format('truetype'),
+       url('fonts/Ubuntu-regular/Ubuntu-regular.svg#Ubuntu') format('svg');
+}
+
