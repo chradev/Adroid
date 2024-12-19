@@ -2,7 +2,7 @@
 <html>
 	<title>Markdown viewer</title>
 	<head>
-		<link rel="shortcut icon" type="image/png" href="mdviewer/favicon.png">
+		<link rel="shortcut icon" type="image/png" href="assets/mdviewer/favicon.png">
 	</head>
 	<body> <!--cerulean readable spacelab-->
 		<div style="display: inline-block; position: fixed; top: 0; bottom: 0; left: 0; right: 0; width: 200px; height: 100px; margin: auto; font-size: 22px; font-weight: bold;" id="loading">Loading ...</div>
@@ -60,7 +60,7 @@
 				document.getElementById('content').innerHTML = xmlHttp.responseText;
 
 				var strapDownScriptElement = document.createElement('script');
-				strapDownScriptElement.setAttribute('src', 'mdviewer/strapdown.js');
+				strapDownScriptElement.setAttribute('src', 'assets/mdviewer/strapdown.js');
 
 				document.head.appendChild(strapDownScriptElement);
 
