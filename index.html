@@ -35,7 +35,7 @@
 			fileName = path.substring(path.lastIndexOf('/') + 1, path.lastIndexOf('.'));
 
 			if(fileName === path) {
-				fileName = 'index';
+				fileName = 'README';
 			}
 		}
 		{
@@ -68,7 +68,7 @@
 			}
 		};
 
-		xmlHttp.open('GET', 'README' + '.md', true);
+		xmlHttp.open('GET', fileName + '.md', true);
 		xmlHttp.send();
 	</script>
 </html>
