@@ -1,14 +1,14 @@
 ## Adroid
 
-<a href="https://github.com/chradev/Adroid" target="_blank">Adroid</a> is proposed as an open S.T.E.A.M. platform and a process for building of educational aids like robots based on the principles of the Open Source in all aspects including but not limited to the ideas, algorithms, internal and external design, mechanical, electronical and software staff. It is intended to include latest science, technology and art achievements with a special respect to an advanced learning process appropriate for any person age, interests and profession.
+<a href="https://github.com/chradev/Adroid" target="_blank">Adroid</a> is proposed as an open S.T.E.A.M. platform and a process for building educational aids like robots following the Open Source movement in all its aspects, including but not limited to the ideas, algorithms, internal and external design, mechanical, electronic, and software staff. It is intended to include latest science, technology, and art achievements with a special respect to ***"Learn by Doing"*** and ***"Teach by Learning"*** principles, appropriate for any person's age, interests, and profession.
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ProtoDesk-03.png?raw=true" width="100%" align="center" alt="Adroid robots" title="&shy;&#8197;         the Small, the Tall, the Wide &#013;      Малкият, Високият, Широкият &#013;(Дребосъкът, Дангалакът, Дебелакът)">
 
-#### <p align=center>Adroid the project is all about 'Learn by Doing' and aims to perfect your brain and hands<br>using the latest science, technology and art achievements.</p>
+#### <p align=center>Adroid the project is all about "Learn by Doing" and "Teach by Learning",<br>which aim to perfect your brain and hands using the latest science, technology, and art achievements.</p>
 
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
-## Learn by Doing
+## "Learn by Doing" and "Teach by Learning"
 
 The Open S.T.E.A.M. is an idea directly related to a platform for multidisciplinary projects in scope, with the only possible process being the learning through the active participation of the parties in their implementation. In this line of thought, the parties targeted in the process are equal in terms of rights and obligations, with often changing roles as students and teachers.
 
