@@ -121,10 +121,14 @@ The above list will be updated continuously, so any new ideas are welcome.
 <th width="35%" style="text-align: center;vertical-align: top;"> Raspberry Pi 5 <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RPi_5_active_cooler-700x700.jpg?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pcie-to-2-ch-m2-hat-plus.webp?raw=true" width="48%"height="auto" > 
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sk-nvme-2242-256g-ssd-m2.webp?raw=true" width="48%"height="auto" > <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="48%"height="auto" >
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/camera-imx519.webp?raw=true" width="48%"height="auto" > <br>
-                                             2x 8/16/64MP RPi cammeras (different options) <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sk-nvme-2242-256g-ssd-m2.png?raw=true" width="48%"height="auto" > <br>
+                                             Gen 2/3 PCIe to 2x M.2 hat with NVMe SSD and AI accelerator <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="31%"height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/camera-imx519.webp?raw=true" width="31%"height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RPi-AI-Camera.png?raw=true" width="31%"height="auto" > <br>
+                                             up to 2x 8/16/64MP or AI RPi cammeras (different options) <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ArducamMultiCaneraSolution.jpg?raw=true" width="98%"height="auto" > <br>
+                                             up to 2x Synchronized Quad-Camera hats with up to 8 cammeras <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="48%"height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="48%"height="auto" > <br>
                                              5" / 7" HDMI built-in display (different options) <br>
