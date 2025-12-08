@@ -63,7 +63,7 @@ The above list will be updated continuously, so any new ideas are welcome.
 <tr >
     <td style="text-align: end;" > Vision hardware </td>
     <td > 1-2x Seeed Studio XIAO ESP32S3 Sense module with 2&nbsp;MP OV2640 SPI camera </td>
-    <td colspan="2" > 1-8x RPi or Arducam 8, 16 or 64 MP CSI cameras connected to RPi&nbsp;5 and optional Arducam CamArray Camera HAT and/or RPi AI camera </td></tr>
+    <td colspan="2" > 1-8x RPi or Arducam 8, 16 or 64 MP CSI cameras connected to RPi&nbsp;5 directly or via Arducam CamArray HAT, RPi AI cameras (optional) </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Vision software </td>
     <td > Free RTOS, C/C++ and WS based MJPEG streaming </td>
