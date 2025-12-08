@@ -1,10 +1,10 @@
 ## Adroid
 
-<img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ProtoDesk-02.png?raw=true" width="50%" align="right" alt="Adroid robots" title="&shy;&#8197;         the Small, the Tall, the Wide &#013;      Малкият, Високият, Широкият &#013;(Дребосъкът, Дангалакът, Дебелакът)">
+<a href="https://github.com/chradev/Adroid" target="_blank">Adroid</a> is proposed as an open S.T.E.A.M. platform and a process for building of educational aids like robots based on the principles of the Open Source in all aspects including but not limited to the ideas, algorithms, internal and external design, mechanical, electronical and software staff. It is intended to include latest science, technology and art achievements with a special respect to an advanced learning process appropriate for any person age, interests and profession.
 
-[Adroid](https://en.wikipedia.org/wiki/User:chradev/Adroid) is proposed as an open S.T.E.A.M. platform and a process for building of educational aids like robots based on the principles of the Open Source in all aspects including but not limited to the ideas, algorithms, internal and external design, mechanical, electronical and software staff. It is intended to include latest science, technology and art achievements with a special respect to an advanced learning process appropriate for any person age, interests and profession.
+<img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ProtoDesk-03.png?raw=true" width="100%" align="center" alt="Adroid robots" title="&shy;&#8197;         the Small, the Tall, the Wide &#013;      Малкият, Високият, Широкият &#013;(Дребосъкът, Дангалакът, Дебелакът)">
 
-#### Adroid the project is all about 'Learn by Doing' and aims to perfect your mind and hands using the latest science, technology and art achievements.
+#### <center>Adroid the project is all about 'Learn by Doing' and aims to perfect your brain and hands<br>using the latest science, technology and art achievements.</center>
 
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
