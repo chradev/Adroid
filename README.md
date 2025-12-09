@@ -30,8 +30,6 @@ The above list will be updated continuously, so any new ideas are welcome.
 
 #### Adroid robot variants
 
-#### Adroid robot variants
-
 <table style="overflow-y: hidden; width: 100%;height: 100%;font-size:0.9em;text-align: center; border:1px; border-collapse: collapse;">
 <thead>
 <tr >
