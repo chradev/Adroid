@@ -30,73 +30,86 @@ The above list will be updated continuously, so any new ideas are welcome.
 
 #### Adroid robot variants
 
+#### Adroid robot variants
+
 <table style="overflow-y: hidden; width: 100%;height: 100%;font-size:0.9em;text-align: center; border:1px; border-collapse: collapse;">
 <thead>
 <tr >
-    <th width="28%" style="text-align: center;" > Adroid robot <br> variant / feature </th>
-    <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></th>
-    <th width="22%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theTall.png?raw=true" width="auto" height="240px" ></th>
-    <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide-02.png?raw=true" width="auto" height="240px" ></th></tr>
+    <th width="10%" style="text-align: center;" > Adroid robot <br> variant / feature </th>
+    <th width="18%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></th>
+    <th width="18%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theTall.png?raw=true" width="auto" height="240px" ></th>
+    <th width="18%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide-02.png?raw=true" width="auto" height="240px" ></th>
+    <th width="18%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmart.png?raw=true" width="auto" height="240px" ></th></tr>
 </thead><tbody>
 <tr >
     <td style="text-align: end;"> Pricing </td>
     <td style="text-align: center;"> Low budget variant </td>
-    <td colspan="2" style="text-align: center;"> Advanced variants </td></tr>
+    <td style="text-align: center;" colspan="2" style="text-align: center;"> Advanced variants </td>
+    <td style="text-align: center;">Variant with built-in AI acceleration</td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Main computer hardware </td>
-    <td > Seeed Studio XIAO ESP32S3 Sense module </td>
-    <td colspan="2" > RPi 5 SBC, active cooling, Gen 2/3 PCIe to 2x M.2 hat, up to 2x NVMe SSD, Hailo 8/8L or other AI M.2 accelerator module (optional) </td></tr>
+    <td style="text-align: center;" > Seeed Studio XIAO ESP32S3 Sense module </td>
+    <td style="text-align: center;" colspan="2" > RPi 5 SBC, active cooling, Gen 2/3 PCIe to 2x M.2 hat, up to 2x NVMe SSD, Hailo 8/8L or other AI M.2 accelerator module (optional) </td>
+    <td style="text-align: center;" >Nvidia Jetson (Orin) Nano SBC, Gen 3 NVMe SSD</td></tr>
 <tr >
     <td style="text-align: end;" > Main computer software </td>
-    <td > Free RTOS, C/C++ </td>
-    <td colspan="2" > Linux, C/C++, Python, JavaScript </td></tr>
+    <td style="text-align: center;" > Free RTOS, C/C++ </td>
+    <td style="text-align: center;" colspan="3" > Linux, C/C++, Python, JavaScript </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Dispaly devices </td>
-    <td > 3.2" TFT SPI or 4-5" TFT HDMI display and RPi Pico module </td>
-    <td colspan="2" > 5-7" TFT HDMI display or multimedia projector  </td></tr>
+    <td style="text-align: center;" > 3.2" TFT SPI or 4-5" TFT HDMI display and RPi Pico module </td>
+    <td style="text-align: center;" colspan="2" > 5-7" TFT HDMI display or multimedia projector </td>
+    <td style="text-align: center;" > 7" TFT DisplayPort display or multimedia projector </td></tr>
 <tr >
     <td style="text-align: end;" > Auxiliary computer hardware </td>
-    <td colspan="3" > RPi Pico module </td></tr>
+    <td style="text-align: center;" colspan="4" > RPi Pico module </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Auxiliary computer software </td>
-    <td colspan="3" > C/C++, RPi Pico multicore and PIO features </td></tr>
+    <td style="text-align: center;" colspan="4" > C/C++, RPi Pico multicore and PIO features </td></tr>
 <tr >
     <td style="text-align: end;" > Vision hardware </td>
-    <td > 1-2x Seeed Studio XIAO ESP32S3 Sense module with 2&nbsp;MP OV2640 SPI camera </td>
-    <td colspan="2" > 1-8x RPi or Arducam 8, 16 or 64 MP CSI cameras connected to RPi&nbsp;5 directly or via Arducam CamArray Hat, RPi AI cameras (optional) </td></tr>
+    <td style="text-align: center;" > 1-2x Seeed Studio XIAO ESP32S3 Sense module with 2&nbsp;MP OV2640 SPI camera </td>
+    <td style="text-align: center;" colspan="3" > 1-8x RPi or Arducam 8, 16 or 64 MP CSI cameras connected to RPi&nbsp;5 directly or via Arducam CamArray Hat, RPi AI cameras (optional) </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Vision software </td>
-    <td > Free RTOS, C/C++ and WS based MJPEG streaming </td>
-    <td colspan="2" > Linux, C/C++, Python, WS based h264 streaming server </td></tr>
+    <td style="text-align: center;" > Free RTOS, C/C++ and WS based MJPEG streaming </td>
+    <td style="text-align: center;" colspan="3" > Linux, C/C++, Python, WS based h264 streaming server </td></tr>
 <tr >
     <td style="text-align: end;" > Sound system </td>
-    <td > External sound card and built-in camera microphones </td>
-    <td colspan="2" > Speakers connected to HDMI display and microphones controlled by RPi 5 </td></tr>
+    <td style="text-align: center;" > External sound card and built-in camera microphones </td>
+    <td style="text-align: center;" colspan="2" > Speakers connected to HDMI display or I2S and microphones controlled by RPi 5 </td>
+    <td style="text-align: center;" >I2S, sound amplifier and speakers</td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Vision PTZ and head control </td>
-    <td >  Auxiliary computer with 1-2x geared stepper motors and position sensors </td>
-    <td colspan="2" > Auxiliary computer with 1-4x geared stepper motors, optional active ball joint mechanism, 3D position sensors and ePTZ based on camera control </td></tr>
+    <td style="text-align: center;" >  Auxiliary computer with 1-2x geared stepper motors and position sensors </td>
+    <td style="text-align: center;" colspan="3" > Auxiliary computer with 1-4x geared stepper motors, optional active ball joint mechanism, 3D position sensors and ePTZ based on camera control </td></tr>
 <tr >
     <td style="text-align: end;" > Body slope control </td>
-    <td colspan="3" >  Auxiliary computer with 1-2x geared stepper motors and strength and position sensors </td></tr>
+    <td style="text-align: center;" colspan="4" >  Auxiliary computer with 1-2x geared stepper motors and strength and position sensors </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Main movement control </td>
-    <td colspan="3" >  Auxiliary computer with 2x stepper motors and distance, line following, edge etc. sensors </td></tr>
+    <td style="text-align: center;" colspan="4" >  Auxiliary computer with 2x stepper motors and distance, line following, edge etc. sensors </td></tr>
 <tr >
     <td style="text-align: end;" > Painting system </td>
-    <td > Single pen system </td>
-    <td colspan="2" > Multiple-pen or liquid multicolor jet system </td></tr>
+    <td style="text-align: center;" > Single pen system </td>
+    <td style="text-align: center;" colspan="3" > Multiple-pen or liquid multicolor jet system </td></tr>
+<tr style="background-color: #fcfccc;">
+    <td style="text-align: end;" > Power consumption </td>
+    <td style="text-align: center;" > 2S LiPo battery</td>
+    <td style="text-align: center;" > 15W max; 2S LiPo battery</td>
+    <td style="text-align: center;" > 25W max; 3S LiPo battery</td>
+    <td style="text-align: center;" > 25W max; 3S LiPo battery</td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Power control </td>
-    <td colspan="3" > 3S LiPo battery, wireless charger and UPS like power control </td></tr>
+    <td style="text-align: center;" colspan="4" > Wireless charger and UPS like power control </td></tr>
 </tbody></table>
 
 #### Adroid robot main computer variants
 
 <table style="overflow-y: hidden; width: 100%;font-size:0.9em;text-align: center; border:1px; border-collapse: collapse;">
 <thead><tr >
-<th width="15%" style="text-align: center;vertical-align: middle;" > Adroid robot <br> main computer <br> variant / feature </th>
-<th width="25%" style="text-align: center;vertical-align: top;"> Seeed Studio XIAO ESP32S3 <br> (Multiply MCUs & FreeRTOS) <br>
+<th width="10%" style="text-align: center;vertical-align: middle;" > Adroid robot <br> main computer <br> variant / feature </th>
+<th width="18%" style="text-align: center;vertical-align: top;"> Seeed Studio XIAO ESP32S3 <br> (Multiply MCUs & FreeRTOS) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/XIAO-ESP32-S3_1.jpg?raw=true" width="100%" height="auto" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/xiaoesp32s3sense.jpg?raw=true" width="100%" height="auto" > <br>
                                              2x Seeed Studio XIAO ESP32S3 Sense with OV2640 SPI camera and microphone<br> 
@@ -107,7 +120,7 @@ The above list will be updated continuously, so any new ideas are welcome.
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="48%"height="auto" > <br>
                                              RP2040-Zero and 5" TFT 800/480 HDMI  built-in display (advanced option)<br>
                                              </th>
-<th width="25%" style="text-align: center;vertical-align: top;"> Raspberry Pi Zero 2 W <br> (Single SBC & Linux) <br>
+<th width="18%" style="text-align: center;vertical-align: top;"> Raspberry Pi Zero 2 W <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/raspberry-pi-zero-2-w.jpg?raw=true" width="100%" height="auto" > <br> 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/eth-usb-hub-hat.jpg?raw=true" width="100%" height="auto" <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/usb3-sd-card-reader.jpg?raw=true" width="100%"height="auto" >  <br>
@@ -118,7 +131,7 @@ The above list will be updated continuously, so any new ideas are welcome.
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="48%"height="auto" > <br>
                                              5" / 7" HDMI built-in display (different options)
                                              </th>
-<th width="35%" style="text-align: center;vertical-align: top;"> Raspberry Pi 5 <br> (Single SBC & Linux) <br>
+<th width="18%" style="text-align: center;vertical-align: top;"> Raspberry Pi 5 <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RPi_5_active_cooler-700x700.jpg?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pcie-to-2-ch-m2-hat-plus.webp?raw=true" width="48%"height="auto" > 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sk-nvme-2242-256g-ssd-m2.png?raw=true" width="48%"height="auto" > <br>
@@ -136,27 +149,47 @@ The above list will be updated continuously, so any new ideas are welcome.
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/HDMI-Monitor.jpg?raw=true" width="37%" height="auto" > <br>
                                              Pico Projector or Desktop Monitor (not includded)
                                             <br><br></th>
+<th width="18%" style="text-align: center;vertical-align: top;"> Nvidia Jetson (Orin) Nano (Super) Dev Kit <br> (Single SBC & Linux) <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/NvidiaJetsonOrinNano.png?raw=true" width="100%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="31%"height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/camera-imx519.webp?raw=true" width="31%"height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/SK-NVME-512G-SSD.jpg?raw=true" width="31%"height="auto" > <br>
+                                             up to 2x 8/16/64MP or AI RPi cammeras (different options) <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/NvidiaJetsonOrinNanoAdd-2.png?raw=true" width="100%" height="auto" > <br>
+                                             up to 2x Synchronized Quad-Camera hats with up to 8 cammeras <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="48%"height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="48%"height="auto" > <br>
+                                             5" / 7" HDMI built-in display (different options) <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/UltraMiniProjector.webp?raw=true" width="59%" height="auto" >
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/HDMI-Monitor.jpg?raw=true" width="37%" height="auto" > <br>
+                                             Pico Projector or Desktop Monitor (not includded)
+                                            </th>
 </tr></thead><tbody>
 <tr >
     <td style="text-align: end;"> Pricing </td>
     <td style="text-align: center;"> Low budget variant </td>
     <td style="text-align: center;"> Middle budget variant </td>
-    <td style="text-align: center;"> Highly priced variant </td></tr>
+    <td colspan="2" style="text-align: center;"> Highly priced variant </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;"> Rough BOM <br> [incl. VAT] </td>
     <td style="text-align: center;"> 100 &euro; </td>
     <td style="text-align: center;"> 225 &euro; (with 2x 8MP cameras and 5" display) </td>
-    <td style="text-align: center;"> 350 &euro; (with 512 GB NVMe SSD, 2x 16MP cameras and 7" display) </td></tr>
+    <td style="text-align: center;"> 350 &euro; (with 512 GB NVMe SSD, 2x 16MP cameras and 7" display)<br>+200 &euro; (add 3x 16MP cameras, Camarray Hat and Hailo 8L 13 TOPS AI accelerator) </td>
+    <td style="text-align: center;"> 520 &euro; (with 512 GB NVMe SSD, 2x 16MP cameras and 7" display)<br>+130 &euro; (add 3x 16MP cameras, Camarray Hat) </td></tr>
 <tr >
     <td style="text-align: end;vertical-align: top;"> Base features </td>
     <td style="text-align: center;vertical-align: top;"> XIAO ESP32S3 Module, ESP32-S3R8 MCU with 240 MHz Xtensa LX7 dual-core, 32-bit CPU, 8MB PSRAM, 8MB Flash, 2,4 GHz Wi-Fi (802.11 B/G/N), Bluetooth 5 (LE) & Bluetooth Mesh, 3.7V LiPo battery charger (up to 100mA), USB native, UART, I2C, SPI, I2S, ADC, GPIOs, 2x modules XIAO ESP32S3 Sense with OV2640 camera and microphone, RP2040-Zero module and 3.2" TFT 320x240 SPI display </td>
     <td style="text-align: center;vertical-align: top;"> RPi Zero 2 W SBC, RP3A0 SoP (custom-built system-in-package with 1GHz quad-core 64-bit ARM Cortex-A53 CPU), 512MB of SDRAM, Wi-Fi 802.11.b/g/n, Bluetooth 4.2/BLE, I2C, SPI, UART, I2S, CSI, GPIOs, USB HUB / 100MB Ethernet HAT for Raspberry Pi Zero, SD card reader and fast SD card, Stereo Camera Module V2 and 2x 8MP RPi Camera V2, 5" 800x480 HDMI display with capacity USB Touch screen and audio output </td>
-    <td style="text-align: center;vertical-align: top;"> RPi 5 SBC, Broadcom BCM2712 2.4GHz quad-core 64-bit Arm Cortex-A76 CPU, with Cryptographic Extension, 512KB per-core L2 caches, and a 2MB shared L3 cache, VideoCore VII GPU, supporting OpenGL ES 3.1, Vulkan 1.2, Dual 4Kp60 HDMI display output with HDR support, 4Kp60 HEVC decoder, 8GB LPDDR4X-4267 SDRAM, Dual-band 802.11ac Wi-Fi, Bluetooth 5.0 / Bluetooth Low Energy (BLE),  microSD card slot, with support for high-speed SDR104 mode, 2x USB 3.0 ports, supporting simultaneous 5Gbps operation, 2x USB 2.0 ports,  Gigabit Ethernet, 2x micro-HDMI ports supporting 4kp60 with HDR, 2x 4-lane MIPI camera/display transceivers,  PCIe 2.0 x1 interface for fast peripherals, PCIe to 2-CHANNEL M.2 HAT for RPi 5, 256GB M.2 NVME 2242 high-speed SSD with high-quality 3D TLC flash memory, I2C, SPI, UART, I2S, GPIOs, RPi 5 Active Cooler, 2x 16MP RPi IMX519 Camera with autofocus, 7" 1024x600 IPS HDMI display with capacity USB Touch screen and audio output </td></tr>
+    <td style="text-align: center;vertical-align: top;"> RPi 5 SBC, Broadcom BCM2712 2.4GHz quad-core 64-bit Arm Cortex-A76 CPU, with Cryptographic Extension, 512KB per-core L2 caches, and a 2MB shared L3 cache, VideoCore VII GPU, supporting OpenGL ES 3.1, Vulkan 1.2, Dual 4Kp60 HDMI display output with HDR support, 4Kp60 HEVC decoder, 8GB LPDDR4X-4267 SDRAM, Dual-band 802.11ac Wi-Fi, Bluetooth 5.0 / Bluetooth Low Energy (BLE),  microSD card slot, with support for high-speed SDR104 mode, 2x USB 3.0 ports, supporting simultaneous 5Gbps operation, 2x USB 2.0 ports,  Gigabit Ethernet, 2x micro-HDMI ports supporting 4kp60 with HDR, 2x 4-lane MIPI camera/display transceivers,  PCIe 2.0 x1 interface for fast peripherals, PCIe to 2-CHANNEL M.2 HAT for RPi 5, 256GB M.2 NVME 2242 high-speed SSD with high-quality 3D TLC flash memory, I2C, SPI, UART, I2S, GPIOs, RPi 5 Active Cooler, 2x 16MP RPi IMX519 Camera with autofocus, 7" 1024x600 IPS HDMI display with capacity USB Touch screen and audio output </td>
+
+    <td style="text-align: center;vertical-align: top;">Jetson Orin Nano 8GB модул (SOM): AI Performance: 67 INT8 TOPS; GPU: NVIDIA Ampere architecture with 1024 CUDA cores and 32 tensor cores; CPU: 6-core Arm® Cortex®-A78AE v8.2 64-bit CPU 1.5MB L2 + 4MB L3; RAM: 8GB 128-bit LPDDR5 102GB/s; Support for external NVMe; Power: 7 W – 25 W<br>
+    Carrier Board: 4 x USB 3.2 Gen2 Type-A; 1 x USB-C; 1 x Gigabit Ethernet; Video output: DisplayPort 1.2 (no HDMI port); 2 x MIPI CSI connectors for cameras; 40-pin GPIO connector (I2C, SPI, UART, PWM и др.); M.2 Key M slot for NVMe SSD (no NVME modul); M.2 Key E slot for Wi-Fi / Bluetooth module (WiFi modul mounted); microSD slot for microSD card; DC power jack</td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;"> Dimensions </td>
     <td style="text-align: center;"> 21 x 17,5 mm </td>
     <td style="text-align: center;"> 65 x 30 mm </td>
-    <td style="text-align: center;"> 85 x 56 mm </td></tr>
+    <td style="text-align: center;"> 85 x 56 mm </td>
+    <td style="text-align: center;"> 91 x 103 mm </td></tr>
 </tbody></table>
 
 #### Adroid robot commom staff
