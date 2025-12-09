@@ -146,7 +146,7 @@ The above list will be updated continuously, so any new ideas are welcome.
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/UltraMiniProjector.webp?raw=true" width="59%" height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/HDMI-Monitor.jpg?raw=true" width="37%" height="auto" > <br>
                                              Pico Projector or Desktop Monitor (not includded)
-                                            <br><br></th>
+                                            </th>
 <th width="18%" style="text-align: center;vertical-align: top;"> Nvidia Jetson (Orin) Nano (Super) Dev Kit <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/NvidiaJetsonOrinNano.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="31%"height="auto" >
