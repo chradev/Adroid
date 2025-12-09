@@ -47,8 +47,8 @@ The above list will be updated continuously, so any new ideas are welcome.
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Main computer hardware </td>
     <td style="text-align: center;" > Seeed Studio XIAO ESP32S3 Sense module </td>
-    <td style="text-align: center;" colspan="2" > RPi 5 SBC, active cooling, Gen 2/3 PCIe to 2x M.2 hat, up to 2x NVMe SSD, Hailo 8/8L or other AI M.2 accelerator module (optional) </td>
-    <td style="text-align: center;" >Nvidia Jetson (Orin) Nano SBC, Gen 3 NVMe SSD</td></tr>
+    <td style="text-align: center;" colspan="2" > RPi 5 4/8/16GB RAM SBC, active cooling, Gen 2/3 PCIe to 2x M.2 hat, up to 2x NVMe SSD, Hailo 8/8L or other AI M.2 accelerator module (optional) </td>
+    <td style="text-align: center;" >Nvidia Jetson (Orin) Nano (Super) Dev Kit, Gen 3 NVMe SSD</td></tr>
 <tr >
     <td style="text-align: end;" > Main computer software </td>
     <td style="text-align: center;" > Free RTOS, C/C++ </td>
@@ -129,7 +129,7 @@ The above list will be updated continuously, so any new ideas are welcome.
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="48%"height="auto" > <br>
                                              5" / 7" HDMI built-in display (different options)
                                              </th>
-<th width="18%" style="text-align: center;vertical-align: top;"> Raspberry Pi 5 <br> (Single SBC & Linux) <br>
+<th width="18%" style="text-align: center;vertical-align: top;"> Raspberry Pi 5 4/8/16GB RAM <br> (Single SBC & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RPi_5_active_cooler-700x700.jpg?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pcie-to-2-ch-m2-hat-plus.webp?raw=true" width="48%"height="auto" > 
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/sk-nvme-2242-256g-ssd-m2.png?raw=true" width="48%"height="auto" > <br>
@@ -172,13 +172,13 @@ The above list will be updated continuously, so any new ideas are welcome.
     <td style="text-align: end;"> Rough BOM <br> [incl. VAT] </td>
     <td style="text-align: center;"> 100 &euro; </td>
     <td style="text-align: center;"> 225 &euro; (with 2x 8MP cameras and 5" display) </td>
-    <td style="text-align: center;"> 350 &euro; (with 512 GB NVMe SSD, 2x 16MP cameras and 7" display)<br>+200 &euro; (add 3x 16MP cameras, Camarray Hat and Hailo 8L 13 TOPS AI accelerator) </td>
-    <td style="text-align: center;"> 520 &euro; (with 512 GB NVMe SSD, 2x 16MP cameras and 7" display)<br>+130 &euro; (add 3x 16MP cameras, Camarray Hat) </td></tr>
+    <td style="text-align: center;"> 350 &euro; (with 8GB RAM, 512 GB NVMe SSD, 2x 16MP cameras and 7" display)<br>+200 &euro; (add 3x 16MP cameras, Camarray Hat and Hailo 8L 13 TOPS AI accelerator) </td>
+    <td style="text-align: center;"> 520 &euro; (Orin variant with 512 GB NVMe SSD, 2x 16MP cameras and 7" display)<br>+130 &euro; (add 3x 16MP cameras, Camarray Hat) </td></tr>
 <tr >
     <td style="text-align: end;vertical-align: top;"> Base features </td>
     <td style="text-align: center;vertical-align: top;"> XIAO ESP32S3 Module, ESP32-S3R8 MCU with 240 MHz Xtensa LX7 dual-core, 32-bit CPU, 8MB PSRAM, 8MB Flash, 2,4 GHz Wi-Fi (802.11 B/G/N), Bluetooth 5 (LE) & Bluetooth Mesh, 3.7V LiPo battery charger (up to 100mA), USB native, UART, I2C, SPI, I2S, ADC, GPIOs, 2x modules XIAO ESP32S3 Sense with OV2640 camera and microphone, RP2040-Zero module and 3.2" TFT 320x240 SPI display </td>
     <td style="text-align: center;vertical-align: top;"> RPi Zero 2 W SBC, RP3A0 SoP (custom-built system-in-package with 1GHz quad-core 64-bit ARM Cortex-A53 CPU), 512MB of SDRAM, Wi-Fi 802.11.b/g/n, Bluetooth 4.2/BLE, I2C, SPI, UART, I2S, CSI, GPIOs, USB HUB / 100MB Ethernet HAT for Raspberry Pi Zero, SD card reader and fast SD card, Stereo Camera Module V2 and 2x 8MP RPi Camera V2, 5" 800x480 HDMI display with capacity USB Touch screen and audio output </td>
-    <td style="text-align: center;vertical-align: top;"> RPi 5 SBC, Broadcom BCM2712 2.4GHz quad-core 64-bit Arm Cortex-A76 CPU, with Cryptographic Extension, 512KB per-core L2 caches, and a 2MB shared L3 cache, VideoCore VII GPU, supporting OpenGL ES 3.1, Vulkan 1.2, Dual 4Kp60 HDMI display output with HDR support, 4Kp60 HEVC decoder, 8GB LPDDR4X-4267 SDRAM, Dual-band 802.11ac Wi-Fi, Bluetooth 5.0 / Bluetooth Low Energy (BLE),  microSD card slot, with support for high-speed SDR104 mode, 2x USB 3.0 ports, supporting simultaneous 5Gbps operation, 2x USB 2.0 ports,  Gigabit Ethernet, 2x micro-HDMI ports supporting 4kp60 with HDR, 2x 4-lane MIPI camera/display transceivers,  PCIe 2.0 x1 interface for fast peripherals, PCIe to 2-CHANNEL M.2 HAT for RPi 5, 256GB M.2 NVME 2242 high-speed SSD with high-quality 3D TLC flash memory, I2C, SPI, UART, I2S, GPIOs, RPi 5 Active Cooler, 2x 16MP RPi IMX519 Camera with autofocus, 7" 1024x600 IPS HDMI display with capacity USB Touch screen and audio output </td>
+    <td style="text-align: center;vertical-align: top;"> RPi 5 4/8/16GB RAM SBC, Broadcom BCM2712 2.4GHz quad-core 64-bit Arm Cortex-A76 CPU, with Cryptographic Extension, 512KB per-core L2 caches, and a 2MB shared L3 cache, VideoCore VII GPU, supporting OpenGL ES 3.1, Vulkan 1.2, Dual 4Kp60 HDMI display output with HDR support, 4Kp60 HEVC decoder, 8GB LPDDR4X-4267 SDRAM, Dual-band 802.11ac Wi-Fi, Bluetooth 5.0 / Bluetooth Low Energy (BLE),  microSD card slot, with support for high-speed SDR104 mode, 2x USB 3.0 ports, supporting simultaneous 5Gbps operation, 2x USB 2.0 ports,  Gigabit Ethernet, 2x micro-HDMI ports supporting 4kp60 with HDR, 2x 4-lane MIPI camera/display transceivers,  PCIe 2.0 x1 interface for fast peripherals, PCIe to 2-CHANNEL M.2 HAT for RPi 5, 256GB M.2 NVME 2242 high-speed SSD with high-quality 3D TLC flash memory, I2C, SPI, UART, I2S, GPIOs, RPi 5 Active Cooler, 2x 16MP RPi IMX519 Camera with autofocus, 7" 1024x600 IPS HDMI display with capacity USB Touch screen and audio output </td>
     <td style="text-align: center;vertical-align: top;">Jetson Orin Nano 8GB модул (SOM): AI Performance: 67 INT8 TOPS; GPU: NVIDIA Ampere architecture with 1024 CUDA cores and 32 tensor cores; CPU: 6-core Arm® Cortex®-A78AE v8.2 64-bit CPU 1.5MB L2 + 4MB L3; RAM: 8GB 128-bit LPDDR5 102GB/s; Support for external NVMe; Power: 7 W – 25 W<br>Carrier Board: 4 x USB 3.2 Gen2 Type-A; 1 x USB-C; 1 x Gigabit Ethernet; Video output: DisplayPort 1.2 (no HDMI port); 2 x MIPI CSI connectors for cameras; 40-pin GPIO connector (I2C, SPI, UART, PWM и др.); M.2 Key M slot for NVMe SSD (no NVME modul); M.2 Key E slot for Wi-Fi / Bluetooth module (WiFi modul mounted); microSD slot for microSD card; DC power jack</td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;"> Dimensions </td>
