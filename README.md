@@ -36,7 +36,7 @@ The above list will be updated continuously, so any new ideas are welcome.
     <th width="28%" style="text-align: center;" > Adroid robot <br> variant / feature </th>
     <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></th>
     <th width="22%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theTall.png?raw=true" width="auto" height="240px" ></th>
-    <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide.png?raw=true" width="auto" height="240px" ></th></tr>
+    <th width="25%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide-02.png?raw=true" width="auto" height="240px" ></th></tr>
 </thead><tbody>
 <tr >
     <td style="text-align: end;"> Pricing </td>
