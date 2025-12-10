@@ -2,7 +2,7 @@
 
 <a href="https://github.com/chradev/Adroid" target="_blank">Adroid</a> is proposed as an open S.T.E.A.M. platform and a process for building educational aids like robots following the Open Source movement in all its aspects, including but not limited to the ideas, algorithms, internal and external design, mechanical, electronic, and software staff. It is intended to include latest science, technology, and art achievements with a special respect to ***"Learn by Doing"*** and ***"Teach by Learning"*** principles, appropriate for any person's age, interests, and profession.
 
-<img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ProtoDesk-04.png?raw=true" width="100%" align="center" alt="Adroid robots" title="&shy;&#8197;         the Small, the Tall, the Wide &#013;      Малкият, Високият, Широкият &#013;(Дребосъкът, Дангалакът, Дебелакът)">
+<img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ProtoDesk-05.png?raw=true" width="100%" align="center" alt="Adroid robots" title="&shy;&#8197;         the Small, the Tall, the Wide &#013;      Малкият, Високият, Широкият &#013;(Дребосъкът, Дангалакът, Дебелакът)">
 
 #### <p align=center>Adroid the project is all about "Learn by Doing" and "Teach by Learning",<br>which aim to perfect your brain and hands using the latest science, technology, and art achievements.</p>
 
@@ -37,7 +37,7 @@ The above list will be updated continuously, so any new ideas are welcome.
     <th width="18%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmall.png?raw=true" width="auto" height="240px" ></th>
     <th width="18%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theTall.png?raw=true" width="auto" height="240px" ></th>
     <th width="18%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide-02.png?raw=true" width="auto" height="240px" ></th>
-    <th width="18%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmart-04.png?raw=true" width="auto" height="240px" ></th></tr>
+    <th width="18%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmart-05.png?raw=true" width="auto" height="240px" ></th></tr>
 </thead><tbody>
 <tr >
     <td style="text-align: end;"> Pricing </td>
