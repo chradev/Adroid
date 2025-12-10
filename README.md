@@ -2,7 +2,7 @@
 
 <a href="https://github.com/chradev/Adroid" target="_blank">Adroid</a> is proposed as an open S.T.E.A.M. platform and a process for building educational aids like robots following the Open Source movement in all its aspects, including but not limited to the ideas, algorithms, internal and external design, mechanical, electronic, and software staff. It is intended to include latest science, technology, and art achievements with a special respect to ***"Learn by Doing"*** and ***"Teach by Learning"*** principles, appropriate for any person's age, interests, and profession.
 
-<img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ProtoDesk-05.png?raw=true" width="100%" align="center" alt="Adroid robots" title="&shy;&#8197;         the Small, the Tall, the Wide &#013;      Малкият, Високият, Широкият &#013;(Дребосъкът, Дангалакът, Дебелакът)">
+<img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ProtoDesk-05.png?raw=true" width="100%" align="center" alt="Adroid robots" title="&shy;&#8197;       the Small, the Tall, the Wide, the Smart &#013;      Малкият, Високият, Широкият, Умният &#013;(Дребосъкът, Дангалакът, Дебелакът, Добрякът)">
 
 #### <p align=center>Adroid the project is all about "Learn by Doing" and "Teach by Learning",<br>which aim to perfect your brain and hands using the latest science, technology, and art achievements.</p>
 
