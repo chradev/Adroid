@@ -93,10 +93,9 @@ The above list will be updated continuously, so any new ideas are welcome.
     <td style="text-align: center;" colspan="3" > Multiple-pen or liquid multicolor jet system </td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Power consumption </td>
-    <td style="text-align: center;" > 2S LiPo battery</td>
+    <td style="text-align: center;" > 10W max; 2S LiPo battery</td>
     <td style="text-align: center;" > 15W max; 2S LiPo battery</td>
-    <td style="text-align: center;" > 25W max; 3S LiPo battery</td>
-    <td style="text-align: center;" > 25W max; 3S LiPo battery</td></tr>
+    <td style="text-align: center;" colspan="2" > 25W max; 3S LiPo battery</td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Power control </td>
     <td style="text-align: center;" colspan="4" > Wireless charger and UPS like power control </td></tr>
