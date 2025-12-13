@@ -26,6 +26,35 @@ Therefore, the following topics are outlined in the Adroid project as a beginnin
 
 The above list will be updated continuously, so any new ideas are welcome.
 
+## How easy is it to use AI?
+
+#### It is easy to use Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) on Raspberry Pi 5!
+
+Some tests were made to use the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) on Raspberry Pi 5 16GB with Debian 13 (Trixie) desktop distribution and Linux kernel ver. 6.12.47. AI Kit's M.2 module and 512GB NVMe SSD were mounted on WaveShare PCIe to 2-CHANNEL M.2 HAT+ for Raspberry Pi 5. WaveShare 16MP autofocus camera (IMX519) was connected to the first CSI interface, and appropriate software (libcamera2, OpenCV etc.) was installed and tested to work. A series of performance tests were also made, and a better Geekbench CPU score was found for Raspberry Pi 5 Model B Rev 1.1 vs. Rev 1.0 ([2091/891](https://browser.geekbench.com/v6/cpu/15497913) vs. [1629/793](https://browser.geekbench.com/v6/cpu/5636316)).
+
+Appropriate software and AI demo examples for the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) are installed and tested to work.
+
+<table style="width: 100%; height: 100%; margins: 0; padding: 0;">
+  <tr style="margins: 0; padding: 0;">
+    <td style="width: 20%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/photo_2025-12-12_09-09-43.jpg"></td>
+    <td style="width: 20%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/2025-12-12_03%3A24%3A06.png"></td>
+    <td style="width: 30%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/2025-12-12_03%3A26%3A35-m.png"></td>
+    <td style="width: 30%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/2025-12-12_03:35:39-m.png"></td>
+  </tr>
+</table>
+
+It is worth noting that when using the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS), the CPU load and memory usage of the Raspberry Pi 5 is negligible. On the other hand video captured by the WaveShare 16MP autofocus camera (IMX519) was proceed by the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) with the same frame rate.
+
+#### It is easy to use Raspberry Pi AI Camera – IMX500 12MP on Raspberry Pi 5!
+
+The Raspberry Pi 12MP AI Camera (IMX500) module was installed on the second CSI interface of the same Raspberry Pi 5 16GB.
+
+
+
 ## Adroid robots comparison tables
 
 #### Adroid robot variants
