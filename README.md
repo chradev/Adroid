@@ -26,11 +26,12 @@ Therefore, the following topics are outlined in the Adroid project as a beginnin
 
 The above list will be updated continuously, so any new ideas are welcome.
 
+
 ## How easy is it to use AI?
 
 #### It is easy to use Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) on Raspberry Pi 5!
 
-Some tests were made to use the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) on Raspberry Pi 5 16GB with Debian 13 (Trixie) desktop distribution and Linux kernel ver. 6.12.47. AI Kit's M.2 module and 512GB NVMe SSD were mounted on WaveShare PCIe to 2-CHANNEL M.2 HAT+ for Raspberry Pi 5. WaveShare 16MP autofocus camera (IMX519) was connected to the first CSI interface, and appropriate software (libcamera2, OpenCV etc.) was installed and tested to work. A series of performance tests were also made, and a better Geekbench CPU score was found for Raspberry Pi 5 Model B Rev 1.1 vs. Rev 1.0 ([2091/891](https://browser.geekbench.com/v6/cpu/15497913) vs. [1629/793](https://browser.geekbench.com/v6/cpu/5636316)).
+Some tests were made to use the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) on Raspberry Pi 5 16GB with Debian 13 (Trixie) desktop distribution and Linux kernel ver. 6.12.47. AI Kit's M.2 module and 512GB NVMe SSD were mounted on WaveShare PCIe to 2-CHANNEL M.2 HAT+ for Raspberry Pi 5. Arducam 16MP IMX519 autofocus camera was connected to the first CSI interface, and appropriate software (libcamera2, OpenCV etc.) was installed and tested to work. A series of performance tests were also made, and a better Geekbench CPU score was found for Raspberry Pi 5 Model B Rev 1.1 vs. Rev 1.0 ([2091/891](https://browser.geekbench.com/v6/cpu/15497913) vs. [1629/793](https://browser.geekbench.com/v6/cpu/5636316)).
 
 Appropriate software and AI demo examples for the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) are installed and tested to work.
 
@@ -47,12 +48,49 @@ Appropriate software and AI demo examples for the Raspberry Pi AI Kit (HAILO 8L 
   </tr>
 </table>
 
-It is worth noting that when using the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS), the CPU load and memory usage of the Raspberry Pi 5 is negligible. On the other hand video captured by the WaveShare 16MP autofocus camera (IMX519) was proceed by the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) with the same frame rate.
+It is worth noting that when using the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS), the CPU load (16% total and 11.5% for the AI application) and memory usage (1.34 GB total and 233 MB for the AI application) of the Raspberry Pi 5 are negligible. On the other hand, video captured by the Arducam 16MP IMX519 autofocus camera was processed by the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) with the same frame rate and with a lot of objects analyzed.
 
 #### It is easy to use Raspberry Pi AI Camera – IMX500 12MP on Raspberry Pi 5!
 
-The Raspberry Pi 12MP AI Camera (IMX500) module was installed on the second CSI interface of the same Raspberry Pi 5 16GB.
+The Raspberry Pi 12MP AI Camera (IMX500) module was installed on the second CSI interface of the same Raspberry Pi 5 16GB, appropriate configuration was set and it was tested to work. After installing of required software AI functionality was tested.
 
+<table style="width: 100%; height: 100%; margins: 0; padding: 0;">
+  <tr style="margins: 0; padding: 0;">
+    <td style="width: 19%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/photo_2025-12-13_16-03-57.jpg"></td>
+    <td style="width: 15.4%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/2025-12-13_15%3A26%3A41-m.png"></td>
+    <td style="width: 24%; height: 100%; margins: 0; padding: 0;">
+      <img width="100%" src="https://www.radevs.net/chradev/Adroid/images/2025-12-13_15%3A49%3A34-m.png"></td>
+    <td style="width: 24%; height: 100%; margins: 0; padding: 0;">
+      <img width="100%" src="https://www.radevs.net/chradev/Adroid/images/2025-12-13_15%3A56%3A26-m.png"></td>
+  </tr>
+</table>
+
+#### AI solutions comparison
+
+Later on both Raspberry Pi AI Camera – IMX500 12MP and Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) with Arducam 16MP IMX519 autofocus camera were tested to work together on Raspberry Pi 5 16GB.
+
+<table style="width: 100%; height: 100%; margins: 0; padding: 0;">
+  <tr style="margins: 0; padding: 0;">
+    <td style="width: 8.5%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/RPi-AI-Camera.png"></td>
+    <td style="width: 18%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/ai-haili-8L.png"></td>
+    <td style="width: 19.5%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/imx500-comparison.png"></td>
+    <td style="width: 31%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/2025-12-13_17%3A03%3A52-m.png"></td>
+  </tr>
+</table>
+
+Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory usage was 10% or 1.58 GB (316 MB and 230 MB, respectively). As a result of comparison, it can be noted that the RPi AI camera solution is 30% cheaper (84.36 € vs. 85.90 € + 33.75 €) and uses fewer CPU resources (2.5% vs. 10%), but using a standard RPi camera with a HAILO 8L AI accelerator is a more powerful and unified solution.
+
+#### Comparison of AI solutions from different manufacturors
+
+<img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/AI-Comparison-Table-1.png">
+
+**Note:** Prices are from <a href="https://erelement.com/" target="_blank">Erelement Bg - Electronics and robotics</a>.
 
 
 ## Adroid robots comparison tables
