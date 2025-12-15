@@ -420,8 +420,9 @@ Van Hunter Adams' algorithm for the RPi Pico PIO is downloaded, built and tested
 
 https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b
 
-<video controls playsinline autoplay loop muted width="100%">
-    <source src="https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b" type="video/webm">
+<video controls playsinline autoplay loop muted width="100%"
+    src="https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b" type="video/webm"
+    aria-label="https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b">
 </video>
 
 ##### Dual camera streaming server with ePTZ control
