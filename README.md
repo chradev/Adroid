@@ -418,6 +418,8 @@ Three real Adroid prototypes (the Small, the Tall and the Wide) are shown in the
 
 Van Hunter Adams' algorithm for the RPi Pico PIO is downloaded, built and tested on the head and body movement auxiliary geared stepper motors in the Small Adroid prototype. For the building of the firmware, Linux OS on the RPi 5 board at the Wide Adroid prototype is used. The complete set of the RPi Pico C/C++ SDK and all the required libraries and tools to build and flash it on the target are also installed. The video shows synchronized body and head movements controlled by the RPi Pico PIO. The animation with 46.5 fps visible on the 3.2" TFT SPI display is generated on a separate overclocked at 250 MHz RPi Pico MCU using the TFT_eSPI library and transferred over SPI at 62.5 MHz.
 
+https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b
+
 <video controls playsinline autoplay loop muted width="100%">
     <source src="https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b" type="video/webm">
 </video>
@@ -425,6 +427,8 @@ Van Hunter Adams' algorithm for the RPi Pico PIO is downloaded, built and tested
 ##### Dual camera streaming server with ePTZ control
 
 The next video is a compilation of a user interface based Web Sockets and remote terminals running corresponding server staff and shows the real time ePTZ control of both cameras. In addition, the almost real time video streaming and its low latency are observable thanks to embedded and synchronized clocks running at both server and user ends.
+
+https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c
 
 <video controls playsinline autoplay loop muted width="100%">
     <source src="https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c" type="video/mp4">
