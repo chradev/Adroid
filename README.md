@@ -95,6 +95,7 @@ Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory
 
 **Note:** Prices are from <a href="https://erelement.com/" target="_blank">Erelement Bg - Electronics and robotics</a>.
 
+
 ## Adroid robots comparison tables
 
 #### Adroid robot variants
@@ -432,7 +433,7 @@ The next video is a compilation of a user interface based Web Sockets and remote
 
 #### 3D printed unified details and wide mount variant with own wheel design
 
-In the picture below is shown the second generation of 3D printed unified details, including own Pololu like driving wheel with two O-rings, hub and 60-tooth GT2 pulley. It is planned instead of a single motor with belt gear and a single arm with a pair of free ball bearing wheels for body movement to use a dual arm scheme with a directly coupled geared stepper motor, a nylon pulley with bearing, a PCB made strain gauge, and a pair of hall sensors for each arm. On the photo is shown a new prototype variant with two body movement auxiliary geared stepper motors;
+In the picture below is shown the second generation of 3D printed unified details, including own Pololu like driving wheel with two O-rings, hub and 60-tooth GT2 pulley. It is planned instead of a single motor with belt gear and a single arm with a pair of free ball bearing wheels for body movement to use a dual arm scheme with a directly coupled geared stepper motor, a nylon pulley with bearing, a PCB made strain gauge, and a pair of hall sensors for each arm. On the photo is shown a new prototype variant with two body movement auxiliary geared stepper motors.
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/3D-Printing-Details-Gen4-Plus.png?raw=true" alt="3D Printing Details" width="100%">
 
@@ -452,11 +453,16 @@ The simulation web application was developed in the very beginning and did not r
 
 Some of the links include staff from different projects, investigations and tests that could be used in the current development process.
 
- * [A simple web application to test different design configurations of STEAM robots](https://github.com/chradev/steam-robot-design-simulator)
- * [Dual camera, near-real-time, h.264 video streamer from RPi 5 to a bowser](https://github.com/chradev/pi-h264-to-browser-streamer)
- * [Own implementation of open source intelligent robot - startup design notes (PDF)](https://github.com/chradev/Adroid/blob/main/assets/pdfs/DesignNotes.pdf)
- * [Unified ILI9341 Graphic Test](https://github.com/chradev/Unified-ILI9341-Graphic-Test)
- * [Unified ili9340 Graphic Test plus](https://github.com/chradev/Unified_ili9340_Graphic_Test_plus)
- * [DrawWithDMA](https://github.com/chradev/DrawWithDMA)
- * [Unified Multicore Low Power IoT Platform (PDF)](https://github.com/chradev/Adroid/blob/main/assets/pdfs/Unified_Multicore_Low_Power_IoT_Platform.pdf)
- * Open S.T.E.A.M. initiative (PDFs): [En](https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM.pdf), [Bg](https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM_bg.pdf)
+ * <a href="https://github.com/chradev/Adroid" target="_blank">Adroid on Github</a>
+ * <a href="https://en.wikipedia.org/wiki/User:Chradev/Adriod" target="_blank">Adroid on Wikipedia</a>
+ * <a href="https://github.com/chradev/steam-robot-design-simulator" target="_blank">A simple web application to test different design configurations of S.T.E.A.M. robots</a> 
+ * <a href="https://github.com/chradev/pi-h264-to-browser-streamer" target="_blank">Dual camera, near-real-time, h.264 video streamer from RPi 5 to a bowser</a> 
+ * <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/DesignNotes.pdf" target="_blank">Own implementation of open source intelligent robot - startup design notes (PDF)</a> 
+ * <a href="https://github.com/chradev/Unified-ILI9341-Graphic-Test" target="_blank">Unified ILI9341 Graphic Test</a> 
+ * <a href="https://github.com/chradev/Unified_ili9340_Graphic_Test_plus" target="_blank">Unified ili9340 Graphic Test plus</a> 
+ * <a href="https://github.com/chradev/DrawWithDMA" target="_blank">DrawWithDMA</a> 
+ * <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/Unified_Multicore_Low_Power_IoT_Platform.pdf" target="_blank">Unified Multicore Low Power IoT Platform (PDF)</a> 
+ * Open S.T.E.A.M. initiative (PDFs): <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM.pdf" target="_blank">En</a>, <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM_bg.pdf" target="_blank">Bg</a>  
+
+Updated by ChRadev on 15.12.2025
+
