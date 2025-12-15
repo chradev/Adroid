@@ -421,8 +421,7 @@ Van Hunter Adams' algorithm for the RPi Pico PIO is downloaded, built and tested
 https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b
 
 <video controls playsinline autoplay loop muted width="100%"
-    src="https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b" type="video/webm"
-    alt="https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b">
+    src="https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b" type="video/webm">
 </video>
 
 ##### Dual camera streaming server with ePTZ control
@@ -431,8 +430,8 @@ The next video is a compilation of a user interface based Web Sockets and remote
 
 https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c
 
-<video controls playsinline autoplay loop muted width="100%">
-    <source src="https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c" type="video/mp4">
+<video controls playsinline autoplay loop muted width="100%"
+    src="https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c" type="video/mp4">
 </video>
 
 #### 3D printed unified details and wide mount variant with own wheel design
