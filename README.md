@@ -31,7 +31,7 @@ The above list will be updated continuously, so any new ideas are welcome.
 
 #### It is easy to use Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) on Raspberry Pi 5!
 
-Some tests were made to use the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) on Raspberry Pi 5 16GB with Debian 13 (Trixie) desktop distribution and Linux kernel ver. 6.12.47. AI Kit's M.2 module and 512GB NVMe SSD were mounted on WaveShare PCIe to 2-CHANNEL M.2 HAT+ for Raspberry Pi 5. Arducam 16MP IMX519 autofocus camera was connected to the first CSI interface, and appropriate software (libcamera2, OpenCV etc.) was installed and tested to work. A series of performance tests were also made, and a better Geekbench CPU score was found for Raspberry Pi 5 Model B Rev 1.1 vs. Rev 1.0 ([2091/891](https://browser.geekbench.com/v6/cpu/15497913) vs. [1629/793](https://browser.geekbench.com/v6/cpu/5636316)).
+Some tests were made to use the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) on Raspberry Pi 5 16GB with Debian 13 (Trixie) desktop distribution and Linux kernel ver. 6.12.47. AI Kit's M.2 module and 512GB NVMe SSD were mounted on WaveShare PCIe to 2-CHANNEL M.2 HAT+ for Raspberry Pi 5. Arducam 16MP IMX519 autofocus camera was connected to the first CSI interface, and appropriate software (libcamera2, OpenCV etc.) was installed and tested to work. A series of performance tests were also made, and a better Geekbench CPU score was found for Raspberry Pi 5 Model B Rev 1.1 vs. Rev 1.0 (<a href="https://browser.geekbench.com/v6/cpu/15497913" target="_blank">2091/891</a> vs. <a href="https://browser.geekbench.com/v6/cpu/5636316" target="_blank">1629/793</a>).
 
 Appropriate software and AI demo examples for the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) are installed and tested to work. The camera was directed to the high-resolution monitor of the desktop computer, where the following YouTube video clips were displayed:
 
@@ -465,4 +465,3 @@ Some of the links include staff from different projects, investigations and test
  * Open S.T.E.A.M. initiative (PDFs): <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM.pdf" target="_blank">En</a>, <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM_bg.pdf" target="_blank">Bg</a>  
 
 Updated by ChRadev on 15.12.2025
-
