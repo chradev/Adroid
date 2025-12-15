@@ -206,7 +206,7 @@ Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="31%"height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/camera-imx519.webp?raw=true" width="31%"height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RPi-AI-Camera.png?raw=true" width="31%"height="auto" > <br>
-                                             up to 2x 8/16/64MP or AI RPi cammeras (different options) <br>
+                                             up to 2x RPi 8/16/64MP or AI cammeras (different options) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ArducamMultiCaneraSolution.jpg?raw=true" width="98%"height="auto" > <br>
                                              up to 2x Synchronized Quad-Camera hats with up to 8 cammeras <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="48%"height="auto" >
@@ -216,13 +216,13 @@ Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/HDMI-Monitor.jpg?raw=true" width="37%" height="auto" > <br>
                                              Pico Projector or Desktop Monitor (not includded)
                                             </th>
-<th width="18%" style="text-align: center;vertical-align: top;"> Nvidia Jetson (Orin) Nano Dev Kit <br> (Single SBC & Linux) <br>
+<th width="18%" style="text-align: center;vertical-align: top;"> Nvidia Jetson (Orin) Nano (Super) Dev Kit <br> (SOM & Carrier board & NVMe SSD & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/NvidiaJetsonOrinNano.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="31%"height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/camera-imx519.webp?raw=true" width="31%"height="auto" >
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/SK-NVME-512G-SSD.jpg?raw=true" width="31%"height="auto" > <br>
-                                             up to 2x 8/16/64MP or AI RPi cammeras (different options) <br>
-                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/NvidiaJetsonOrinNanoAdd-2.png?raw=true" width="100%" height="auto" > <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/RPi-AI-Camera.png?raw=true" width="31%"height="auto" > <br>
+                                             up to 2x RPi 8/16/64MP or AI cammeras (different options) <br>
+                                             <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ArducamMultiCaneraSolution.jpg?raw=true" width="98%"height="auto" > <br>
                                              up to 2x Synchronized Quad-Camera hats with up to 8 cammeras <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-5-touch-h.jpg?raw=true" width="48%"height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ips-lcd-7-touch-h.jpg?raw=true" width="48%"height="auto" > <br>
