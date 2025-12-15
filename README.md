@@ -118,7 +118,7 @@ Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory
     <td style="text-align: end;" > Main computer hardware </td>
     <td style="text-align: center;" > Seeed Studio XIAO ESP32S3 Sense module </td>
     <td style="text-align: center;" colspan="2" > RPi 5 4/8/16GB RAM SBC, active cooling, Gen 2/3 PCIe to 2x M.2 hat, up to 2x NVMe SSD, Hailo 8/8L or other AI M.2 accelerator module (optional) </td>
-    <td style="text-align: center;" >Nvidia Jetson (Orin) Nano Dev Kit, Gen 3 NVMe SSD</td></tr>
+    <td style="text-align: center;" >Nvidia Jetson Orin Nano Super Dev Kit, Gen 3 NVMe SSD</td></tr>
 <tr >
     <td style="text-align: end;" > Main computer software </td>
     <td style="text-align: center;" > Free RTOS, C/C++ </td>
@@ -216,7 +216,7 @@ Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/HDMI-Monitor.jpg?raw=true" width="37%" height="auto" > <br>
                                              Pico Projector or Desktop Monitor (not includded)
                                             </th>
-<th width="18%" style="text-align: center;vertical-align: top;"> Nvidia Jetson (Orin) Nano (Super) Dev Kit <br> (SOM & Carrier board & NVMe SSD & Linux) <br>
+<th width="18%" style="text-align: center;vertical-align: top;"> Nvidia Jetson Orin Nano Super Dev Kit <br> (SOM & Carrier board & NVMe SSD & Linux) <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/NvidiaJetsonOrinNano.png?raw=true" width="100%" height="auto" > <br>
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/pi5-imx219-camera.webp?raw=true" width="31%"height="auto" >
                                              <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/camera-imx519.webp?raw=true" width="31%"height="auto" >
