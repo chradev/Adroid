@@ -420,11 +420,19 @@ Van Hunter Adams' algorithm for the RPi Pico PIO is downloaded, built and tested
 
 [IMG_1380.webm](https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b)
 
+<video controls playsinline autoplay loop muted width="100%">
+    <source src="https://github.com/user-attachments/assets/fc1d304b-d6ce-423e-b7e3-0300df6fe03b" type="video/webm">
+</video>
+
 ##### Dual camera streaming server with ePTZ control
 
 The next video is a compilation of a user interface based Web Sockets and remote terminals running corresponding server staff and shows the real time ePTZ control of both cameras. In addition, the almost real time video streaming and its low latency are observable thanks to embedded and synchronized clocks running at both server and user ends.
 
 https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c
+
+<video controls playsinline autoplay loop muted width="100%">
+    <source src="https://github.com/chradev/pi-h264-to-browser-streamer/assets/11261306/cbac77e0-3cdb-4b67-8a05-6e53c996912c" type="video/mp4">
+</video>
 
 #### 3D printed unified details and wide mount variant with own wheel design
 
