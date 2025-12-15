@@ -1,31 +1,31 @@
 ## Adroid
 
-<a href="https://github.com/chradev/Adroid" target="_blank">Adroid</a> is proposed as an open S.T.E.A.M. platform and a process for building educational aids like robots following the Open Source movement in all its aspects, including but not limited to the ideas, algorithms, internal and external design, mechanical, electronic, and software staff. It is intended to include latest science, technology, and art achievements with a special respect to ***"Learn by Doing"*** and ***"Teach by Learning"*** principles, appropriate for any person's age, interests, and profession.
+<a href="https://github.com/chradev/Adroid" target="_blank">Adroid</a> is proposed as an open S.T.E.A.M. platform and a process for building educational aids like robots following the Open Source movement in all its aspects, including but not limited to the ideas, algorithms, internal and external design, mechanical, electronic, and software staff. It is intended to include latest science, technology, and art achievements with a special respect to ***"Do it by mind, heart, and hands; learn by doing and teach by learning!"*** principles or simply ***"Learn by Doing!"***, appropriate for any person's age, interests, and profession.
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ProtoDesk-07.png?raw=true" width="100%" align="center" alt="Adroid robots" title="&shy;&#8197;       the Small, the Tall, the Wide, the Smart &#013;      Малкият, Високият, Широкият, Умният &#013;(Дребосъкът, Дангалакът, Дебелакът, Добрякът)">
 
-#### <p align=center>Adroid the project is all about "Learn by Doing" and "Teach by Learning",<br>which aim to perfect your brain and hands using the latest science, technology, and art achievements.</p>
+#### <p align=center>Adroid the project, is all about "Do it by mind, heart, and hands; learn by doing and teach by learning!"<br>whose mission is to perfect your brain and hands using the latest science, technology, and art achievements.</p>
 
 Adroid is not only a platform but it is also a continuous process intended to accumulate all gained knowledge and experience by all participants in S.T.E.A.M. the educational processes using it. A special relational multi-dimensional knowledge base and tools will be created and updated continuously to help the learning and teaching processes. On the other hand Adroid can be used by artists, scientists and engineers to reach better results faster.
 
-## "Learn by Doing" and "Teach by Learning"
+## Learn by Doing!
 
-The Open S.T.E.A.M. is an idea directly related to a platform for multidisciplinary projects in scope, with the only possible process being the learning through the active participation of the parties in their implementation. In this line of thought, the parties targeted in the process are equal in terms of rights and obligations, with often changing roles as students and teachers.
+Open S.T.E.A.M. is an idea directly related to a platform for multidisciplinary projects, the scope of which is the best possible learning process through the active participation of the parties in their implementation. In this line of thought, the parties to whom the process is directed are equal in terms of rights and obligations, often changing their roles as students and teachers.
 
 Therefore, the following topics are outlined in the Adroid project as a beginning:
 
-* Development of AI based "Learn by Doing" S.T.E.A.M. process, knowledge base and instrumentation,
-* Speech synthesis and recognition for human like communicating robots optionally based on AI,
-* Emotional behavior through animation on the built-in robot display optionally based on AI,
-* Active Ball Joint Mechanism incl. 3D absolute positioning system for head movement,
-* Distributed, multi-process/thread/core control system based on uROS and ROS 2,
-* Advanced stereo and panorama robot vision system with low latency and ePTZ,
-* Body transformation based on a set of strength and positioning sensors,
-* Development of liquid multi-color jet system for painting robots,
-* Migration from RP2040 to RP2350A(B) MCUs etc.
+* Development of AI-based open S.T.E.A.M. process and comprehensive toolkit to learn and teach by doing;
+* Stereo and panoramic robot vision, including AI-based object detection, recognition and following;
+* Speech synthesis and recognition for human-like communicating robots, optionally based on AI;
+* Emotional behavior through animation on the built-in robot display optionally based on AI;
+* Active Ball Joint Mechanism incl. 3D absolute positioning system for head movement;
+* Distributed, multi-process/-core/-thread control system based on uROS and ROS 2;
+* Advanced stereo and panoramic system for streaming with low latency and ePTZ;
+* Body transformation based on a set of strength and positioning sensors;
+* Development of liquid multi-color jet system for painting robots;
+* Following the latest achievements in the sciences and technologies, etc.
 
 The above list will be updated continuously, so any new ideas are welcome.
-
 
 ## How easy is it to use AI?
 
@@ -33,7 +33,10 @@ The above list will be updated continuously, so any new ideas are welcome.
 
 Some tests were made to use the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) on Raspberry Pi 5 16GB with Debian 13 (Trixie) desktop distribution and Linux kernel ver. 6.12.47. AI Kit's M.2 module and 512GB NVMe SSD were mounted on WaveShare PCIe to 2-CHANNEL M.2 HAT+ for Raspberry Pi 5. Arducam 16MP IMX519 autofocus camera was connected to the first CSI interface, and appropriate software (libcamera2, OpenCV etc.) was installed and tested to work. A series of performance tests were also made, and a better Geekbench CPU score was found for Raspberry Pi 5 Model B Rev 1.1 vs. Rev 1.0 ([2091/891](https://browser.geekbench.com/v6/cpu/15497913) vs. [1629/793](https://browser.geekbench.com/v6/cpu/5636316)).
 
-Appropriate software and AI demo examples for the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) are installed and tested to work.
+Appropriate software and AI demo examples for the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) are installed and tested to work. The camera was directed to the high-resolution monitor of the desktop computer, where the following YouTube video clips were displayed:
+
+* <a href="https://www.youtube.com/watch?v=w_agSeXwxhU" target="_blank">Kara Swisher's discussion with Nobel laureate Geoffrey Hinton, known as one of the “godfathers of AI” for his work</a>,
+* <a href="https://www.youtube.com/watch?v=VX-Vx-aLdHg" target="_blank">National Folklore Festival for amateurs "U bre, de bre", Varna, Bulgaria, 2013 - doubles competition, second round</a>.
 
 <table style="width: 100%; height: 100%; margins: 0; padding: 0;">
   <tr style="margins: 0; padding: 0;">
@@ -52,7 +55,7 @@ It is worth noting that when using the Raspberry Pi AI Kit (HAILO 8L - 13 TOPS),
 
 #### It is easy to use Raspberry Pi AI Camera – IMX500 12MP on Raspberry Pi 5!
 
-The Raspberry Pi 12MP AI Camera (IMX500) module was installed on the second CSI interface of the same Raspberry Pi 5 16GB, appropriate configuration was set and it was tested to work. After installing of required software AI functionality was tested.
+The Raspberry Pi 12MP AI Camera (IMX500) module was installed on the second CSI interface of the same Raspberry Pi 5 16GB, appropriate configuration was set and it was tested to work. After installing of required software AI functionality was tested with the above mentioned video clips.
 
 <table style="width: 100%; height: 100%; margins: 0; padding: 0;">
   <tr style="margins: 0; padding: 0;">
@@ -84,14 +87,13 @@ Later on both Raspberry Pi AI Camera – IMX500 12MP and Raspberry Pi AI Kit (HA
   </tr>
 </table>
 
-Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory usage was 10% or 1.58 GB (316 MB and 230 MB, respectively). As a result of comparison, it can be noted that the RPi AI camera solution is 30% cheaper (84.36 € vs. 85.90 € + 33.75 €) and uses fewer CPU resources (2.5% vs. 10%), but using a standard RPi camera with a HAILO 8L AI accelerator is a more powerful and unified solution.
+Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory usage was 10% or 1.58 GB (316 MB and 230 MB, respectively). As a result of comparison, it can be noted that the RPi AI camera solution is 30% cheaper (84.36 € vs. 85.90 € + 33.75 €) and uses fewer CPU resources (2.5% vs. 10%), but using a standard RPi camera with a HAILO 8L AI accelerator is a more powerful and unified solution. Moreover, the use of dedicated AI processing units will allow for easier migration to other, much more powerful platforms.
 
-#### Comparison of AI solutions from different manufacturors
+#### <p align=right>Comparison table of AI solutions from different manufacturors</p>
 
 <img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/AI-Comparison-Table-2.png">
 
 **Note:** Prices are from <a href="https://erelement.com/" target="_blank">Erelement Bg - Electronics and robotics</a>.
-
 
 ## Adroid robots comparison tables
 
