@@ -369,7 +369,7 @@ Laser-cut and 3D-printed details require 2D and 3D CAD/CAM design skills. The de
 
 #### Adding some measurment features
 
-Adding one more RPI Pico board, a multichannel [***100 Msps Logic Analyzer***](https://github.com/gusmanb/logicanalyzer/tree/master) and/or [***500Ksps Digital Oscilloscope***](https://github.com/fhdm-dev/scoppy) can be embedded in Adroid hardware. A better performance in measurement can be reached by using RPi Pico 2 or some other board with better analog features. Logic Analyzer can be enhanced by adding [protocol analyzers](https://github.com/gusmanb/logicanalyzer/wiki/06---The-LogicAnalyzer-program#analyzing-protocols). All these features can be used for both development and learning purposes. 
+Adding one more RPI Pico board, a multichannel <a href="https://github.com/gusmanb/logicanalyzer/tree/master" target="_blank">***100 Msps Logic Analyzer***</a> and/or <a href="https://github.com/fhdm-dev/scoppy" target="_blank">***500Ksps Digital Oscilloscope***</a> can be embedded in Adroid hardware. A better performance in measurement can be reached by using RPi Pico 2 or some other board with better analog features. Logic Analyzer can be enhanced by adding <a href="https://github.com/gusmanb/logicanalyzer/wiki/06---The-LogicAnalyzer-program#analyzing-protocols" target="_blank">protocol analyzers</a>. All these features can be used for both development and learning purposes. 
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/LogicAnalyserFeature.png?raw=true" alt="RPi Pico Logic Analyzer" width="100%">
 
