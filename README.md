@@ -164,8 +164,7 @@ Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Power consumption </td>
     <td style="text-align: center;" > 10W max; 2S LiPo battery</td>
-    <td style="text-align: center;" > 15W max; 2S LiPo battery</td>
-    <td style="text-align: center;" colspan="2" > 25W max; 3S LiPo battery</td></tr>
+    <td style="text-align: center;" colspan="3" > 25W max; 3S LiPo battery</td></tr>
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Power control </td>
     <td style="text-align: center;" colspan="4" > Wireless charger and UPS like power control </td></tr>
@@ -464,4 +463,4 @@ Some of the links include staff from different projects, investigations and test
  * <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/Unified_Multicore_Low_Power_IoT_Platform.pdf" target="_blank">Unified Multicore Low Power IoT Platform (PDF)</a> 
  * Open S.T.E.A.M. initiative (PDFs): <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM.pdf" target="_blank">En</a>, <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM_bg.pdf" target="_blank">Bg</a>  
 
-Updated by ChRadev on 15.12.2025
+Updated by ChRadev on 17.12.2025
