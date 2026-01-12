@@ -91,9 +91,35 @@ Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory
 
 #### <p align=right>Performance comparison table of the AI solutions</p>
 
-<img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/AICompTable-3-1.png">
+<img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/AICompTable-1.png">
 
-**Notes:** The acceleration effect of Hailo is noticeable. The frame rate of Pi5 under PCIe Gen3 is twice as high as under PCIe Gen2.
+#### <p align=right> Benchmark of YOLOv8 AI models made by Seeed Studio team </p>
+
+YOLOv8 (You Only Look Once version 8) is the popular most YOLO series of real-time pose estimation and object detection models. It builds upon the strengths of its predecessors by introducing several advancements in speed, accuracy, and flexibility. The Raspberry AI kit, featuring a 13 TOPS neural network inference accelerator built around the Hailo-8L chip is used to accelerate inference speed of RPi 5 and CM4 boards. PCIe Gen 2 and Gen 3 speeds are used to measure performance. In addition main CPU and the NVIDIA Jetson Orin NX 16GB with built-in accelerator are also used to test the same demo. Results are published on:
+
+* <a href="https://github.com/Seeed-Projects/Benchmarking-YOLOv8-on-Raspberry-PI-reComputer-r1000-and-AIkit-Hailo-8L" target="_blank">Github project: Benchmarking-YOLOv8-on-Raspberry-PI-reComputer-r1000-and-AIkit-Hailo-8L</a>,
+* <a href="https://wiki.seeedstudio.com/benchmark_on_rpi5_and_cm4_running_yolov8s_with_rpi_ai_kit/" target="_blank">Seeed Studio wiki: Benchmark on RPi5 and CM4 running yolov8s with rpi ai kit </a>.
+
+<table style="width: 100%; height: 100%; margins: 0; padding: 0;">
+  <tr style="margins: 0; padding: 0;">
+    <td style="width: 22%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/object-detection-benchmark-1.png"></td>
+    <td style="width: 26%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/YOLOv8-object-detection-with_hailo.gif"></td>
+    <td style="width: 26%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/pose-estimation-benchmark-1.png"></td>
+    <td style="width: 26%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/YOLOv8-pose-estimation-with-hailo.gif"></td>
+  </tr>
+</table>
+
+
+**Notes:**
+
+- The acceleration effect of Hailo is noticeable;
+- The frame rate of Pi5 under PCIe Gen3 is twice as high as under PCIe Gen2;
+- The performance of CM4 after acceleration is unexpectedly good;
+- The power consumption performance of Pi5 and CM4 is excellent when accelerated by Hailo8L.
 
 #### <p align=right>Comparison table of AI solutions from different manufacturors</p>
 
