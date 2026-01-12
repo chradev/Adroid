@@ -89,11 +89,17 @@ Later on both Raspberry Pi AI Camera – IMX500 12MP and Raspberry Pi AI Kit (HA
 
 Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory usage was 10% or 1.58 GB (316 MB and 230 MB, respectively). As a result of comparison, it can be noted that the RPi AI camera solution is 30% cheaper (84.36 € vs. 85.90 € + 33.75 €) and uses fewer CPU resources (2.5% vs. 10%), but using a standard RPi camera with a HAILO 8L AI accelerator is a more powerful and unified solution. Moreover, the use of dedicated AI processing units will allow for easier migration to other, much more powerful platforms.
 
+#### <p align=right>Performance comparison table of the AI solutions</p>
+
+<img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/AICompTable-3-1.png">
+
+**Notes:** The acceleration effect of Hailo is noticeable. The frame rate of Pi5 under PCIe Gen3 is twice as high as under PCIe Gen2.
+
 #### <p align=right>Comparison table of AI solutions from different manufacturors</p>
 
 <img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/AI-Comparison-Table-2.png">
 
-**Note:** Prices are from <a href="https://erelement.com/" target="_blank">Erelement Bg - Electronics and robotics</a>.
+**Note:** The prices are taken from <a href="https://erelement.com/" target="_blank">Erelement Bg - Electronics and robotics</a>.
 
 
 ## Adroid robots comparison tables
@@ -463,4 +469,4 @@ Some of the links include staff from different projects, investigations and test
  * <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/Unified_Multicore_Low_Power_IoT_Platform.pdf" target="_blank">Unified Multicore Low Power IoT Platform (PDF)</a> 
  * Open S.T.E.A.M. initiative (PDFs): <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM.pdf" target="_blank">En</a>, <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM_bg.pdf" target="_blank">Bg</a>  
 
-Updated by ChRadev on 17.12.2025
+Updated by ChRadev on 12.1.2026
