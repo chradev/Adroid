@@ -89,6 +89,35 @@ Later on both Raspberry Pi AI Camera – IMX500 12MP and Raspberry Pi AI Kit (HA
 
 Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory usage was 10% or 1.58 GB (316 MB and 230 MB, respectively). As a result of comparison, it can be noted that the RPi AI camera solution is 30% cheaper (84.36 € vs. 85.90 € + 33.75 €) and uses fewer CPU resources (2.5% vs. 10%), but using a standard RPi camera with a HAILO 8L AI accelerator is a more powerful and unified solution. Moreover, the use of dedicated AI processing units will allow for easier migration to other, much more powerful platforms.
 
+#### HAILO AI development software
+
+It was installed and tested following development software from <a href="https://hailo.ai/" target=_blank>Hailo AI</a>:
+
+- <a href="https://github.com/hailo-ai/hailo-apps" target=_blank>Hailo Applications</a>
+- <a href="https://github.com/hailo-ai/hailo-rpi5-examples" target=_blank>Hailo Raspberry Pi 5 Examples</a>
+
+After fixing the installation problem by changing the HAILORT_PACKAGE_NAME_RPI global variable to “hailort” all staff started working fine, and the following results were observed:
+
+<table style="width: 100%; height: 100%; margins: 0; padding: 0;">
+  <tr style="margins: 0; padding: 0;">
+    <td style="width: 26.67%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/apps-detection.gif"></td>
+    <td style="width: 26.67%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/apps-pose_estimation.gif"></td>
+    <td style="width: 26.67%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/apps-instance_segmentation.gif"></td>
+    <td style="width: 20%; height: 100%; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/apps-depth.gif"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center"> Object detection: hailo-detect-simple</td>
+    <td style="text-align: center"> Pose estimation: hailo-pose</td>
+    <td style="text-align: center"> Instance segmentation: hailo-seg</td>
+    <td style="text-align: center"> Depth estimation: hailo-depth</td>
+  </tr>
+</table>
+
+
 #### Performance comparison table of tested AI solutions
 
 It was chosen to test the Raspberry Pi 5 Model B with 16 GB and an adapter with 2x M.2 PCIe slots for connecting both the NVMe SSD disk and the HAILO 8L AI co-processor. There were two candidates with PCIe switches: Gen 2 from Waveshare and Gen 3 from Seed Studio. One of the limitations is that RPi 5 PCIe Gen 3 support is experimental, and some problems encountered at installation had to be overcome by disabling MIP at boot. Linux commands and <a href="https://github.com/Seeed-Projects/Benchmarking-YOLOv8-on-Raspberry-PI-reComputer-r1000-and-AIkit-Hailo-8L" target=_blank>performance tests developed by the Seeed Studio team</a> were used to measure NVMe SSD read/write speeds and HAILO 8L performance at processing object detection and pose estimation models, and the results are summarized in the table below:
