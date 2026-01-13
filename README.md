@@ -89,11 +89,11 @@ Later on both Raspberry Pi AI Camera – IMX500 12MP and Raspberry Pi AI Kit (HA
 
 Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory usage was 10% or 1.58 GB (316 MB and 230 MB, respectively). As a result of comparison, it can be noted that the RPi AI camera solution is 30% cheaper (84.36 € vs. 85.90 € + 33.75 €) and uses fewer CPU resources (2.5% vs. 10%), but using a standard RPi camera with a HAILO 8L AI accelerator is a more powerful and unified solution. Moreover, the use of dedicated AI processing units will allow for easier migration to other, much more powerful platforms.
 
-#### <p align=right>Performance comparison table of the AI solutions</p>
+#### Performance comparison table of the AI solutions
 
 <img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/AICompTable-1.png">
 
-#### <p align=right> Benchmark of YOLOv8 AI models made by Seeed Studio team </p>
+#### Benchmark of YOLOv8 AI models made by Seeed Studio team
 
 YOLOv8 (You Only Look Once version 8) is the popular most YOLO series of real-time pose estimation and object detection models. It builds upon the strengths of its predecessors by introducing several advancements in speed, accuracy, and flexibility. The Raspberry AI kit, featuring a 13 TOPS neural network inference accelerator built around the Hailo-8L chip is used to accelerate inference speed of RPi 5 and CM4 boards. PCIe Gen 2 and Gen 3 speeds are used to measure performance. In addition main CPU and the NVIDIA Jetson Orin NX 16GB with built-in accelerator are also used to test the same demo. Results are published on:
 
@@ -121,7 +121,7 @@ YOLOv8 (You Only Look Once version 8) is the popular most YOLO series of real-ti
 - The performance of CM4 after acceleration is unexpectedly good;
 - The power consumption performance of Pi5 and CM4 is excellent when accelerated by Hailo8L.
 
-#### <p align=right>Comparison table of AI solutions from different manufacturors</p>
+#### Comparison table of AI solutions from different manufacturors
 
 <img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/AI-Comparison-Table-2.png">
 
