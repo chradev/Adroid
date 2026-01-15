@@ -91,44 +91,56 @@ Measured total CPU load was 26% (2.5% and 10.4%, respectively), and total memory
 
 #### HAILO AI development software
 
-It was installed and tested following development software from <a href="https://hailo.ai/" target=_blank>Hailo AI</a>:
+<a href="https://hailo.ai/" target=_blank>Hailo AI</a> development software and examples were installed on Raspberry Pi 5 16GB with Seeed Studio's PCIe 3.0 to 2x M.2 hat and tested with Raspberry Pi AI Kit (HAILO 8L - 13 TOPS) thanks to the following projects:
 
 - <a href="https://github.com/hailo-ai/hailo-apps" target=_blank>Hailo Applications</a>
 - <a href="https://github.com/hailo-ai/hailo-rpi5-examples" target=_blank>Hailo Raspberry Pi 5 Examples</a>
 
-After fixing the installation problem by changing the HAILORT_PACKAGE_NAME_RPI global variable to “hailort” all staff started working fine, and the following results were observed:
+After fixing the installation problem by changing the `HAILORT_PACKAGE_NAME_RPI` global variable in <a href="https://github.com/hailo-ai/hailo-apps/blob/main/hailo_apps/python/core/common/defines.py#L15" target=_blank>defines.py</a> to `hailort` all staff started working fine, and the following results were observed:
 
 <table style="width: 100%; height: 100%; margins: 0; padding: 0;">
   <tr style="margins: 0; padding: 0;">
-    <td style="width: 26.67%; height: 100%; margins: 0; padding: 0;">
-      <img src="https://www.radevs.net/chradev/Adroid/images/apps-detection.gif"></td>
-    <td style="width: 26.67%; height: 100%; margins: 0; padding: 0;">
-      <img src="https://www.radevs.net/chradev/Adroid/images/apps-pose_estimation.gif"></td>
-    <td style="width: 26.67%; height: 100%; margins: 0; padding: 0;">
-      <img src="https://www.radevs.net/chradev/Adroid/images/apps-instance_segmentation.gif"></td>
-    <td style="width: 20%; height: 100%; margins: 0; padding: 0;">
-      <img src="https://www.radevs.net/chradev/Adroid/images/apps-depth.gif"></td>
+    <td style="width: 33.3%; text-align: center; margins: 0; padding: 0;">
+      <img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/apps-detection.gif"><p>Object detection: hailo-detect-simple</p></td>
+    <td style="width: 33.3%; text-align: center; margins: 0; padding: 0;">
+      <img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/apps-pose_estimation.gif"><p>Pose estimation: hailo-pose</p></td>
+    <td style="width: 33.3%; text-align: center; margins: 0; padding: 0;">
+      <img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/apps-instance_segmentation.gif"><p>Instance segmentation: hailo-seg</p></td>
   </tr>
-  <tr>
-    <td style="text-align: center"> Object detection: hailo-detect-simple</td>
-    <td style="text-align: center"> Pose estimation: hailo-pose</td>
-    <td style="text-align: center"> Instance segmentation: hailo-seg</td>
-    <td style="text-align: center"> Depth estimation: hailo-depth</td>
+  <tr style="margins: 0; padding: 0;">
+    <td style="text-align: center; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/chart-detection.png"></td>
+    <td style="text-align: center; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/chart-pose-estimation.png"></td>
+    <td style="text-align: center; margins: 0; padding: 0;">
+      <img src="https://www.radevs.net/chradev/Adroid/images/chart-segmentation.png"></td>
   </tr>
 </table>
 
+**Notes:**
+
+- Animated pictures are taken from <a href="https://github.com/hailo-ai/hailo-apps" target=_blank>Hailo Applications</a>. Thanks for sharing.
+- Task charts are taken from <a href="https://hailo.ai/products/hailo-software/model-explorer-vision/" target=_blank>Hailo Model Explorer</a> for HAILO 8L AI processor, All Models, Original + Quantized and Batch size = 8;
 
 #### Performance comparison table of tested AI solutions
 
-It was chosen to test the Raspberry Pi 5 Model B with 16 GB and an adapter with 2x M.2 PCIe slots for connecting both the NVMe SSD disk and the HAILO 8L AI co-processor. There were two candidates with PCIe switches: Gen 2 from Waveshare and Gen 3 from Seed Studio. One of the limitations is that RPi 5 PCIe Gen 3 support is experimental, and some problems encountered at installation had to be overcome by disabling MIP at boot. Linux commands and <a href="https://github.com/Seeed-Projects/Benchmarking-YOLOv8-on-Raspberry-PI-reComputer-r1000-and-AIkit-Hailo-8L" target=_blank>performance tests developed by the Seeed Studio team</a> were used to measure NVMe SSD read/write speeds and HAILO 8L performance at processing object detection and pose estimation models, and the results are summarized in the table below:
+It was chosen to test the Raspberry Pi 5 Model B with 16 GB and an adapter with 2x M.2 PCIe slots for connecting both the NVMe SSD disk and the HAILO 8L AI co-processor. There were two candidates with PCIe switches: Gen 2 from Waveshare and Gen 3 from Seed Studio. One of the limitations is that RPi 5 PCIe Gen 3 support is experimental, and some problems encountered at installation had to be overcome by adding `dtoverlay=pciex1-compat-pi5,no-mip` in `/boot/firmware/config.txt`. Linux commands like `hdparam` and `dd`, and <a href="https://github.com/Seeed-Projects/Benchmarking-YOLOv8-on-Raspberry-PI-reComputer-r1000-and-AIkit-Hailo-8L" target=_blank>performance tests developed by the Seeed Studio team</a> were used to measure NVMe SSD read/write speeds and HAILO 8L performance at processing object detection and pose estimation models. The results are summarized in the table below:
 
 <img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/AICompTable-1.png">
 
 **Notes:**
 
-- Using a PCIe Gen 3 switch doubles the speeds of both write and buffered read operations;
-- Seeed Studio's PCIe 3.0 to 2x M.2 hat is a good choice, also keeping the GPIO header usable with its rear-mount design;
-- Unfortunately, it is more expensive because of its over-functionality and lack of alternatives.
+- Using a PCIe Gen 3 switch is a must to increase:
+ - the speeds of both write and buffered read operations for NVMe SSD disks,
+ - performance of Hailo AI accelerator modules at video streams processing;
+- Seeed Studio's PCIe 3.0 to 2x M.2 hat is a good choice because:
+ - it doubles R/W speeds over PCIe to NVMe SSD and Hailo AI modules,
+ - it keeps the GPIO header usable with its rear-mount design,
+ - it doesn't matter where the two devices are plugged in;
+- Unfortunately,
+ - Gen 3 speeds is "out of spec" and officially unsupported by Raspberry Pi,
+ - it has a problem with M.2 Interface Peripheral (MIP) compatibility on RPi 5, 
+ - it is more expensive because of its over-functionality and lack of alternatives.
 
 #### Benchmark of YOLOv8 AI models made by Seeed Studio team
 
@@ -160,7 +172,7 @@ YOLOv8 (You Only Look Once version 8) is the popular most YOLO series of real-ti
 
 #### Comparison table of AI solutions from different manufacturors
 
-<img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/AI-Comparison-Table-2.png">
+<img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/AI-Comparison-Table.png">
 
 **Note:** The prices are taken from <a href="https://erelement.com/" target="_blank">Erelement Bg - Electronics and robotics</a>.
 
@@ -361,6 +373,13 @@ Significant advantages in the new generation of MCUs are:
 </td>
 </tr></thead></table>
 
+#### Comparison table of motor candidates from different suppliers
+
+<img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/Motor-Comparison-Table.png">
+
+**Note:** The prices and product details are taken from the websites of the referred suppliers.
+
+
 ## Leading principles and selection criteria
 
 #### The core principle is ***OPENNESS***, as defined in the "Open Source" movement and expanded upon later:
@@ -532,4 +551,4 @@ Some of the links include staff from different projects, investigations and test
  * <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/Unified_Multicore_Low_Power_IoT_Platform.pdf" target="_blank">Unified Multicore Low Power IoT Platform (PDF)</a> 
  * Open S.T.E.A.M. initiative (PDFs): <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM.pdf" target="_blank">En</a>, <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM_bg.pdf" target="_blank">Bg</a>  
 
-Updated by ChRadev on 12.1.2026
+Updated by ChRadev on 15.1.2026
