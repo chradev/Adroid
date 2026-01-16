@@ -373,12 +373,68 @@ Significant advantages in the new generation of MCUs are:
 </td>
 </tr></thead></table>
 
-#### Comparison table of motor candidates from different suppliers
+#### <p style="text-align: right;">Comparison table of motor candidates from different suppliers</p>
 
 <img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/Motor-Comparison-Table.png">
 
 **Note:** The prices and product details are taken from the websites of the referred suppliers.
 
+#### Brushless direct drive PMSM servo motors as the best candidates for the robot's driving wheels and joints
+
+**Google AI:** Direct Drive PMSM Brushless Servo Motors combine the high efficiency and torque of Permanent Magnet Synchronous Motors (PMSM) with direct connection to the load, eliminating gears for precise, backlash-free motion, high reliability, and compact designs, ideal for robotics and automation needing high accuracy, fast response, and high torque at lower speeds, often featuring integrated encoders and controllers for all-in-one solutions. 
+
+<table style="border: none; width: 100%; height: 100%; margins: 0; padding: 0;">
+  <tr style="border: none; margins: 0; padding: 0;">
+    <th colspan="2" style="border: none; width: 100%; height: 100%; margins: 0; padding: 0;">
+        &nbsp;
+    </th>
+  </tr>
+  <tr style="border: none; margins: 0; padding: 0;">
+    <td style="border: none; width: 35%; height: 100%; margins: 0; padding-right: 20;">
+Waveshare's series of Direct Drive Servo Motors are all-in-one solutions based on the integrated development concept, featuring a high-reliability PMSM brushless motor with an outer rotor integrated with an encoder and servo.<br><br>All motors in the series feature:
+<br><br>
+
+<ul>
+  <li>Ultra low noise; High precision and zero-backlash</li>
+  <li>Fast response, direct drive without delay</li>
+  <li>Integrated motor and driver, compact structure and high integration</li>
+  <li>Supports multiply bus communication like LIN, UART and RS485</li>
+  <li>Supports obtaining motor feedback information through communication such as position, speed, current, error code, etc.</li>
+  <li>With Hall position detection, over-current protection, etc.</li>
+  <li>Supports electric brake</li>
+  <li>No drive mechanical friction, drive efficiency close to 99.99%</li>
+</ul>
+
+<br>
+Their multiple operating modes (like current, position, and velocity loop modes) allow to control:
+<br><br>
+
+<ul>
+  <li>motor output power by controlling the current,</li>
+  <li>the angle of the hub motor in the range of 0-360° in position loop mode,</li>
+  <li>and the rotational speed in velocity loop mode.</li>
+</ul>
+    </td>
+    <td style="border: none; width: 65%; height: 100%; margins: 0; padding: 0;">
+        <img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/DDSM400-parameters.png">
+    </td>
+  </tr>
+</table>
+
+#### <p style="text-align: right;">Selection Table of Direct Drive PMSM (Permanent Magnet Synchronous Motors) Brushless Servo Motors from <a href="https://www.waveshare.com/" target=_blank>Waveshare</a></p>
+
+| Model | Price | Size | No-load speed | Rated speed | Rated torque | Locked torque | Rated voltage | Operating voltage | Interface | Weight | Main feature and operating modes |
+| ----- | ----- | ---- | ------------- | ----------- | ------------ | ------------- | ------------- | ----------------- | --------- | -----  | -------------------------------  |
+| <a href="https://www.waveshare.com/product/robotics/motors-servos/motors/ddsm210.htm" target=_blank>DDSM210</a> | $23.99 | &#8960;74 x 20  | 210±15rpm (0.91m/s) | 98rpm  | 0.25Nm | 0.85Nm | 14.4Vdc (4S LiPo) | 11V~22Vdc | UART  | 260g    | Low Speed and High Torque;<br>Position and velocity loop modes |
+| <a href="https://www.waveshare.com/product/robotics/motors-servos/motors/ddsm115.htm" target=_blank>DDSM115</a> | $64.99 | &#8960;100 x 43 | 200±10rpm (1.05m/s) | 115rpm | 0.96Nm | 2.0Nm  | 18Vdc (5S LiPo)   | 12V~24Vdc | RS485 | 765±15g | Low Speed and High Torque;<br>Current, position and velocity loop modes |
+| <a href="https://www.waveshare.com/product/robotics/motors-servos/motors/ddsm315.htm" target=_blank>DDSM315</a> | $49.99 | &#8960;78 x 32  | 315±10rpm (1.29m/s) | 200rpm | 0.55Nm | 1.1Nm  | 18Vdc (5S LiPo)   | 12V~24Vdc | RS485 | 349±5g  | Wide Speed Range Adjustable;<br>Current, position and velocity loop modes |
+| <a href="https://www.waveshare.com/product/robotics/motors-servos/motors/ddsm400.htm" target=_blank>DDSM400</a> | $25.99 | &#8960;74 x 20  | 400±20rpm (1.55m/s) | 100rpm | 0.15Nm | 0.3Nm  | 25.2Vdc (7S LiPo) | 9V~28Vdc  | LIN   | 236g    | Wide Speed Range Adjustable;<br>Current, position and velocity loop modes |
+
+**Notes:**
+
+- `Size` (wheel diameter and width) are rounded to the nearest whole number in mm;
+- The `no-load speed` indicated in m/s is the maximal linear speed (without load);
+- The average speed of normal human walking is 1.11 - 1.39 m/s (4-5 km/h).
 
 ## Leading principles and selection criteria
 
