@@ -391,12 +391,7 @@ Waveshare's series of Direct Drive Servo Motors (DDSM) are all-in-one solutions 
 
 <table style="border: none; width: 100%; height: 100%; margins: 0; padding: 0;">
   <tr style="border: none; margins: 0; padding: 0;">
-    <th colspan="2" style="border: none; width: 100%; height: 100%; margins: 0; padding: 0;">
-        &nbsp;
-    </th>
-  </tr>
-  <tr style="border: none; margins: 0; padding: 0;">
-    <td style="border: none; width: 50%; height: 100%; margins: 0; padding-right: 20;">
+    <td style="border: none; width: 50%; height: 100%; margins: 0; padding-right: 20; background-color: white;">
 All motors in the series feature:
 <br><br>
 
@@ -421,7 +416,7 @@ Their multiple operating modes (like current, position, and velocity loop modes)
   <li>and the rotational speed in velocity loop mode.</li>
 </ul>
     </td>
-    <td style="border: none; width: 50%; height: 100%; margins: 0; padding: 0;">
+    <td style="border: none; width: 50%; height: 100%; margins: 0; padding: 0; background-color: white;">
         <img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/DDSM400-parameters.png">
     </td>
   </tr>
