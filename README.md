@@ -387,6 +387,8 @@ Significant advantages in the new generation of MCUs are:
 
 **Google AI:** Direct Drive PMSM Brushless Servo Motors combine the high efficiency and torque of Permanent Magnet Synchronous Motors (PMSM) with direct connection to the load, eliminating gears for precise, backlash-free motion, high reliability, and compact designs, ideal for robotics and automation needing high accuracy, fast response, and high torque at lower speeds, often featuring integrated encoders and controllers for all-in-one solutions. 
 
+Waveshare's series of Direct Drive Servo Motors (DDSM) are all-in-one solutions based on the integrated development concept, featuring a high-reliability PMSM brushless motor with an outer rotor integrated with an encoder and servo.
+
 <table style="border: none; width: 100%; height: 100%; margins: 0; padding: 0;">
   <tr style="border: none; margins: 0; padding: 0;">
     <th colspan="2" style="border: none; width: 100%; height: 100%; margins: 0; padding: 0;">
@@ -394,8 +396,8 @@ Significant advantages in the new generation of MCUs are:
     </th>
   </tr>
   <tr style="border: none; margins: 0; padding: 0;">
-    <td style="border: none; width: 35%; height: 100%; margins: 0; padding-right: 20;">
-Waveshare's series of Direct Drive Servo Motors are all-in-one solutions based on the integrated development concept, featuring a high-reliability PMSM brushless motor with an outer rotor integrated with an encoder and servo.<br><br>All motors in the series feature:
+    <td style="border: none; width: 50%; height: 100%; margins: 0; padding-right: 20;">
+All motors in the series feature:
 <br><br>
 
 <ul>
@@ -403,7 +405,7 @@ Waveshare's series of Direct Drive Servo Motors are all-in-one solutions based o
   <li>Fast response, direct drive without delay</li>
   <li>Integrated motor and driver, compact structure and high integration</li>
   <li>Supports multiply bus communication like LIN, UART and RS485</li>
-  <li>Supports obtaining motor feedback information through communication such as position, speed, current, error code, etc.</li>
+  <li>Feedback information through communication such as position, speed, current, error code, etc.</li>
   <li>With Hall position detection, over-current protection, etc.</li>
   <li>Supports electric brake</li>
   <li>No drive mechanical friction, drive efficiency close to 99.99%</li>
@@ -419,7 +421,7 @@ Their multiple operating modes (like current, position, and velocity loop modes)
   <li>and the rotational speed in velocity loop mode.</li>
 </ul>
     </td>
-    <td style="border: none; width: 65%; height: 100%; margins: 0; padding: 0;">
+    <td style="border: none; width: 50%; height: 100%; margins: 0; padding: 0;">
         <img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/DDSM400-parameters.png">
     </td>
   </tr>
