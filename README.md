@@ -373,9 +373,13 @@ Significant advantages in the new generation of MCUs are:
 </td>
 </tr></thead></table>
 
-#### <p style="text-align: right;">Comparison table of motor candidates from different suppliers</p>
+#### <p style="text-align: right;">Comparison table of direct drive motor candidates from different suppliers</p>
 
-<img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/Motor-Comparison-Table.png">
+<img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/Motor-Comparison-Table-1.png">
+
+#### <p style="text-align: right;">Comparison table of geared motor candidates from different suppliers</p>
+
+<img style="width: 100%;" src="https://www.radevs.net/chradev/Adroid/images/Motor-Comparison-Table-2.png">
 
 **Note:** The prices and product details are taken from the websites of the referred suppliers.
 
