@@ -422,7 +422,7 @@ Their multiple operating modes (like current, position, and velocity loop modes)
   </tr>
 </table>
 
-#### <p style="text-align: right;">Selection Table of Direct Drive PMSM (Permanent Magnet Synchronous Motors) Brushless Servo Motors from <a href="https://www.waveshare.com/" target=_blank>Waveshare</a></p>
+#### <p style="text-align: right;">Selection Table of Direct Drive PMSM (Permanent Magnet Synchronous Motors) Brushless Servo Motors from <a href="https://www.waveshare.com/product/robotics/motors-servos/motors.htm" target=_blank>Waveshare</a></p>
 
 | Model | Price | Size | No-load speed | Rated speed | Rated torque | Locked torque | Rated voltage | Operating voltage | Interface | Weight | Main feature and operating modes |
 | ----- | ----- | ---- | ------------- | ----------- | ------------ | ------------- | ------------- | ----------------- | --------- | -----  | -------------------------------  |
