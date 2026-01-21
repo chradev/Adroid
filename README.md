@@ -1,6 +1,6 @@
 ## Adroid
 
-<a href="https://github.com/chradev/Adroid" target="_blank">Adroid</a> is proposed as an open S.T.E.A.M. platform and a process for building educational aids like robots following the Open Source movement in all its aspects, including but not limited to the ideas, algorithms, internal and external design, mechanical, electronic, and software staff. It is intended to include latest science, technology, and art achievements with a special respect to ***"Do it by mind, heart, and hands; learn by doing and teach by learning!"*** principles or simply ***"Learn by Doing!"***, appropriate for any person's age, interests, and profession.
+<a href="https://chradev.github.io/Adroid/" target="_blank">Adroid</a> is proposed as an open S.T.E.A.M. platform and a process for building educational aids like robots following the Open Source movement in all its aspects, including but not limited to the ideas, algorithms, internal and external design, mechanical, electronic, and software staff. It is intended to include latest science, technology, and art achievements with a special respect to ***"Do it by mind, heart, and hands; learn by doing and teach by learning!"*** principles or simply ***"Learn by Doing!"***, appropriate for any person's age, interests, and profession.
 
 <img src="https://github.com/chradev/Adroid/blob/main/assets/configs/ProtoDesk-07.png?raw=true" width="100%" align="center" alt="Adroid robots" title="&shy;&#8197;       the Small, the Tall, the Wide, the Smart &#013;      Малкият, Високият, Широкият, Умният &#013;(Дребосъкът, Дангалакът, Дебелакът, Добрякът)">
 
@@ -26,6 +26,8 @@ Therefore, the following topics are outlined in the Adroid project as a beginnin
 * Following the latest achievements in the sciences and technologies, etc.
 
 The above list will be updated continuously, so any new ideas are welcome.
+
+<div style="page-break-after: always;"></div>
 
 ## How easy is it to use AI?
 
@@ -189,14 +191,14 @@ YOLOv8 (You Only Look Once version 8) is the popular most YOLO series of real-ti
     <th width="18%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theTall.png?raw=true" width="auto" height="240px" ></th>
     <th width="18%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theWide-02.png?raw=true" width="auto" height="240px" ></th>
     <th width="18%" style="text-align: center;"> <img src="https://github.com/chradev/Adroid/blob/main/assets/theSmart-07.png?raw=true" width="auto" height="240px" ></th></tr>
-</thead><tbody>
+</thead>
 <tr >
     <td style="text-align: end;"> Pricing </td>
     <td style="text-align: center;"> Low budget variant </td>
     <td style="text-align: center;" colspan="2" style="text-align: center;"> Advanced variants </td>
     <td style="text-align: center;">Variant with built-in AI acceleration</td></tr>
 <tr style="background-color: #fcfccc;">
-    <td style="text-align: end;" > Main computer hardware </td>
+    <td style="text-align: end;" >Main computer hardware </td>
     <td style="text-align: center;" > Seeed Studio XIAO ESP32S3 Sense module </td>
     <td style="text-align: center;" colspan="2" > RPi 5 4/8/16GB RAM SBC, active cooling, Gen 2/3 PCIe to 2x M.2 hat, up to 2x NVMe SSD, Hailo 8/8L or other AI M.2 accelerator module (optional) </td>
     <td style="text-align: center;" >Nvidia Jetson Orin Nano Super Dev Kit, Gen 3 NVMe SSD</td></tr>
@@ -249,7 +251,7 @@ YOLOv8 (You Only Look Once version 8) is the popular most YOLO series of real-ti
 <tr style="background-color: #fcfccc;">
     <td style="text-align: end;" > Power control </td>
     <td style="text-align: center;" colspan="4" > Wireless charger and UPS like power control </td></tr>
-</tbody></table>
+</table>
 
 #### Adroid robot main computer variants
 
@@ -608,4 +610,4 @@ Some of the links include staff from different projects, investigations and test
  * <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/Unified_Multicore_Low_Power_IoT_Platform.pdf" target="_blank">Unified Multicore Low Power IoT Platform (PDF)</a> 
  * Open S.T.E.A.M. initiative (PDFs): <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM.pdf" target="_blank">En</a>, <a href="https://github.com/chradev/Adroid/blob/main/assets/pdfs/OpenSTEAM_bg.pdf" target="_blank">Bg</a>  
 
-Updated by ChRadev on 15.1.2026
+Updated by ChRadev on 21.1.2026
